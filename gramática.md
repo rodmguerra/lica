@@ -99,7 +99,7 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
 
-#### 8. Orações adverbiais ".
+#### 8. Orações adverbiais.
 A partícula "a" também é usada para expressar orações adverbiais. 
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
 > * __Train parti a se du.__ O trem parte às duas.
@@ -117,49 +117,71 @@ Os determinadores de pessoa não invariáveis de gênero ou caso gramaticais, ne
 
 #### 7. Determinadores de quantidade
 Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se usados apenas quando houver uma necessidade explícita de expressar a quantidade. São usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados. 
-> * __nul__* - nenhum, ninguém, nada, zero
-> * __un__* - um, alguém, alguma coisa
-> * __unes__* - uns, mais de um
-> * __multi__* - muitos
-> * __non multi__* - poucos
-> * __tote__* - un
-> * __tote un__* - cada
-> * __tote \<numero\>__* - cada numero
+> * __nul__ - nenhum, ninguém, nada, zero
+> * __un__ - um, alguém, alguma coisa
+> * __unes__ - uns, mais de um, alguns
+> * __multi__ - muitos
+> * __non multi__ - poucos
+> * __tote__ - un
+> * __tote un__ - cada
+> * __tote #__ - cada #
 
 Exemplos
 > * __Nul human isla__* - Nenhum homem é uma ilha.
 > * __Multi tenta ma non multi sucede__ Muitos tentam mas poucos conseguem.
 
 Quando acompanham outros predicados normalmente aparecem na primeira posição, mas não é obrigatório.
-> Mi vide un puer a strata. - Eu vi um menino na rua.
-> Mi vide puer un a strata. - Eu vi um menino na rua.
+> * __Mi vide multi puer a strata.__ - Eu vi muitos meninos na rua.
+> * __Mi vide puer multi a strata.__ - Eu vi muitos meninos na rua.
 
 #### 7. Determinadores de quantidade absolutos - numerais
-Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade bem determinada. A
-> 0 - * __nul__
-> 1 - * __un__
-> 2 - * __du__
-> 3 - * __tres__
-> 4 - * __cuatre__
-> 5 - * __cincue__
-> 6 - * __sex__
-> 7 - * __septe__
-> 8 - * __octe__
-> 9 - * __nove__
+Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade bem determinada.
+> * 0 - __nul__
+> * 1 - __un__
+> * 2 - __du__
+> * 3 - __tres__
+> * 4 - __cuatre__
+> * 5 - __cincue__
+> * 6 - __sex__
+> * 7 - __septe__
+> * 8 - __octe__
+> * 9 - __nove__
 
-> 10 - * __dece__
-> 11 - * __dece un__
-> 12 - * __dece du__
-> 20 - * __du dece__
-> 30 - * __tres dece__
-> 100 - * __cente__
-> 200 - * __du cente__
-> 1 000 - * __mil__
-> 2 000 - * __du mil__
-> 1 000 - * __mil__
-> 2 000 - * __du mil__
-> 1 000 000 - __mil se du__
-> 1 000 000 000 - __mil se tres__
+> * 10 - __dece__
+> * 11 - __dece un__
+> * 12 - __dece du__
+> * 20 - __du dece__
+> * 30 - __tres dece__
+> * 100 - __cente__
+> * 200 - __du cente__
+
+> * 1 000 - __mil__
+> * 2 000 - __du mil__
+> * 1 000 - __mil__
+> * 2 000 - __du mil__
+> * 1 000 000 - __mil se du__
+> * 1 000 000 000 - __mil se tres__
+> * 1 000 x 10^# - __mil se #__
+
+Os numerais ordinais são precedidos da partícula "se"
+> * 1º - __se un__
+> * 2º - __se du__
+> * 3º - __se tres__
+> * 1 000º - __se mil__
+
+> * __Carlu se tres rege de angle__ - Carlos III reina (é o rei d') a Inglaterra.
+> * __Neil Armstrong se un ta vade a luna__ Neil Armstrong foi o primeiro a ir à lua.
+
+Os numerais fracionários são formados pela partícula "ta"
+> * 1/2 - __ta du__
+> * 3/4 - __tres ta du__
+> * 33 % - __tres dece tres ta cente__
+
+> __Nove ta cente brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
+
+#### Expressando tempo
+Normalmente os predicados dispensam a marcação de tempo, mesmo que estejamos narrando um fato no passado ou no futuro. Porém, caso seja necessário ordenar de forma mais precisa os acontencimentos, pode-se usar as partículas "ca" (no momento da narrativa"), "se va" (anterior ao momento narrado), "va" (posterior ao momento narrado).
+
 
 
 Orações relativas
