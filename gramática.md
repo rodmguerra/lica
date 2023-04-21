@@ -62,15 +62,7 @@ Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa
 > * __Pater de mi__ - Meu pai.
 > * __Mi se pater de home alte.__ - Meu pai é um homem alto. (lit: Eu sou *paternado por um homem alto) 
 
-
-#### 5. Período composto
- Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
-> El feme stude de lingua bel se insenia de sape. Eu estudo a lingua bela ensinada pelo sábio.
-
-Obs: Caso se deseje referenciar alguma palavra que não é o objeto imediatamente anterior, basta repeti-la.
-> El feme stude de lingua bel se insenia de sape, feme fili de mi. A mulher que estuda a língua ensinada pelo sábio é minha filha.
-
-#### 6. Transitivo indireto
+#### 5. Transitivo indireto
 Um predicado transitivo pode ter também um objeto indireto. Este é sempre precedido da particula "a". Os dois objetos podem ser usados um em sequência do outro, em qualquer ordem. Para evitar ambiguidade, pode-se repetir o predicado antes do segundo objeto, ou substituí-lo por um predicado transitivo direto que confira o mesmo sentido à frase.
 
 > * __Mi compra de libru a tu.__ - Comprei o livro de você.
@@ -99,12 +91,47 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
 
-#### 8. Orações adverbiais.
-A partícula "a" também é usada para expressar orações adverbiais. 
+#### 5. Período composto
+Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
+> __El feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
+
+Se desejar referenciar outra palavra que não é o objeto imediatamente anterior, basta recuperar essa palavra.
+> __El feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
+> __El feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
+
+#### 5. Conjunções
+As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
+> __Mi pensa ergo mi existe.__ Penso logo existo.
+> __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
+> __Mi stude lica e mi audi musica.__ Estudo lica e estudo música.
+> __Nos va non ta depende o nos va ta mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
+> __Mi se va stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
+
+#### 8. Locuções adverbiais.
+A partícula "a" também é usada para expressar locuções adverbiais. 
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
 > * __Train parti a se du.__ O trem parte às duas.
 
-#### 7. Determinadores de pessoa
+Locuções adverbiais podem fazer parte de um período composto adverbial.
+> __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
+> __A casu de tu va ta studa, tu va se bon de exame.__ Se você estudar, fará um bom exame.
+> __A casu de tu se va ta studa, tu se va se bon de exame.__ Se você tivesse estudado, teria feito um bom exame.
+> __Mi vive a causa de tu se va ta salva de mi.__ Estou vivo porque você me salvou.
+> __Manga super ta bon de pomo.__ Manga é melhor que maçã.
+> __Manga bon ta super de fructo.__ Manga é a melhor fruta.
+> __Manga bon ta super.__ Manga é a melhor.
+> __Pomo infer ta bon de manga.__ Maçã é pior que manga.
+> __Pomo bon ta infer de fructo.__ Maçã é a pior fruta.
+> __Manga ecual ta bon de persic.__ Manga é tão bom quanto pêssego.
+> __Mi va ta face, a casu mesmu de tu non ta vole.__ Vou fazer mesmo que você não queira.
+> __Nos va a festa, a casu de non va ta pluve.__ Vamos à festa se não chover.
+> __Vos debe ta face torta, a modu de se ta instrue de invelopa.__ Vocês devem fazer o bolo conforme as intruções do envelope.
+> __El debile a parla, a modu de nos non ta audi.__ Ele fala baixo, de modo que não ouvimos.
+> __Mi a ca, a fin de ta labora.__ Estou aqui para trabalhar.
+> __A tempu de altre dormi, nos stude.__ Enquanto outros dormem nós estudamos. 
+> __A mesura tempu va, feme super ta bel.__ A medida que o tempo passa, ela fica mais bela.
+
+#### 9. Determinadores de pessoa
 Os determinadores de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
 > * __mi__ - eu
 > * __tu__ - você
@@ -115,7 +142,7 @@ Os determinadores de pessoa não invariáveis de gênero ou caso gramaticais, ne
 > * __Mi ama tu.__ - Eu te amo.
 > * __Tu ama mi.__ - Você me ama.
 
-#### 7. Determinadores de quantidade
+#### 10. Determinadores de quantidade
 Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se usados apenas quando houver uma necessidade explícita de expressar a quantidade. São usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados. 
 > * __nul__ - nenhum, ninguém, nada, zero
 > * __un__ - um, alguém, alguma coisa
@@ -134,7 +161,7 @@ Quando acompanham outros predicados normalmente aparecem na primeira posição, 
 > * __Mi vide multi puer a strata.__ - Eu vi muitos meninos na rua.
 > * __Mi vide puer multi a strata.__ - Eu vi muitos meninos na rua.
 
-#### 7. Determinadores de quantidade absolutos - numerais
+#### 11. Determinadores de quantidade absolutos - numerais
 Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade bem determinada.
 > * 0 - __nul__
 > * 1 - __un__
@@ -178,130 +205,3 @@ Os numerais fracionários são formados pela partícula "ta"
 > * 33 % - __tres dece tres ta cente__
 
 > __Nove ta cente brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
-
-#### Expressando tempo
-Normalmente os predicados dispensam a marcação de tempo, mesmo que estejamos narrando um fato no passado ou no futuro. Porém, caso seja necessário ordenar de forma mais precisa os acontencimentos, pode-se usar as partículas "ca" (no momento da narrativa"), "se va" (anterior ao momento narrado), "va" (posterior ao momento narrado).
-
-
-
-Orações relativas
-
-Orações subordinadas
-
-Alacre = Criolo Latino Analítico
-
-
-
-Predicados.
-=> Uma sequência de predicados representam predicados intransitivos que se referem a um mesmo sujeito. A ordem não importa, podendo ser trocada por motivo de ênfase ou estilo.
-Fema ama bon => A mulher bondosa ama. (lit: A mulher ama e é boa)
-Fema bon ama => A mulher bondosa ama. (lit: A mulher ama e é boa)
-Ama bon fema => A mulher bondosa ama. (lit: A amante é boa e é mulher)
-
-=> Um predicado sucedido de "de" representa um predicado transitivo, sendo a palavra seguinte seu objeto direto. Nesse caso a ordem importa, o predicado transitivo deve ser o último da sequência.
-Fema ama de bon => A mulher ama a pessoa boa. (lit: A mulher ama o bom)
-Fema bon de ama => A mulher é boa para a pessoa que ama. (lit: A mulher é bom para o amante)
-
-=> Quando "de" é colocado após um predicado que normalmente não seria considerado um verbo em outras línguas, ele representa uma relação de posse ou genição:
-Bon can de fema => O cão bom  da mulher (é bom e é o cão é da mulher)
-Can bon de fema => Cão bondoso com a mulher (é cão e é bom com a mulher)
-
-=> Um predicado pode ser precedido pela palavra "se" invertendo agente e paciente.
-Fema bon ama de can => A mulher bondosa ama o cachorro.
-Fema bon se ama de can => A mulher bondosa é amada pelo cachorro.
-
-=> A partícula se pode ser aplicada em tese a qualquer predicado. E pode ocorrer mesmo em predicados que normalmente não são verbos em outros idiomas, nesse caso indica posse ou genição. Essa forma é bastante útil quando queremos falar do objeto possuído em vez do possuidor:
-Can => Cão
-Can de fema bon alacre => O cão da mulher boa e alegre. (Os predicados subsequentes referem-se à mulher)
-Fema se can bon alacre => O cão da mulher é bom e alegre (Os predicados subsequentes referem-se ao cão)
-Mi se can bon alacre => Meu cão é bom e alegre.
-
-Para a frase 3, a forma abaixo também é possível, mas é menos recomendável:
-	- Can de fema, can bon alacre. => O cão da mulher é bom e alegre  
-
-=> Um predicado pode ser precedido pela palavra "ta" indicando uma ideia abstrata
-Fema => é mulher
-Ta fema => ser mulher, a femininidade
-Bon => é bom
-Ta bon => ser bom, bondade
-Ama => ama
-Ta ama => amar, o amor
-
-Frases
-Ta ama bel => O amor é lindo.
-Tu pote de ta ama => Você pode amar.
-Mi vide de tu ta ama => Vejo você amar. Lit: Vejo você e vejo que é amor
-Mi vide de tu ta ama fili de tu => Vejo você amar seus filhos.
-Mi vide de home ta ama fili de home. => Vejo o homem amar os filhos dele.
-
-
-
-
-
-Toda palavra de conteúdo pode ser usada como substantivo, sendo o sujeito ou objeto de um verbo. A primeira palavra de conteudo de uma sentença é sempre o sujeito.
-
-Toda palavra de conteúdo é transformado em verbo precedendo-a de ca (imperfeito), la (perfeito), va (futuro). Não é necessário preceder a palavra de "ca" caso seja o único verbo aplicável.
-
-Mi ama tu => Eu te amo
-Mi ca ama tu = > Eu te amo.
-Home ama fema => O homem ama a mulher.
-Home ca ama fema.
-Home ca ama ca bon. => O homem ama e é bom=> O homem que ama é bom.
-
-
-Uma palavra de conteúdo posicionada a direita de um verbo, é seu objeto direto. Se precedido de "a" é seu objeto indireto.
-Home compra libru => O homem compra o livro
-Home compra a fema => O homem compra da mulher
-Home compra libru a fema => O homem compra o livro da mulher
-Home compra libru, compra a fema => O homem compra o livro da mulher
-Home compra a fema, compra libru. => O homem compra da mulher o livro.
-
-Toda palavra de conteúdo pode ser transformada em um substantivo abstrato, precedendo-o por "de".
-De ama bel => O amor é lindo.
-Mi ama de ama => Eu amo amar (ou: Eu amo o amor)
-
-
-Como qualquer palavra pode ser transformada em verbo, quando palavras que em outras línguas seriam naturalmente substantivos concretos, quando transformadas em verbo, seu objeto direto representa o seu possuidor, ou aquele que se relaciona com o substantivo.
-
-El can rodrigo.
-Rodrigo se can.
-El can stude.
-Stude se can. 
- 
-
-
-
-
-
-Fili ama ca fema => O(a) filho(a) da mulher que ama. [lit: do amante que é mulher]
-Fili ama, fili ca fema => A criança de quem ama é menina.
-
-Fi
-
-- bon = bom,    ca bon = é bom, va bon = será bom,  la bon = era bom,                     de bon = bondade
-- persona = pessoa, ca persona = é uma pessoa, va persona = será uma pessoa, la persona = era uma pessoa, de bon = ser uma pessoa
-- vive = vivo,vivente, ca vive = vive, está vivo, va vive = estará vivo, viverá, la vive = estava vivo, vivia, de vive = vida, viver
-- nul = nada, ninguém, 
-
-Persona ca bon ca debe de ama inimice persona.
-A pessoa boa deve amar o inimigo dela.
-
-De venga ca nul de bon, ca mori anima e ca venenu anima.
-A vingança nunca é boa, mata a alma e a envenena
-
-
-Alice ca comence de senti multi de fatiga de sede a junge soror Alice, de sede a ripa e nul ca se face. A vice un o du, Alice la spia libru soror ca lege, ma libru (ca soror) ca non se pinge e ca non se conversa. Alice pensa: ce se servi libru ca non se pinge e ca non se conversa?
-
-Alice comence de senti multi de fatiga de sede a junge soror Alice, de sede a ripa e nul se face. A vice un o du, Alice la spia libru soror lege, ma libru (ca soror) ca non se pinge e ca non se conversa. Alice pensa: ce se servi libru ca non se pinge e ca non se conversa?
-
-Alice começa a sentir muito cansaço de sentar com a irmã dela, de sentar na margem e nada ser feito. Uma ou duas veces Alice espiou o livro que a irmã lê, mas o livro (da irmã) não é pintado e não é conversado. Alice pensa: de que serve um livro que não é pintado e não é conversado?
-
-Alice começou a sentir-se muito cansada de sentar-se com sua irmã sobre a a margem e não ter nada para fazer. Por uma ou duas vezes, ela tinha dado uma olhada no livro que a irmã lia, mas ele não tinha figuras nem diálogos. Alice pensou: de que adianta um livro que não tem figuras nem diálogos?
-
-
-Mi la case de parla lingua angel e lingua human, ma mi ca non ama, ergo mi ca nul.
-
-
-
-
-
