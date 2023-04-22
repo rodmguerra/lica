@@ -37,26 +37,28 @@ Quando "de" é colocado após um predicado que expressa um objeto concreto, ele 
 #### 4. Inversão de agente - partícula "se". 
 Um predicado intransitivo pode ter seu agente transformado em paciente usando-se a partícula "se". Alguns predicados ganham um sentido específico quando antecedidos desta partícula.
 
-> * __Ama.__ - Aquele(a) que ama. O amante.
-> * __Se ama.__ - Aquele(a) que é amado. O amado.
+> * __ama__ - ama, o amante
+> * __se ama__ - é amado, amado
 
-> * __Stude.__ - Aquele(a) que estuda. O estudante
-> * __Se stude.__ - Aquilo que é estudado. O estudo. O objeto de estudo. 
+> * __stude__ - estuda, o estudante
+> * __se stude.__ - é estudado, o estudo
 
-> * __Cive.__ - O cidadão. 
-> * __Se cive.__ - A cidade.
+> * __face__ - faz, o fazedor
+> * __se face.__ - feito, fácil 
 
-> * __Face.__ - Faz. Aquele que faz.
-> * __Se face.__ - É um fato. É feito. É fácil. 
-
+> * __vide__ - vê, o vidente
+> * __se vide.__ - visto, a vista, visível 
+> 
+> * __nate__ - o que nasceu, o nacional, nasce
+> * __se nate__ - onde se nasce, o país, a nação
+> 
+> * __cive__ - a cidadão. 
+> * __se cive__ - a cidade.
 
 Um predicado transitivo direto também pode ter seu agente  invertido usando-se a partícula "se", o sujeito torna-se o paciente e o objeto direto torna-se o agente.
 
 > * __Fema bon ama de can.__ - A mulher bondosa ama o cachorro.
 > * __Fema bon se ama de can.__ - A mulher bondosa é amada pelo cachorro.
-
-> * __Mi cive de Sao Paulo.__ - Eu sou cidadão de São Paulo.
-> * __Sao Paulo se cive de mi.__ - São paulo é minha cidade.
 
 Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa forma é bastante útil quando queremos acresentar mais uma oração para falar do possuidor.
 
@@ -67,6 +69,11 @@ Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa
 > * __Pater de mi__ - Meu pai.
 > * __Mi se pater de home alte.__ - Meu pai é um homem alto. _(lit.: Eu sou *paternado por um homem alto)_ 
 
+> * __Mi cive de Sao Paulo.__ - Eu sou cidadão de São Paulo.
+> * __Sao Paulo se cive de mi.__ - São paulo é minha cidade.
+
+> * __Mi nate de Brasil.__ - Sou brasileiro.
+> * __Brasil se nate mi.__ - Brasil é meu país.
 #### 5. Transitivo indireto
 Um predicado transitivo pode ter também um objeto indireto. Este é sempre precedido da particula "a". Os dois objetos podem ser usados um em sequência do outro, em qualquer ordem. Para evitar ambiguidade, pode-se repetir o predicado antes do segundo objeto, ou substituí-lo por um predicado transitivo direto que confira o mesmo sentido à frase.
 
