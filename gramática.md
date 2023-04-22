@@ -310,3 +310,27 @@ Os numerais fracionários são formados pela partícula "ta"
 
 > * __Mi ca ta non lege de ta du libru__ - Ainda não li nem a metade do livro.
 > * __Nove ta cente brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
+
+
+#### 15. Resumo das partículas
+__Partículas__
+> __se__ - passiva
+> __ta__ - abstrata
+> __non__ - negativa
+> __de__ - acusativa
+> __a__ - dativa
+> __ca__ - proximal
+> __la__ - distal
+> __ja__ - perfectiva
+> __va__ - futura
+> __e__ - aditiva
+> __o__ - alternativa
+> __ma__ - adversativa
+> __ergo__ - conclusiva
+
+__Determinadores__
+> __mi__, __nos__, __tu__, __vos__ - pessoais
+> __unes__, __multi__, __non multi__, __tote__, __tote un__ - quantitativos
+> __nul__ (0), __un__ (1), __du__ (3), __tres__ (3), __cuatre__ (4)
+> __cincue__ (5), __sex__ (6), __septe__ (7), __octo__ (8), __nove__ (9)
+> __dece__ (10), __centu__ (100), __mil__ (1 000), __mil a du__ (1 000 000)
