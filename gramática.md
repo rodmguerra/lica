@@ -48,10 +48,10 @@ Um predicado intransitivo pode ter seu agente transformado em paciente usando-se
 
 > * __vide__ - vê, o vidente
 > * __se vide.__ - visto, a vista, visível 
-> 
+
 > * __nate__ - o que nasceu, o nacional, nasce
 > * __se nate__ - onde se nasce, o país, a nação
-> 
+
 > * __cive__ - a cidadão. 
 > * __se cive__ - a cidade.
 
