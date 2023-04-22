@@ -244,7 +244,7 @@ Os numerais também são determinadores de quantidade, mas diferente de grande p
 > * 2 000 - __du mil__
 > * 1 000 000 - __mil se du__
 > * 1 000 000 000 - __mil se tres__
-> * 1 000 x 10^# - __mil se #__
+> * 1 000 ✕ 10<sup>#</sup> - __mil se #__
 
 Os numerais ordinais são precedidos da partícula "se"
 > * 1º - __se un__
