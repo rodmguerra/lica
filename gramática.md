@@ -102,11 +102,11 @@ A partícula "va" modifica o predicado indicando que ele será válido após ap�
 > * __Mi non sape nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
 
 A partícula "ja" (ido) modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. A partícula "ca" reforça que o predicado é válido no tempo da narrativa.
-> * __Cavalo ja se recipe, non se debe de ta vide dente.__ - Cavalo dado não se olhas os dentes.
+> * __Cavalo ja se recipe, non se debe de ta se vide dente.__ - Cavalo dado não se olhas os dentes.
 > * __Ja preside vole de va preside a novu.__ - O ex-presidente quer ser presidente novamente.
 > * __Feme ja fede, ma ca bel.__ - Ela era feia, mas agora está bonita.
 
-Os predicados "ca", "la", "va" e "se va" também são usados para compor locuções adverbiais de tempo ou espaço.
+As partículas "ca", "la", "va" e "ja" também são usados para compor locuções adverbiais de tempo ou espaço.
 > * __a ca__ - agora, aqui
 > * __a tempu ca__ - agora
 > * __a locu ca__ - aqui
