@@ -302,8 +302,8 @@ Os numerais ordinais são precedidos da partícula "se"
 > * 1 000º - __se mil__
 
 > * __Carlu se tres rege de angle__ - Carlos III reina (é o rei d') a Inglaterra.
-> * __Neil Armstrong se un ta vade a luna__ Neil Armstrong foi o primeiro a ir à lua.
-> * __Feme la ja se ama se un de mi.__ Aquela mulher foi meu primeiro amor. 
+> * __Neil Armstrong se un ta vade a luna__ - Neil Armstrong foi o primeiro a ir à lua.
+> * __Feme la ja se ama se un de mi.__ - Aquela mulher foi meu primeiro amor. 
 Os numerais fracionários são formados pela partícula "ta"
 > * 1/2 - __ta du__
 > * 3/4 - __tres ta cuatre__
