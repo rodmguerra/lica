@@ -64,7 +64,7 @@ Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa
 > * __Mi se can de bon alacre__ - Meu cão é bom e alegre.
 
 > * __Pater de mi__ - Meu pai.
-> * __Mi se pater de home alte.__ - Meu pai é um homem alto. _(literalmente: Eu sou *paternado por um homem alto)_ 
+> * __Mi se pater de home alte.__ - Meu pai é um homem alto. _(lit.: Eu sou *paternado por um homem alto)_ 
 
 #### 5. Transitivo indireto
 Um predicado transitivo pode ter também um objeto indireto. Este é sempre precedido da particula "a". Os dois objetos podem ser usados um em sequência do outro, em qualquer ordem. Para evitar ambiguidade, pode-se repetir o predicado antes do segundo objeto, ou substituí-lo por um predicado transitivo direto que confira o mesmo sentido à frase.
@@ -85,7 +85,7 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Tu pote de ta ama.__ - => Você pode amar.
-> * __Mi vide de tu ta ama.__ - => Vejo você amar. _(literalmente: Vejo você e que é amor)_
+> * __Mi vide de tu ta ama.__ - => Vejo você amar. _(lit.: Vejo você e que é amor)_
 > * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
 
