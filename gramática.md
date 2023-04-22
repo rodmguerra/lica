@@ -28,10 +28,11 @@ Um predicado sucedido de "de" representa um predicado transitivo, sendo a palavr
 
 Quando "de" é colocado após um predicado que expressa um objeto concreto, ele adquire um significado genitivo.
 
-> * __Can de feme__ => O cão da mulher 
-> * __Bon can de feme__ => O cão bom da mulher
-> * __Pater de mi__ => Meu pai
-> * __Mi pater de bel puer.__ => Sou o pai de uma bela criança.
+> * __Can de feme__ - O cão da mulher 
+> * __Bon can de feme__ - O cão bom da mulher
+> * __Pater de mi__ - Meu pai
+> * __Mi pater de bel puer.__ - Sou o pai de uma bela criança.
+> * __Home lupu de home.__ - O homem é o lobo do homem.
 
 #### 4. Inversão de agente - partícula "se". 
 Um predicado intransitivo pode ter seu agente transformado em paciente usando-se a partícula "se". Alguns predicados ganham um sentido específico quando antecedidos desta partícula.
@@ -181,7 +182,7 @@ Locuções adverbiais podem fazer parte de um período composto adverbial.
 > * __Manga ecual ta bon de persic.__ - Manga é tão bom quanto pêssego.
 > * __Mi va ta face, a casu mesmu de tu non ta vole.__ - Vou fazer mesmo que você não queira.
 > * __Nos va a festa, a casu de non va ta pluve.__ - Vamos à festa se não chover.
-> * __Vos debe ta face torta, a modu de se ta instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
+> * __Vos debe de ta face de torta, a modu de ta se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
 > * __Home debile a parla, a modu de nos non ta audi.__ - Ele fala baixo, de modo que não ouvimos.
 > * __Mi a ca, a fin de ta labora.__ - Estou aqui para trabalhar.
 > * __A tempu de altre dormi, nos stude.__ - Enquanto outros dormem nós estudamos. 
@@ -198,6 +199,12 @@ Os determinadores de pessoa não invariáveis de gênero ou caso gramaticais, ne
 > * __Mi ama tu.__ - Eu te amo.
 > * __Tu ama mi.__ - Você me ama.
 
+Não existem determinadores de terceira pessoa, pode-se repetir o predicado caso se deseje referir novamente a ele
+> * __Puer vole de ta posede de pupa de soror de puer.__ - A menina deseja possuir a boneca de sua irmâ.
+> * __Home vide de home a specle.__ - O homem se vê no espelho.
+> * __Home vide de home altre a fenestra.__ - O homem vê outro homem pela janela.
+
+
 #### 14. Determinadores de quantidade
 Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se usados apenas quando houver uma necessidade explícita de expressar a quantidade. São usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados. 
 > * __nul__ - nenhum, ninguém, nada, zero
@@ -212,13 +219,10 @@ Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se u
 Exemplos
 > * __Nul human isla__ - Nenhum homem é uma ilha.
 > * __Multi tenta ma non multi sucede__ Muitos tentam mas poucos conseguem.
-
-Quando acompanham outros predicados normalmente aparecem na primeira posição, mas não é obrigatório.
-> * __Mi vide multi puer a strata.__ - Eu vi muitos meninos na rua.
-> * __Mi vide puer multi a strata.__ - Eu vi muitos meninos na rua.
+> * __Mi vide de multi puer a strata.__ - Eu vi muitos meninos na rua.
 
 #### 15. Determinadores de quantidade absolutos - numerais
-Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade bem determinada.
+Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade determinada.
 > * 0 - __nul__
 > * 1 - __un__
 > * 2 - __du__
@@ -254,6 +258,7 @@ Os numerais ordinais são precedidos da partícula "se"
 
 > * __Carlu se tres rege de angle__ - Carlos III reina (é o rei d') a Inglaterra.
 > * __Neil Armstrong se un ta vade a luna__ Neil Armstrong foi o primeiro a ir à lua.
+> * __Feme la se va ta se ama se un de mi.__ Aquela mulher foi meu primeiro amor.
 
 Os numerais fracionários são formados pela partícula "ta"
 > * 1/2 - __ta du__
