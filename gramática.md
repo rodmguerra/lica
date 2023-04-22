@@ -204,8 +204,8 @@ Se desejar referenciar outra palavra que não é o objeto imediatamente anterior
 > * __Feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
 > * __Feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
 
-#### 11. Conjunções
-As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
+#### 11. Coordenação - parículas "e", "o", "ma" e "ergo"
+As orações coordenadas são formadas usando-se as partículas "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
 > * __Mi pensa ergo mi existe.__ Penso logo existo.
 > * __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
 > * __Mi stude lica e mi audi musica.__ Estudo lica e estudo música.
