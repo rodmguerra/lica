@@ -134,7 +134,7 @@ Os predicados "ca", "la", "va" e "se va" também são usados para compor locuç�
 > * __Se nos ta ede.__ - Vamos comer.
 > * __Se tu ta di bon.__ - Bom dia. Tenha um bom dia.
 
-#### 15. Perguntas
+#### 9. Perguntas
 
 Usando o determinador interrogativo "ce":
 > * __Tu nate a tempu ce?__ - Quando você nasceu?
@@ -147,7 +147,7 @@ Usando o determinador interrogativo "ce":
 Perguntas de sim o não:
 > * __Tu vole a visita mi, o non?__ - Quer me visitar?
 
-#### 9. Período composto
+#### 10. Período composto
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
 > * __Feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
 
@@ -155,7 +155,7 @@ Se desejar referenciar outra palavra que não é o objeto imediatamente anterior
 > * __Feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
 > * __Feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
 
-#### 10. Conjunções
+#### 11. Conjunções
 As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
 > * __Mi pensa ergo mi existe.__ Penso logo existo.
 > * __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
@@ -163,7 +163,7 @@ As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (o
 > * __Nos va non ta depende o nos va ta mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
 > * __Mi se va stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
 
-#### 11. Locuções adverbiais
+#### 12. Locuções adverbiais
 A partícula "a" também é usada para expressar locuções adverbiais. 
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
 > * __Train parti a se du.__ O trem parte às duas.
@@ -187,7 +187,7 @@ Locuções adverbiais podem fazer parte de um período composto adverbial.
 > * __A tempu de altre dormi, nos stude.__ - Enquanto outros dormem nós estudamos. 
 > * __A mesura tempu va, feme super ta bel.__ - A medida que o tempo passa, ela fica mais bela.
 
-#### 12. Determinadores de pessoa
+#### 13. Determinadores de pessoa
 Os determinadores de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
 > * __mi__ - eu
 > * __tu__ - você
@@ -198,7 +198,7 @@ Os determinadores de pessoa não invariáveis de gênero ou caso gramaticais, ne
 > * __Mi ama tu.__ - Eu te amo.
 > * __Tu ama mi.__ - Você me ama.
 
-#### 13. Determinadores de quantidade
+#### 14. Determinadores de quantidade
 Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se usados apenas quando houver uma necessidade explícita de expressar a quantidade. São usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados. 
 > * __nul__ - nenhum, ninguém, nada, zero
 > * __un__ - um, alguém, alguma coisa
@@ -217,7 +217,7 @@ Quando acompanham outros predicados normalmente aparecem na primeira posição, 
 > * __Mi vide multi puer a strata.__ - Eu vi muitos meninos na rua.
 > * __Mi vide puer multi a strata.__ - Eu vi muitos meninos na rua.
 
-#### 14. Determinadores de quantidade absolutos - numerais
+#### 15. Determinadores de quantidade absolutos - numerais
 Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade bem determinada.
 > * 0 - __nul__
 > * 1 - __un__
