@@ -107,9 +107,9 @@ A partícula "ta" pode fazer um predicado composto unindo o sentido de dois pred
 > * __Tu sape ta nata.__ - Você sabe nadar.
 > * __Super__ - Está sobre, acima.
 > * __Infer__ - Está sob, abaixo
-> * __super ta bon __ O melhor
-> * __infer ta bel___ O menos belo.
-> * __La super ta bon de album de Beatles.__ => Aquele é o melhor álbum dos Beatles.
+> * __super ta bon__ o melhor
+> * __infer ta bel___ o menos belo
+> * __Revolver super ta bon de album de Beatles.__ => Aquele é o melhor álbum dos Beatles.
 > * __Manga bon ta super de pomo.__ - Manga é melhor que maçã.
 > * __Pomo bon ta infer de manga.__ - Maçã é pior que manga.
 > * __Manga bon ta ecual de persic.__ - Manga é tão bom quanto pêssego.
