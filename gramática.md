@@ -85,13 +85,7 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Tu pote de ta ama.__ - => Você pode amar.
-> * __Mi vide de tu ta ama.__ - => Vejo você amar. Lit: Vejo você e vejo que é amor
-> * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
-> * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
-
-Predicados abstratos podem ser usados como objetos diretos. 
-> * __Tu pote de ta ama.__ - => Você pode amar.
-> * __Mi vide de tu ta ama.__ - => Vejo você amar. Lit: Vejo você e vejo que é amor
+> * __Mi vide de tu ta ama.__ - => Vejo você amar. _(literalmente: Vejo você e que é amor)
 > * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
 
@@ -198,7 +192,7 @@ Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se u
 > * __tote #__ - cada #
 
 Exemplos
-> * __Nul human isla__* - Nenhum homem é uma ilha.
+> * __Nul human isla__ - Nenhum homem é uma ilha.
 > * __Multi tenta ma non multi sucede__ Muitos tentam mas poucos conseguem.
 
 Quando acompanham outros predicados normalmente aparecem na primeira posição, mas não é obrigatório.
