@@ -33,7 +33,7 @@ Quando "de" é colocado após um predicado que expressa um objeto concreto, ele 
 > * __Pater de mi__ => Meu pai
 > * __Mi pater de bel puer.__ => Sou o pai de uma bela criança.
 
-#### 4. Inversão de agente. - partícula "se" 
+#### 4. Inversão de agente - partícula "se". 
 Um predicado intransitivo pode ter seu agente transformado em paciente usando-se a partícula "se". Alguns predicados ganham um sentido específico quando antecedidos desta partícula.
 
 > * __Ama.__ - Aquele(a) que ama. O amante.
