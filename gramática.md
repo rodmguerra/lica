@@ -128,27 +128,40 @@ Os predicados "ca", "la", "va" e "se va" também são usados para compor locuç�
 > * __a di la__ - naquele dia
 
 #### 8. Imperativo
-> __Se tu ta stude.__ - Estude.
-> __Se tu ta ama.__ - Ame.
-> __Se vos ta human.__ - Sejam humanos.
-> __Se nos ta ede.__ - Vamos comer.
-> __Se tu ta di bon.__ - Bom dia. Tenha um bom dia.
+> * __Se tu ta stude.__ - Estude.
+> * __Se tu ta ama.__ - Ame.
+> * __Se vos ta human.__ - Sejam humanos.
+> * __Se nos ta ede.__ - Vamos comer.
+> * __Se tu ta di bon.__ - Bom dia. Tenha um bom dia.
+
+#### 15. Perguntas
+
+Usando o determinador interrogativo "ce":
+> * __Tu nate a tempu ce?__ - Quando você nasceu?
+> * __Tu a locu ce?__ - Onde você está?
+> * __Tu ce?__ - Quem é você?
+> * __Ce persona discoperi Brasil?__ - Quem descobriu o Brasil?
+> * __Tu a anu ce?__ - Você tem quantos anos?
+> * __Custa ce?__ - Quanto custa?
+
+Perguntas de sim o não:
+> * __Tu vole a visita mi, o non?__ - Quer me visitar?
 
 #### 9. Período composto
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
-> __Feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
+> * __Feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
 
 Se desejar referenciar outra palavra que não é o objeto imediatamente anterior, basta recuperar essa palavra.
-> __Feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
-> __Feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
+> * __Feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
+> * __Feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
 
 #### 10. Conjunções
 As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
-> __Mi pensa ergo mi existe.__ Penso logo existo.
-> __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
-> __Mi stude lica e mi audi musica.__ Estudo lica e estudo música.
-> __Nos va non ta depende o nos va ta mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
-> __Mi se va stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
+> * __Mi pensa ergo mi existe.__ Penso logo existo.
+> * __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
+> * __Mi stude lica e mi audi musica.__ Estudo lica e estudo música.
+> * __Nos va non ta depende o nos va ta mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
+> * __Mi se va stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
 
 #### 11. Locuções adverbiais
 A partícula "a" também é usada para expressar locuções adverbiais. 
@@ -156,23 +169,23 @@ A partícula "a" também é usada para expressar locuções adverbiais.
 > * __Train parti a se du.__ O trem parte às duas.
 
 Locuções adverbiais podem fazer parte de um período composto adverbial.
-> __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
-> __A casu de tu va ta studa, tu va ta se bon de exame.__ - Se você estudar, fará um bom exame.
-> __A casu de tu se va ta studa, tu se va ta se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
-> __Mi vive a causa de tu se va ta salva de mi.__ - Estou vivo porque você me salvou.
-> __Manga super ta bon de pomo.__ - Manga é melhor que maçã.
-> __Manga bon ta super de fructo.__ - Manga é a melhor fruta.
-> __Manga bon ta super.__ - Manga é a melhor.
-> __Pomo infer ta bon de manga.__ - Maçã é pior que manga.
-> __Pomo bon ta infer de fructo.__ - Maçã é a pior fruta.
-> __Manga ecual ta bon de persic.__ - Manga é tão bom quanto pêssego.
-> __Mi va ta face, a casu mesmu de tu non ta vole.__ - Vou fazer mesmo que você não queira.
-> __Nos va a festa, a casu de non va ta pluve.__ - Vamos à festa se não chover.
-> __Vos debe ta face torta, a modu de se ta instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
-> __Home debile a parla, a modu de nos non ta audi.__ - Ele fala baixo, de modo que não ouvimos.
-> __Mi a ca, a fin de ta labora.__ - Estou aqui para trabalhar.
-> __A tempu de altre dormi, nos stude.__ - Enquanto outros dormem nós estudamos. 
-> __A mesura tempu va, feme super ta bel.__ - A medida que o tempo passa, ela fica mais bela.
+> * __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
+> * __A casu de tu va ta studa, tu va ta se bon de exame.__ - Se você estudar, fará um bom exame.
+> * __A casu de tu se va ta studa, tu se va ta se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
+> * __Mi vive a causa de tu se va ta salva de mi.__ - Estou vivo porque você me salvou.
+> * __Manga super ta bon de pomo.__ - Manga é melhor que maçã.
+> * __Manga bon ta super de fructo.__ - Manga é a melhor fruta.
+> * __Manga bon ta super.__ - Manga é a melhor.
+> * __Pomo infer ta bon de manga.__ - Maçã é pior que manga.
+> * __Pomo bon ta infer de fructo.__ - Maçã é a pior fruta.
+> * __Manga ecual ta bon de persic.__ - Manga é tão bom quanto pêssego.
+> * __Mi va ta face, a casu mesmu de tu non ta vole.__ - Vou fazer mesmo que você não queira.
+> * __Nos va a festa, a casu de non va ta pluve.__ - Vamos à festa se não chover.
+> * __Vos debe ta face torta, a modu de se ta instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
+> * __Home debile a parla, a modu de nos non ta audi.__ - Ele fala baixo, de modo que não ouvimos.
+> * __Mi a ca, a fin de ta labora.__ - Estou aqui para trabalhar.
+> * __A tempu de altre dormi, nos stude.__ - Enquanto outros dormem nós estudamos. 
+> * __A mesura tempu va, feme super ta bel.__ - A medida que o tempo passa, ela fica mais bela.
 
 #### 12. Determinadores de pessoa
 Os determinadores de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
@@ -247,21 +260,5 @@ Os numerais fracionários são formados pela partícula "ta"
 > * 3/4 - __tres ta du__
 > * 33 % - __tres dece tres ta cente__
 
-> __Mi ca ta non lege de ta du libru__ - Ainda não li nem a metade do livro.
-> __Nove ta cente brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
-
-#### 15. Perguntas
-
-Usando o determinador interrogativo "ce":
-> __Tu nate a tempu ce?__ - Quando você nasceu?
-> __Tu a locu ce?__ - Onde você está?
-> __Tu ce?__ - Quem é você?
-> __Ce persona discoperi Brasil?__ - Quem descobriu o Brasil?
-> __Tu a anu ce?__ - Você tem quantos anos?
-> __Custa ce?__ - Quanto custa?
-
-Perguntas de sim o não:
->__Tu vole a visita mi, o non?__ - Quer me visitar?
-
-
-
+> * __Mi ca ta non lege de ta du libru__ - Ainda não li nem a metade do livro.
+> * __Nove ta cente brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
