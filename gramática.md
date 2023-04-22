@@ -98,20 +98,22 @@ Predicados abstratos podem ser usados como objetos diretos.
 #### 7. Tempo gramatical
 Os predicados não possuem flexão de tempo. Não é necessário explicitar o tempo verbal, mesmo que a narrativa não seja no presente. Mas existem predicados que podem ser compostos com a partícula "ta" para tornar mais explícita a relação de tempo entre os fatos narrados. 
 
-O predicado "va" (vai) é usado para indicar fatos que ocorrerão após o tempo da narrativa.
-> * __Mi non sape ta nata, ma mi va ta aprende.__ - Não sei nadar mas vou aprender.
+A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
+> * __Mi non sape nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
 
-O predicado "se va" (ido) é usado para indicar fatos que ocorreram no passado mas não valem mais no tempo narrado. O predicado "ca" é usado para indicar fatos que ocorrem no tempo da narrativa.
-> * __Feme se va ta fede, ma ca ta bel.__ - Ela era feia, mas agora está bonita.
+A partícula "ja" (ido) modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. A partícula "ca" reforça que o predicado é válido no tempo da narrativa.
+> * __Cavalo ja se recipe, non se debe de ta vide dente.__ - Cavalo dado não se olhas os dentes.
+> * __Ja preside vole de va preside a novu.__ - O ex-presidente quer ser presidente novamente.
+> * __Feme ja fede, ma ca bel.__ - Ela era feia, mas agora está bonita.
 
 Os predicados "ca", "la", "va" e "se va" também são usados para compor locuções adverbiais de tempo ou espaço.
 > * __a ca__ - agora, aqui
 > * __a tempu ca__ - agora
 > * __a locu ca__ - aqui
  
-> * __a se va__ - no passado, atrás
-> * __a tempu se va__ - no passado
-> * __a locu se va__ - atrás
+> * __a ja__ - no passado, atrás
+> * __a tempu ja__ - no passado
+> * __a locu ja__ - atrás
 
 > * __a va__ - no futuro, em frente
 > * __a tempu va__ - no futuro
@@ -122,8 +124,8 @@ Os predicados "ca", "la", "va" e "se va" também são usados para compor locuç�
 > * __a locu la__ - lá
  
 > * __a di ca__ - hoje
-> * __a di se va__ - ontem
-> * __a di se va se du__ - anteontem
+> * __a di ja__ - ontem
+> * __a di ja se du__ - anteontem
 > * __a di va__ - amanhã
 > * __a di va se tres__ - daqui a três dias
 > * __a di la__ - naquele dia
@@ -258,8 +260,7 @@ Os numerais ordinais são precedidos da partícula "se"
 
 > * __Carlu se tres rege de angle__ - Carlos III reina (é o rei d') a Inglaterra.
 > * __Neil Armstrong se un ta vade a luna__ Neil Armstrong foi o primeiro a ir à lua.
-> * __Feme la se va ta se ama se un de mi.__ Aquela mulher foi meu primeiro amor.
-
+> * __Feme la ja se ama se un de mi.__ Aquela mulher foi meu primeiro amor. 
 Os numerais fracionários são formados pela partícula "ta"
 > * 1/2 - __ta du__
 > * 3/4 - __tres ta cuatre__
