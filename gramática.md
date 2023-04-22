@@ -89,22 +89,59 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 > * __Ta ama bel__ - O amor é lindo.
 > * __Ta vive non se face__ - A vida não é fácil.
 
+A partícula "ta" pode fazer um predicado composto unindo o sentido de dois predicados:
+> * __Feme bon ta dance.__ - Mulher que dança bem. Boa dançarina.
+> * __Home mal ta scribe.__ - Homem que escreve mal. Um escritor ruim.
+> * __Pelé exele ta joca de futbol__ - Pelé é um excelente jogador de futebol.
+> * __Tu pote ta ama.__ - Você pode amar.
+> * __Tu debe ta ama.__ - Você deve amar.
+> * __Tu sape ta nata.__ - Você sabe nadar.
+> * __Super__ - Está sobre, acima.
+> * __Infer__ - Está sob, abaixo
+> * __Bon.__ => O melhor
+> * __Infer ta bel.__ => O menos belo.
+> * __La super ta bon de album de Beatles.__ => Aquele é o melhor álbum dos Beatles.
+> * __Manga bon ta super de pomo.__ - Manga é melhor que maçã.
+> * __Pomo bon ta infer de manga.__ - Maçã é pior que manga.
+> * __Manga bon ta ecual de persic.__ - Manga é tão bom quanto pêssego.
+> * __Manga super ta bon fructo.__ - Manga é a melhor fruta.
+> * __Pomo infer ta bon fructo.__ - Maçã é a pior fruta.
+
+Alguns predicados compostos com "ta":
+> * __se pote__ - possível
+> * __non se pote__ - impossível
+> * __se pote ta lege__ - legível
+> * __non se pote ta fali__ - infalível
+> * __non se pote ta intelige__ - ininteligível, incompreensível 
+
+> * __se face__ - fácil
+> * __non se face__ - difícil
+> * __non se face ta usa__ - difícil de se usar
+> * __novu ta lege - relê, lê novamente
+> * __se pote ta novu ta usa - reutilizável
+
 Predicados abstratos podem ser usados como objetos diretos. 
-> * __Tu pote de ta ama.__ - => Você pode amar.
-> * __Mi vide de tu ta ama.__ - => Vejo você amar. _(lit.: Vejo você e que é amor)_
+> * __Mi vide de tu.__ - Vejo você.
+> * __Mi vide de ta ama.__ - Vejo o amor.
+> * __Mi vide de tu ta ama.__ - Vejo você amar.
 > * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
 
 #### 7. Tempo gramatical
-Os predicados não possuem flexão de tempo. Não é necessário explicitar o tempo verbal, mesmo que a narrativa não seja no presente. Mas existem predicados que podem ser compostos com a partícula "ta" para tornar mais explícita a relação de tempo entre os fatos narrados. 
+Os predicados não especificam o tempo em que as ações ocorreram, isso pode ser feito com locuções adverbiais de tempo. No entanto, existem partículas que indicam se o predicado é válido no tempo exato da narrativa (ca), antes do tempo da narrativa (ja) e após o tempo da narrativa (va). 
 
-A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
-> * __Mi non sape nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
-
-A partícula "ja" (ido) modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. A partícula "ca" reforça que o predicado é válido no tempo da narrativa.
+A partícula "ja" (ido) modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. 
+> * __Libru ja se lege se guarda de armari.__ O livro, que já foi lido, está guardado no armário.
 > * __Cavalu ja se da, dente non se debe de ta vide.__ - Cavalo dado não se olha os dentes.
 > * __Ja preside vole de va preside a novu.__ - O ex-presidente quer ser presidente novamente.
-> * __Feme ja fede, ma ca bel.__ - Ela era feia, mas agora está bonita.
+
+A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
+> * __Home va mori.__ O moribundo. O homem vai morrer.
+> * __Mi non sape nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
+
+A partícula "ca" reforça que o ato está acontecendo no exato momento. Ou é usado para destacar a diferença de tempo quando há outra partícula de tempo aplicada a outro predicado.
+> * __A se tu silente! Mi ca lege.__ Silêncio! Estou lendo.
+> * __Feme ja fede ma ca bel.__ - Ela era feia, mas agora está bonita.
 
 As partículas "ca", "la", "va" e "ja" também são usados para compor locuções adverbiais de tempo ou espaço.
 > * __a ca__ - agora, aqui
@@ -169,19 +206,16 @@ As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (o
 #### 12. Locuções adverbiais
 A partícula "a" também é usada para expressar locuções adverbiais. 
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
+> * __Mi guarda de libro a (inter de) capsa.__ Eu guardo o livro dentro da caixa.
 > * __Train parti a se du.__ O trem parte às duas.
+> * __Libru a (super de) tabla.__ O livro está em cima da mesa.
+> * __Se calce a infer de tabla.__ O sapato está em baixo da mesa.
 
 Locuções adverbiais podem fazer parte de um período composto adverbial.
 > * __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
 > * __A casu de tu va ta studa, tu va ta se bon de exame.__ - Se você estudar, fará um bom exame.
 > * __A casu de tu se va ta studa, tu se va ta se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
 > * __Mi vive a causa de tu se va ta salva de mi.__ - Estou vivo porque você me salvou.
-> * __Manga super ta bon de pomo.__ - Manga é melhor que maçã.
-> * __Manga bon ta super de fructo.__ - Manga é a melhor fruta.
-> * __Manga bon ta super.__ - Manga é a melhor.
-> * __Pomo infer ta bon de manga.__ - Maçã é pior que manga.
-> * __Pomo bon ta infer de fructo.__ - Maçã é a pior fruta.
-> * __Manga ecual ta bon de persic.__ - Manga é tão bom quanto pêssego.
 > * __Mi va ta face, a casu mesmu de tu non ta vole.__ - Vou fazer mesmo que você não queira.
 > * __Nos va a festa, a casu de non va ta pluve.__ - Vamos à festa se não chover.
 > * __Vos debe de ta face de torta, a modu de ta se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
