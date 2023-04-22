@@ -283,8 +283,8 @@ Os numerais também são determinadores de quantidade, mas diferente de grande p
 > * 12 - __dece du__
 > * 20 - __du dece__
 > * 30 - __tres dece__
-> * 100 - __cente__
-> * 200 - __du cente__
+> * 100 - __centu__
+> * 200 - __du centu__
 
 > * 1 000 - __mil__
 > * 2 000 - __du mil__
@@ -306,10 +306,10 @@ Os numerais ordinais são precedidos da partícula "se"
 Os numerais fracionários são formados pela partícula "ta"
 > * 1/2 - __ta du__
 > * 3/4 - __tres ta cuatre__
-> * 33 % - __tres dece tres ta cente__
+> * 33 % - __tres dece tres ta centu__
 
 > * __Mi ca ta non lege de ta du libru__ - Ainda não li nem a metade do livro.
-> * __Nove ta cente brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
+> * __Nove dece ta centu brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
 
 
 #### 15. Resumo
