@@ -96,46 +96,46 @@ O predicado "va" (vai) é usado para indicar fatos que ocorrerão após o tempo 
 > * __Mi non sape ta nata, ma mi va ta aprende.__ - Não sei nadar mas vou aprender.
 
 O predicado "se va" (ido) é usado para indicar fatos que ocorreram no passado mas não valem mais no tempo narrado. O predicado "ca" é usado para indicar fatos que ocorrem no tempo da narrativa.
-> * __Feme se va ta fede, ma ca ta bel.__ Ela era feia, mas agora está bonita.
+> * __Feme se va ta fede, ma ca ta bel.__ - Ela era feia, mas agora está bonita.
 
 Os predicados "ca", "la", "va" e "se va" também são usados para compor locuções adverbiais de tempo ou espaço.
-> * __a ca__ agora, aqui
-> * __a tempu ca__ agora
-> * __a locu ca__ aqui
+> * __a ca__ - agora, aqui
+> * __a tempu ca__ - agora
+> * __a locu ca__ - aqui
  
-> * __a se va__ no passado, atrás
-> * __a tempu se va__ no passado
-> * __a locu se va__ atrás
+> * __a se va__ - no passado, atrás
+> * __a tempu se va__ - no passado
+> * __a locu se va__ - atrás
 
-> * __a va__ no futuro, em frente
-> * __a tempu va__ no futuro
-> * __a locu va__ em frente
+> * __a va__ - no futuro, em frente
+> * __a tempu va__ - no futuro
+> * __a locu va__ - em frente
 
-> * __a la__ então, naquele tempo; lá, naquele lugar
-> * __a tempu la__ naquele tempo, então
-> * __a locu la__ lá
+> * __a la__ - então, naquele tempo; lá, naquele lugar
+> * __a tempu la__ - naquele tempo, então
+> * __a locu la__ - lá
  
-> * __a di ca__ hoje
-> * __a di se va__ ontem
-> * __a di se va se du__ anteontem
-> * __a di va__ amanhã
-> * __a di va se tres__ daqui a três dias
-> * __a di la__ naquele dia
+> * __a di ca__ - hoje
+> * __a di se va__ - ontem
+> * __a di se va se du__ - anteontem
+> * __a di va__ - amanhã
+> * __a di va se tres__ - daqui a três dias
+> * __a di la__ - naquele dia
 
 #### 8. Imperativo
-- Se tu a stude. - Estude.
-- Se tu a ama. - Ame.
-- Se tu a human. - Seja humano.
-- Se nos a ede. - Vamos comer.
-- Se tu di bon. - Bom dia. Tenha um bom dia.
+> __Se tu a stude.__ - Estude.
+> __Se tu a ama.__ - Ame.
+> __Se tu a human.__ - Seja humano.
+> __Se nos a ede.__ - Vamos comer.
+> __Se tu di bon.__ - Bom dia. Tenha um bom dia.
 
 #### 9. Período composto
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
-> __El feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
+> __Feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
 
 Se desejar referenciar outra palavra que não é o objeto imediatamente anterior, basta recuperar essa palavra.
-> __El feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
-> __El feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
+> __Feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
+> __Feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
 
 #### 10. Conjunções
 As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
@@ -152,22 +152,22 @@ A partícula "a" também é usada para expressar locuções adverbiais.
 
 Locuções adverbiais podem fazer parte de um período composto adverbial.
 > __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
-> __A casu de tu va ta studa, tu va ta se bon de exame.__ Se você estudar, fará um bom exame.
-> __A casu de tu se va ta studa, tu se va ta se bon de exame.__ Se você tivesse estudado, teria feito um bom exame.
-> __Mi vive a causa de tu se va ta salva de mi.__ Estou vivo porque você me salvou.
-> __Manga super ta bon de pomo.__ Manga é melhor que maçã.
-> __Manga bon ta super de fructo.__ Manga é a melhor fruta.
-> __Manga bon ta super.__ Manga é a melhor.
-> __Pomo infer ta bon de manga.__ Maçã é pior que manga.
-> __Pomo bon ta infer de fructo.__ Maçã é a pior fruta.
-> __Manga ecual ta bon de persic.__ Manga é tão bom quanto pêssego.
-> __Mi va ta face, a casu mesmu de tu non ta vole.__ Vou fazer mesmo que você não queira.
-> __Nos va a festa, a casu de non va ta pluve.__ Vamos à festa se não chover.
-> __Vos debe ta face torta, a modu de se ta instrue de invelopa.__ Vocês devem fazer o bolo conforme as intruções do envelope.
-> __El debile a parla, a modu de nos non ta audi.__ Ele fala baixo, de modo que não ouvimos.
-> __Mi a ca, a fin de ta labora.__ Estou aqui para trabalhar.
-> __A tempu de altre dormi, nos stude.__ Enquanto outros dormem nós estudamos. 
-> __A mesura tempu va, feme super ta bel.__ A medida que o tempo passa, ela fica mais bela.
+> __A casu de tu va ta studa, tu va ta se bon de exame.__ - Se você estudar, fará um bom exame.
+> __A casu de tu se va ta studa, tu se va ta se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
+> __Mi vive a causa de tu se va ta salva de mi.__ - Estou vivo porque você me salvou.
+> __Manga super ta bon de pomo.__ - Manga é melhor que maçã.
+> __Manga bon ta super de fructo.__ - Manga é a melhor fruta.
+> __Manga bon ta super.__ - Manga é a melhor.
+> __Pomo infer ta bon de manga.__ - Maçã é pior que manga.
+> __Pomo bon ta infer de fructo.__ - Maçã é a pior fruta.
+> __Manga ecual ta bon de persic.__ - Manga é tão bom quanto pêssego.
+> __Mi va ta face, a casu mesmu de tu non ta vole.__ - Vou fazer mesmo que você não queira.
+> __Nos va a festa, a casu de non va ta pluve.__ - Vamos à festa se não chover.
+> __Vos debe ta face torta, a modu de se ta instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
+> __Home debile a parla, a modu de nos non ta audi.__ - Ele fala baixo, de modo que não ouvimos.
+> __Mi a ca, a fin de ta labora.__ - Estou aqui para trabalhar.
+> __A tempu de altre dormi, nos stude.__ - Enquanto outros dormem nós estudamos. 
+> __A mesura tempu va, feme super ta bel.__ - A medida que o tempo passa, ela fica mais bela.
 
 #### 12. Determinadores de pessoa
 Os determinadores de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
