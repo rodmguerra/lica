@@ -1,4 +1,4 @@
-# Predicados
+# Gramática de Lica
 
 #### 1. Predicado
 Toda palavra que é usada para descrever algo é considerado um predicado.
