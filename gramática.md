@@ -1,7 +1,7 @@
 # Gramática de Lica
 
 #### 1. Predicado
-Toda palavra que é usada para descrever algo é considerado um predicado.
+Toda palavra que é usada para descrever algo é considerado um predicado. Os predicados não flexionam, nem apresentam número, gênero ou tempo verbal. 
 
 >  * __home__ - é um homem
 >  * __feme__ - é uma mulher
@@ -9,22 +9,23 @@ Toda palavra que é usada para descrever algo é considerado um predicado.
 >  * __ama__ - ama
 >  * __stude__ - estuda
 
+Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos, e relações temporais entre predicados podem ser marcados com locuções adverbiais ou partículas, que veremos em breve.
+
 #### 2. Intransitivo
 Predicados em sequência, desde que não tenham objeto direto ou indireto, podem ser colocados em qualquer ordem, ficando a critério do falante e se dá por questões de preferência, ênfase ou estilo.
+> * __Puer stude.__ A criança está estudando. _(lit.: É criança e estuda.)_
+> * __Feme ama bon. Feme bon ama. Ama bon feme.__ - A mulher bondosa ama. _(lit.: É mulher, ama e é boa)_
 
-> * __Feme ama bon.__ - A mulher bondosa ama. _(lit.: É mulher, ama e é boa)_
-> * __Feme bon ama.__ - A mulher bondosa ama. _(lit.: É mulher, é boa e ama)_
-> * __Ama bon feme.__  - A mulher bondosa ama. _(lit.: Ama, é boa e é mulher)_
-
-Predicados podem ser negados precedendo-os da partícula "non"
+Predicados podem ser negados precedendo-os da partícula "non":
+> * __Puer non stude.__ A criança não está estudando. _(lit.: É criança e não estuda.)_
 > * __Feme non bon non ama.__ - A mulher, que não é bondosa, não ama. _(lit.: É mulher, não é boa e não ama)_
 	
 #### 3. Transitivo direto
 Um predicado sucedido de "de" representa um predicado transitivo, sendo a palavra seguinte seu objeto direto. Nesse caso a ordem importa, o predicado transitivo deve ser o último.
 
+> * __Mi ama de tu__ - Eu te amo.
 > * __Feme bon ama de home__ - A mulher bondosa ama o homem.
 > * __Feme ama bon de home__ - A mulher que ama é boa para o homem.
-> * __Mi ama de tu__ - Eu te amo.
 
 Quando "de" é colocado após um predicado que expressa um objeto concreto, ele adquire um significado genitivo.
 
@@ -106,8 +107,8 @@ A partícula "ta" pode fazer um predicado composto unindo o sentido de dois pred
 > * __Tu sape ta nata.__ - Você sabe nadar.
 > * __Super__ - Está sobre, acima.
 > * __Infer__ - Está sob, abaixo
-> * __Bon.__ => O melhor
-> * __Infer ta bel.__ => O menos belo.
+> * __super ta bon __ O melhor
+> * __infer ta bel___ O menos belo.
 > * __La super ta bon de album de Beatles.__ => Aquele é o melhor álbum dos Beatles.
 > * __Manga bon ta super de pomo.__ - Manga é melhor que maçã.
 > * __Pomo bon ta infer de manga.__ - Maçã é pior que manga.
