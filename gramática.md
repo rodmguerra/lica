@@ -262,7 +262,7 @@ Os numerais ordinais são precedidos da partícula "se"
 
 Os numerais fracionários são formados pela partícula "ta"
 > * 1/2 - __ta du__
-> * 3/4 - __tres ta du__
+> * 3/4 - __tres ta cuatre__
 > * 33 % - __tres dece tres ta cente__
 
 > * __Mi ca ta non lege de ta du libru__ - Ainda não li nem a metade do livro.
