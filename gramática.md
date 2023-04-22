@@ -15,6 +15,9 @@ Predicados em sequência, desde que não tenham objeto direto ou indireto, podem
 > * __Feme ama bon.__ - A mulher bondosa ama. _(lit.: É mulher, ama e é boa)_
 > * __Feme bon ama.__ - A mulher bondosa ama. _(lit.: É mulher, é boa e ama)_
 > * __Ama bon feme.__  - A mulher bondosa ama. _(lit.: Ama, é boa e é mulher)_
+
+Predicados podem ser negados precedendo-os da partícula non
+> * __Feme non bon non ama.__ - A mulher que não é bondosa não ama. _(lit.: É mulher, ama e é boa)_
 	
 #### 3. Transitivo direto
 Um predicado sucedido de "de" representa um predicado transitivo, sendo a palavra seguinte seu objeto direto. Nesse caso a ordem importa, o predicado transitivo deve ser o último.
@@ -28,6 +31,7 @@ Quando "de" é colocado após um predicado que expressa um objeto concreto, ele 
 > * __Can de feme__ => O cão da mulher 
 > * __Bon can de feme__ => O cão bom da mulher
 > * __Pater de mi__ => Meu pai
+> * __Mi pater de bel puer.__ => Sou o pai de uma bela criança.
 
 #### 4. Inversão de agente. - partícula "se" 
 Um predicado intransitivo pode ter seu agente transformado em paciente usando-se a partícula "se". Alguns predicados ganham um sentido específico quando antecedidos desta partícula.
@@ -91,6 +95,46 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
 
+#### 6. Tempo gramatical
+Os predicados não possuem flexão de tempo. Não é necessário explicitar o tempo verbal, mesmo que a narrativa não seja no presente. Mas existem predicados que podem ser compostos com a partícula "ta" para tornar mais explícita a relação de tempo entre os fatos narrados. 
+
+O predicado "va" (vai) é usado para indicar fatos que ocorrerão após o tempo da narrativa.
+> * __Mi non sape ta nata, ma mi va ta aprende.__ - Não sei nadar mas vou aprender.
+
+O predicado "se va" (ido) é usado para indicar fatos que ocorreram no passado mas não valem mais no tempo narrado. O predicado "ca" é usado para indicar fatos que ocorrem no tempo da narrativa.
+> * __Feme se va ta fede, ma ca ta bel.__ Ela era feia, mas agora está bonita.
+
+Os predicados "ca", "la", "va" e "se va" também são usados para compor locuções adverbiais de tempo ou espaço.
+> * __a ca__ agora, aqui
+> * __a tempu ca__ agora
+> * __a locu ca__ aqui
+ 
+> * __a se va__ no passado, atrás
+> * __a tempu se va__ no passado
+> * __a locu se va__ atrás
+
+> * __a va__ no futuro, em frente
+> * __a tempu va__ no futuro
+> * __a locu va__ em frente
+
+> * __a la__ então, naquele tempo; lá, naquele lugar
+> * __a tempu la__ naquele tempo, então
+> * __a locu la__ lá
+ 
+> * __a di ca__ hoje
+> * __a di se va__ ontem
+> * __a di se va se du__ anteontem
+> * __a di va__ amanhã
+> * __a di va se tres__ daqui a três dias
+> * __a di la__ naquele dia
+
+#### 5. Imperativo
+- Se tu a stude. - Estude.
+- Se tu a ama. - Ame.
+- Se tu a human. - Seja humano.
+- Se nos a ede. - Vamos comer.
+- Se tu di bon. - Bom dia. Tenha um bom dia.
+
 #### 5. Período composto
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
 > __El feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
@@ -107,15 +151,15 @@ As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (o
 > __Nos va non ta depende o nos va ta mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
 > __Mi se va stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
 
-#### 8. Locuções adverbiais.
+#### 8. Locuções adverbiais
 A partícula "a" também é usada para expressar locuções adverbiais. 
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
 > * __Train parti a se du.__ O trem parte às duas.
 
 Locuções adverbiais podem fazer parte de um período composto adverbial.
 > __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
-> __A casu de tu va ta studa, tu va se bon de exame.__ Se você estudar, fará um bom exame.
-> __A casu de tu se va ta studa, tu se va se bon de exame.__ Se você tivesse estudado, teria feito um bom exame.
+> __A casu de tu va ta studa, tu va ta se bon de exame.__ Se você estudar, fará um bom exame.
+> __A casu de tu se va ta studa, tu se va ta se bon de exame.__ Se você tivesse estudado, teria feito um bom exame.
 > __Mi vive a causa de tu se va ta salva de mi.__ Estou vivo porque você me salvou.
 > __Manga super ta bon de pomo.__ Manga é melhor que maçã.
 > __Manga bon ta super de fructo.__ Manga é a melhor fruta.
@@ -204,4 +248,21 @@ Os numerais fracionários são formados pela partícula "ta"
 > * 3/4 - __tres ta du__
 > * 33 % - __tres dece tres ta cente__
 
+> __Mi ca ta non lege de ta du libru__ - Ainda não li nem a metade do livro.
 > __Nove ta cente brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
+
+#### 11. Perguntas
+
+Usando o determinador interrogativo "ce":
+> __Tu nate a tempu ce?__ - Quando você nasceu?
+> __Tu a locu ce?__ - Onde você está?
+> __Tu ce?__ - Quem é você?
+> __Ce persona discoperi Brasil?__ - Quem descobriu o Brasil?
+> __Tu a anu ce?__ - Você tem quantos anos?
+> __Custa ce?__ - Quanto custa?
+
+Perguntas de sim o não:
+>__Tu vole a visita mi, o non?__ - Quer me visitar?
+
+
+
