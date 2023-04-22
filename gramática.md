@@ -207,7 +207,7 @@ Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se u
 > * __non multi__ - poucos
 > * __tote__ - un
 > * __tote un__ - cada
-> * __tote #__ - cada #
+> * __tote ##__ - cada ##
 
 Exemplos
 > * __Nul human isla__ - Nenhum homem é uma ilha.
@@ -244,7 +244,7 @@ Os numerais também são determinadores de quantidade, mas diferente de grande p
 > * 2 000 - __du mil__
 > * 1 000 000 - __mil se du__
 > * 1 000 000 000 - __mil se tres__
-> * 1 000 ✕ 10<sup>#</sup> - __mil se #__
+> * 1 000 × 10<sup>##</sup> - __mil se ##__
 
 Os numerais ordinais são precedidos da partícula "se"
 > * 1º - __se un__
