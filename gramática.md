@@ -16,8 +16,8 @@ Predicados em sequência, desde que não tenham objeto direto ou indireto, podem
 > * __Feme bon ama.__ - A mulher bondosa ama. _(lit.: É mulher, é boa e ama)_
 > * __Ama bon feme.__  - A mulher bondosa ama. _(lit.: Ama, é boa e é mulher)_
 
-Predicados podem ser negados precedendo-os da partícula non
-> * __Feme non bon non ama.__ - A mulher que não é bondosa não ama. _(lit.: É mulher, ama e é boa)_
+Predicados podem ser negados precedendo-os da partícula "non"
+> * __Feme non bon non ama.__ - A mulher, que não é bondosa, não ama. _(lit.: É mulher, não é boa e não ama)_
 	
 #### 3. Transitivo direto
 Um predicado sucedido de "de" representa um predicado transitivo, sendo a palavra seguinte seu objeto direto. Nesse caso a ordem importa, o predicado transitivo deve ser o último.
@@ -74,6 +74,11 @@ Um predicado transitivo pode ter também um objeto indireto. Este é sempre prec
 > * __Mi compra de libro, compra a tu.__ - Comprei o livro de você.
 > * __Mi compra de libro se vende tu.__ - Comprei o livro que você vendia.
 
+Os objetos indiretos (dativos) podem se tornar o sujeito combinando-se as partículas "a" e "se". Assim, o dativo torna se o sujeito, o agente torna-se o novo objeto direto (precedido de "de") e o paciente torna-se o objeto indireto (precedido de "a")
+> * __Mi vende de libru a home.__ - Vendi o livro ao homem.
+> * __Home a se vende de mi a libru.__ O homem para quem foi vendido por mim o livro.
+> * __Home a se vende a libru de mi.__ O homem para quem foi vendido o livro por mim.
+
 #### 6. Predicados abstratos - partícula "ta".
 Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qualidade ou ação abstrata, ou seja, uma generalização da ideia expressa por ele.
 > * __Ta feme__ - ser mulher, a femininidade
@@ -123,11 +128,11 @@ Os predicados "ca", "la", "va" e "se va" também são usados para compor locuç�
 > * __a di la__ - naquele dia
 
 #### 8. Imperativo
-> __Se tu a stude.__ - Estude.
-> __Se tu a ama.__ - Ame.
-> __Se tu a human.__ - Seja humano.
-> __Se nos a ede.__ - Vamos comer.
-> __Se tu di bon.__ - Bom dia. Tenha um bom dia.
+> __Se tu ta stude.__ - Estude.
+> __Se tu ta ama.__ - Ame.
+> __Se vos ta human.__ - Sejam humanos.
+> __Se nos ta ede.__ - Vamos comer.
+> __Se tu ta di bon.__ - Bom dia. Tenha um bom dia.
 
 #### 9. Período composto
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
