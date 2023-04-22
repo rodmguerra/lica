@@ -59,12 +59,12 @@ Um predicado transitivo direto também pode ter seu agente  invertido usando-se 
 
 Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa forma é bastante útil quando queremos acresentar mais uma oração para falar do possuidor.
 
-> * __Can de fema bon alacre__ - O cão da mulher boa e alegre. (Os predicados subsequentes referem-se à mulher)
-> * __Fema se can de bon alacre__ - O cão da mulher é bom e alegre (Os predicados subsequentes referem-se ao cão)
+> * __Can de fema bon alacre__ - O cão da mulher boa e alegre. _(Os predicados subsequentes referem-se à mulher)_
+> * __Fema se can de bon alacre__ - O cão da mulher é bom e alegre _(Os predicados subsequentes referem-se ao cão)_
 > * __Mi se can de bon alacre__ - Meu cão é bom e alegre.
 
 > * __Pater de mi__ - Meu pai.
-> * __Mi se pater de home alte.__ - Meu pai é um homem alto. (lit: Eu sou *paternado por um homem alto) 
+> * __Mi se pater de home alte.__ - Meu pai é um homem alto. _(literalmente: Eu sou *paternado por um homem alto)_ 
 
 #### 5. Transitivo indireto
 Um predicado transitivo pode ter também um objeto indireto. Este é sempre precedido da particula "a". Os dois objetos podem ser usados um em sequência do outro, em qualquer ordem. Para evitar ambiguidade, pode-se repetir o predicado antes do segundo objeto, ou substituí-lo por um predicado transitivo direto que confira o mesmo sentido à frase.
@@ -74,7 +74,7 @@ Um predicado transitivo pode ter também um objeto indireto. Este é sempre prec
 > * __Mi compra de libro, compra a tu.__ - Comprei o livro de você.
 > * __Mi compra de libro se vende tu.__ - Comprei o livro que você vendia.
 
-#### 7. Predicados abstratos - partícula "ta".
+#### 6. Predicados abstratos - partícula "ta".
 Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qualidade ou ação abstrata, ou seja, uma generalização da ideia expressa por ele.
 > * __Ta feme__ - ser mulher, a femininidade
 > * __Ta bon__ - ser bom, bondade
@@ -85,11 +85,11 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Tu pote de ta ama.__ - => Você pode amar.
-> * __Mi vide de tu ta ama.__ - => Vejo você amar. _(literalmente: Vejo você e que é amor)
+> * __Mi vide de tu ta ama.__ - => Vejo você amar. _(literalmente: Vejo você e que é amor)_
 > * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
 
-#### 6. Tempo gramatical
+#### 7. Tempo gramatical
 Os predicados não possuem flexão de tempo. Não é necessário explicitar o tempo verbal, mesmo que a narrativa não seja no presente. Mas existem predicados que podem ser compostos com a partícula "ta" para tornar mais explícita a relação de tempo entre os fatos narrados. 
 
 O predicado "va" (vai) é usado para indicar fatos que ocorrerão após o tempo da narrativa.
@@ -122,14 +122,14 @@ Os predicados "ca", "la", "va" e "se va" também são usados para compor locuç�
 > * __a di va se tres__ daqui a três dias
 > * __a di la__ naquele dia
 
-#### 5. Imperativo
+#### 8. Imperativo
 - Se tu a stude. - Estude.
 - Se tu a ama. - Ame.
 - Se tu a human. - Seja humano.
 - Se nos a ede. - Vamos comer.
 - Se tu di bon. - Bom dia. Tenha um bom dia.
 
-#### 5. Período composto
+#### 9. Período composto
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
 > __El feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
 
@@ -137,7 +137,7 @@ Se desejar referenciar outra palavra que não é o objeto imediatamente anterior
 > __El feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
 > __El feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
 
-#### 5. Conjunções
+#### 10. Conjunções
 As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
 > __Mi pensa ergo mi existe.__ Penso logo existo.
 > __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
@@ -145,7 +145,7 @@ As orações coordenadas são formadas usando-se as conjunções "e" (e), "o" (o
 > __Nos va non ta depende o nos va ta mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
 > __Mi se va stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
 
-#### 8. Locuções adverbiais
+#### 11. Locuções adverbiais
 A partícula "a" também é usada para expressar locuções adverbiais. 
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
 > * __Train parti a se du.__ O trem parte às duas.
@@ -169,7 +169,7 @@ Locuções adverbiais podem fazer parte de um período composto adverbial.
 > __A tempu de altre dormi, nos stude.__ Enquanto outros dormem nós estudamos. 
 > __A mesura tempu va, feme super ta bel.__ A medida que o tempo passa, ela fica mais bela.
 
-#### 9. Determinadores de pessoa
+#### 12. Determinadores de pessoa
 Os determinadores de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
 > * __mi__ - eu
 > * __tu__ - você
@@ -180,7 +180,7 @@ Os determinadores de pessoa não invariáveis de gênero ou caso gramaticais, ne
 > * __Mi ama tu.__ - Eu te amo.
 > * __Tu ama mi.__ - Você me ama.
 
-#### 10. Determinadores de quantidade
+#### 13. Determinadores de quantidade
 Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se usados apenas quando houver uma necessidade explícita de expressar a quantidade. São usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados. 
 > * __nul__ - nenhum, ninguém, nada, zero
 > * __un__ - um, alguém, alguma coisa
@@ -199,7 +199,7 @@ Quando acompanham outros predicados normalmente aparecem na primeira posição, 
 > * __Mi vide multi puer a strata.__ - Eu vi muitos meninos na rua.
 > * __Mi vide puer multi a strata.__ - Eu vi muitos meninos na rua.
 
-#### 11. Determinadores de quantidade absolutos - numerais
+#### 14. Determinadores de quantidade absolutos - numerais
 Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade bem determinada.
 > * 0 - __nul__
 > * 1 - __un__
@@ -245,7 +245,7 @@ Os numerais fracionários são formados pela partícula "ta"
 > __Mi ca ta non lege de ta du libru__ - Ainda não li nem a metade do livro.
 > __Nove ta cente brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
 
-#### 11. Perguntas
+#### 15. Perguntas
 
 Usando o determinador interrogativo "ce":
 > __Tu nate a tempu ce?__ - Quando você nasceu?
