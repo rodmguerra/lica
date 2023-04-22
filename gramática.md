@@ -326,6 +326,6 @@ __Determinadores__
 > * __unes__, __multi__, __non multi__, __tote__, __tote un__ - quantitativos
 
 __Numerais__
-> * __nul__ (0), __un__ (1), __du__ (3), __tres__ (3), __cuatre__ (4)
+> * __nul__ (0), __un__ (1), __du__ (2), __tres__ (3), __cuatre__ (4)
 > * __cincue__ (5), __sex__ (6), __septe__ (7), __octo__ (8), __nove__ (9)
 > * __dece__ (10), __centu__ (100), __mil__ (1 000), __mil a du__ (1 000 000)
