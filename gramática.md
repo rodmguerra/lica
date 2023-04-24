@@ -9,7 +9,7 @@ Toda palavra que é usada para descrever algo é considerado um predicado. Os pr
 >  * __ama__ - ama
 >  * __stude__ - estuda
 
-Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos, e relações temporais entre predicados podem ser marcados com locuções adverbiais ou partículas, que veremos em breve.
+Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos, e relações temporais entre predicados podem ser marcadas com locuções adverbiais ou partículas, que veremos em breve.
 
 #### 2. Intransitivo
 Predicados em sequência, desde que não tenham objeto direto ou indireto, podem ser colocados em qualquer ordem, ficando a critério do falante e se dá por questões de preferência, ênfase ou estilo.
@@ -86,8 +86,8 @@ Um predicado transitivo pode ter também um objeto indireto. Este é sempre prec
 
 Os objetos indiretos (dativos) podem se tornar o sujeito combinando-se as partículas "a" e "se". Assim, o dativo torna se o sujeito, o agente torna-se o novo objeto direto (precedido de "de") e o paciente torna-se o objeto indireto (precedido de "a")
 > * __Mi vende de libru a home.__ - Vendi o livro ao homem.
-> * __Home a se vende de mi a libru.__ O homem para quem foi vendido por mim o livro.
-> * __Home a se vende a libru de mi.__ O homem para quem foi vendido o livro por mim.
+> * __Home a se vende de mi a libru.__ - O homem para quem foi vendido por mim o livro.
+> * __Home a se vende a libru de mi.__ - O homem para quem foi vendido o livro por mim.
 
 #### 6. Predicados abstratos - partícula "ta".
 Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qualidade ou ação abstrata, ou seja, uma generalização da ideia expressa por ele.
@@ -107,9 +107,9 @@ A partícula "ta" pode fazer um predicado composto unindo o sentido de dois pred
 > * __Tu sape ta nata.__ - Você sabe nadar.
 > * __Super__ - Está sobre, acima.
 > * __Infer__ - Está sob, abaixo
-> * __super ta bon__ o melhor
-> * __infer ta bel___ o menos belo
-> * __Revolver super ta bon de album de Beatles.__ => Aquele é o melhor álbum dos Beatles.
+> * __super ta bon__ - o melhor
+> * __infer ta bel__ - o menos belo
+> * __Revolver super ta bon de album de Beatles.__ - Aquele é o melhor álbum dos Beatles.
 > * __Manga bon ta super de pomo.__ - Manga é melhor que maçã.
 > * __Pomo bon ta infer de manga.__ - Maçã é pior que manga.
 > * __Manga bon ta ecual de persic.__ - Manga é tão bom quanto pêssego.
