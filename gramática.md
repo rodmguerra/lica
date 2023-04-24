@@ -141,7 +141,7 @@ Os predicados não especificam o tempo em que as ações ocorreram, isso pode se
 
 A partícula "ja" (ido) modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. 
 > * __Libru ja se lege se guarda de armari.__ O livro, que já foi lido, está guardado no armário.
-> * __Cavalu ja se da, dente non se debe de ta vide.__ - Cavalo dado não se olha os dentes.
+> * __Cavalu ja se da, dente non debe ta se vide.__ - Cavalo dado não se olha os dentes.
 > * __Ja preside vole de va preside a novu.__ - O ex-presidente quer ser presidente novamente.
 
 A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
@@ -209,8 +209,8 @@ As orações coordenadas são formadas usando-se as partículas "e" (e), "o" (ou
 > * __Mi pensa ergo mi existe.__ Penso logo existo.
 > * __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
 > * __Mi stude lica e mi audi musica.__ Estudo lica e estudo música.
-> * __Nos va non ta depende o nos va ta mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
-> * __Mi se va stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
+> * __Nos non va depende o nos va mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
+> * __Mi ja stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
 
 #### 12. Locuções adverbiais
 A partícula "a" também é usada para expressar locuções adverbiais. 
@@ -222,12 +222,12 @@ A partícula "a" também é usada para expressar locuções adverbiais.
 
 Locuções adverbiais podem fazer parte de um período composto adverbial.
 > * __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
-> * __A casu de tu va ta studa, tu va ta se bon de exame.__ - Se você estudar, fará um bom exame.
-> * __A casu de tu se va ta studa, tu se va ta se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
-> * __Mi vive a causa de tu se va ta salva de mi.__ - Estou vivo porque você me salvou.
-> * __Mi va ta face, a casu mesmu de tu non ta vole.__ - Vou fazer mesmo que você não queira.
-> * __Nos va a festa, a casu de non va ta pluve.__ - Vamos à festa se não chover.
-> * __Vos debe de ta face de torta, a modu de ta se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
+> * __A casu de tu ta va studa, tu va se bon de exame.__ - Se você estudar, fará um bom exame.
+> * __A casu de tu ta ja  studa, tu ta ja se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
+> * __Mi vive a causa de tu ta ja salva de mi.__ - Estou vivo porque você me salvou.
+> * __Mi va face, a casu mesmu de non tu ta vole.__ - Vou fazer mesmo que você não queira.
+> * __Nos va a festa, a casu de non ta va pluve.__ - Vamos à festa se não chover.
+> * __Vos debe ta face de torta, a modu de ta se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
 > * __Home debile a parla, a modu de nos non ta audi.__ - Ele fala baixo, de modo que não ouvimos.
 > * __Mi a ca, a fin de ta labora.__ - Estou aqui para trabalhar.
 > * __A tempu de altre dormi, nos stude.__ - Enquanto outros dormem nós estudamos. 
@@ -303,7 +303,7 @@ Os numerais ordinais são precedidos da partícula "se"
 
 > * __Carlu se tres rege de angle__ - Carlos III reina (é o rei d') a Inglaterra.
 > * __Neil Armstrong se un ta vade a luna__ - Neil Armstrong foi o primeiro a ir à lua.
-> * __Feme la ja se ama se un de mi.__ - Aquela mulher foi meu primeiro amor. 
+> * __Feme la se un ta ja se ama de mi.__ - Aquela mulher foi meu primeiro amor. 
 Os numerais fracionários são formados pela partícula "ta"
 > * 1/2 - __ta du__
 > * 3/4 - __tres ta cuatre__
