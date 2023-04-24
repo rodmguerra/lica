@@ -86,8 +86,8 @@ Um predicado transitivo pode ter também um objeto indireto. Este é sempre prec
 
 Os objetos indiretos (dativos) podem se tornar o sujeito combinando-se as partículas "a" e "se". Assim, o dativo torna se o sujeito, o agente torna-se o novo objeto direto (precedido de "de") e o paciente torna-se o objeto indireto (precedido de "a")
 > * __Mi vende de libru a home.__ - Vendi o livro ao homem.
-> * __Home a se vende de mi a libru.__ - O homem para quem foi vendido por mim o livro.
-> * __Home a se vende a libru de mi.__ - O homem para quem foi vendido o livro por mim.
+> * __Home se a vende de mi a libru.__ - O homem para quem foi vendido por mim o livro.
+> * __Home se a vende a libru de mi.__ - O homem para quem foi vendido o livro por mim.
 
 #### 6. Predicados abstratos - partícula "ta".
 Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qualidade ou ação abstrata, ou seja, uma generalização da ideia expressa por ele.
