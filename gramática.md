@@ -257,9 +257,9 @@ Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se u
 > * __unes__ - uns, mais de um, alguns
 > * __multi__ - muitos
 > * __non multi__ - poucos
-> * __tote__ - un
-> * __tote un__ - cada
-> * __tote ##__ - cada ##
+> * __toti__ - un
+> * __toti un__ - cada
+> * __toti ##__ - cada ##
 
 Exemplos
 > * __Nul human isla__ - Nenhum homem é uma ilha.
@@ -323,7 +323,7 @@ __Partículas__
 
 __Determinadores__
 > * __mi__, __nos__, __tu__, __vos__ - pessoais
-> * __unes__, __multi__, __non multi__, __tote__, __tote un__ - quantitativos
+> * __unes__, __multi__, __non multi__, __toti__, __toti un__ - quantitativos
 
 __Numerais__
 > * __nul__ (0), __un__ (1), __du__ (2), __tres__ (3), __cuatre__ (4)
