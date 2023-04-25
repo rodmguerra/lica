@@ -101,7 +101,7 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 A partícula "ta" pode fazer um predicado composto unindo o sentido de dois predicados:
 > * __Feme bon ta dance.__ - Mulher que dança bem. Boa dançarina.
 > * __Home mal ta scribe.__ - Homem que escreve mal. Um escritor ruim.
-> * __Pelé exele ta joca de futbol__ - Pelé é um excelente jogador de futebol.
+> * __Pelé exele con joca de futbol__ - Pelé é um excelente jogador de futebol.
 > * __Tu pote ta ama.__ - Você pode amar.
 > * __Tu debe ta ama.__ - Você deve amar.
 > * __Tu sape ta nata.__ - Você sabe nadar.
@@ -309,7 +309,7 @@ Os numerais fracionários são formados pela partícula "ta"
 > * 3/4 - __tres ta cuatre__
 > * 33 % - __tres dece tres ta centu__
 
-> * __Mi ca ta non lege de ta du libru__ - Ainda não li nem a metade do livro.
+> * __Mi ca non lege de ta du libru__ - Ainda não li nem a metade do livro.
 > * __Nove dece ta centu brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
 
 
