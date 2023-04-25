@@ -101,7 +101,7 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 A partícula "ta" pode fazer um predicado composto unindo o sentido de dois predicados:
 > * __Feme bon ta dance.__ - Mulher que dança bem. Boa dançarina.
 > * __Home mal ta scribe.__ - Homem que escreve mal. Um escritor ruim.
-> * __Pelé exele con joca de futbol__ - Pelé é um excelente jogador de futebol.
+> * __Pelé exele ta joca de futbol__ - Pelé é um excelente jogador de futebol.
 > * __Tu pote ta ama.__ - Você pode amar.
 > * __Tu debe ta ama.__ - Você deve amar.
 > * __Tu sape ta nata.__ - Você sabe nadar.
