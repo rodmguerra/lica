@@ -269,9 +269,9 @@ Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se u
 > * __unes__ - uns, mais de um, alguns
 > * __multi__ - muitos
 > * __non multi__ - poucos
-> * __toti__ - un
-> * __toti un__ - cada
-> * __toti ##__ - cada ##
+> * __totu__ - un
+> * __totu un__ - cada
+> * __totu ##__ - cada ##
 
 Exemplos
 > * __Nul human isla__ - Nenhum homem é uma ilha.
