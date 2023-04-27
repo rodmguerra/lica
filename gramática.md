@@ -97,18 +97,17 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 > * __Ta vive__ - viver, a vida
 > * __Ta ama bel__ - O amor é lindo.
 > * __Ta vive non se face__ - A vida não é fácil.
-
+> * __Tu pote de ta ama.__ - Você pode amar.
+> * __Tu debe de ta ama.__ - Você deve amar.
+> * __Tu sape de ta nata.__ - Você sabe nadar.
 
 Alguns predicados compostos com "ta":
 > * __se pote__ - é podido = possível
 > * __non se pote__ - não é podido = impossível
-> * __se pote de ta se lege__ - é podido de ser lido = legível
-> * __non se pote de ta fali__ - não é podido de falhar = infalível
-> * __non se pote de ta se intelige__ - não é podido de ser entendido = ininteligível, incompreensível 
-> * __se face__ - é feito = fácil
-> * __non se face__ - não é feito = difícil
-> * __non se face ta usa__ - não é feito de usar = difícil de se usar
-> * __se pote de ta novu pa se usa__ - é podido de novamente ser usado = reutilizável
+> * __pote de ta se lege__ - pode ser lido = legível
+> * __non pote de ta fali__ - não pode falhar = infalível
+> * __non pote de ta se intelige__ - não pode ser entendido = ininteligível, incompreensível 
+> * __pote de ta novu pa se usa__ - pode novamente ser usado = reutilizável
 
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Mi vide de tu.__ - Vejo você.
@@ -122,9 +121,6 @@ A partícula "pa" pode fazer um predicado composto unindo o sentido de dois pred
 > * __Feme bon pa dance.__ - Mulher que dança bem. Boa dançarina.
 > * __Home mal pa scribe.__ - Homem que escreve mal. Um escritor ruim.
 > * __Pelé exele pa joca de futbol__ - Pelé é um excelente jogador de futebol.
-> * __Tu pote pa ama.__ - Você pode amar.
-> * __Tu debe pa ama.__ - Você deve amar.
-> * __Tu sape pa nata.__ - Você sabe nadar.
 > * __Super__ - Está sobre, acima.
 > * __Infer__ - Está sob, abaixo
 > * __super pa bon__ - o melhor
@@ -136,17 +132,21 @@ A partícula "pa" pode fazer um predicado composto unindo o sentido de dois pred
 > * __Manga super pa bon fructo.__ - Manga é a melhor fruta.
 > * __Pomo infer pa bon fructo.__ - Maçã é a pior fruta.
 > * __novu pa lege__ - relê, lê novamente
+> * __se face__ - é feito = fácil
+> * __non se face__ - não é feito = difícil
+> * __non se face pa usa__ - não é feito de usar = difícil de se usar
 
-A partícula "po" indica possibilidade e pode substituir a expressão "pote de ta", formando um único predicado instansitivo.
-> * __se pote de ta se lege__ - legível
+A partícula "po" indica possibilidade e pode substituir a expressão "pote de ta", formando um único predicado instansitivo. "sa" = "sape de ta", "du" = "debe de ta".
+> * __pote de ta se lege__ - legível
 > * __po se lege__ - legível
-> * __non se pote de ta fali__ - infalível
+> * __se pote de ta fali__ - infalível
 > * __non po fali__ - infalível
 > * __non se pote de ta se intelige__ - ininteligível, incompreensível 
 > * __non  po intelige__ - ininteligível, incompreensível 
 > * __se face__ - fácil
-> * __se pote de ta novu pa se usa__ - reutilizável
+> * __pote de ta novu pa se usa__ - reutilizável
 > * __po novu pa se usa__ - reutilizável
+
 
 #### 7. Tempo gramatical
 Os predicados não especificam o tempo em que as ações ocorreram, isso pode ser feito com locuções adverbiais de tempo. No entanto, existem partículas que indicam se o predicado é válido no tempo exato da narrativa (ca), antes do tempo da narrativa (ja) e após o tempo da narrativa (va). 
