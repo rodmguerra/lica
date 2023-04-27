@@ -98,36 +98,46 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 > * __Ta ama bel__ - O amor é lindo.
 > * __Ta vive non se face__ - A vida não é fácil.
 
-A partícula "ta" pode fazer um predicado composto unindo o sentido de dois predicados:
-> * __Feme bon ta dance.__ - Mulher que dança bem. Boa dançarina.
-> * __Home mal ta scribe.__ - Homem que escreve mal. Um escritor ruim.
-> * __Pelé exele ta joca de futbol__ - Pelé é um excelente jogador de futebol.
-> * __Tu pote ta ama.__ - Você pode amar.
-> * __Tu debe ta ama.__ - Você deve amar.
-> * __Tu sape ta nata.__ - Você sabe nadar.
+A partícula "pa" pode fazer um predicado composto unindo o sentido de dois predicados:
+> * __Feme bon pa dance.__ - Mulher que dança bem. Boa dançarina.
+> * __Home mal pa scribe.__ - Homem que escreve mal. Um escritor ruim.
+> * __Pelé exele pa joca de futbol__ - Pelé é um excelente jogador de futebol.
+> * __Tu pote pa ama.__ - Você pode amar.
+> * __Tu debe pa ama.__ - Você deve amar.
+> * __Tu sape pa nata.__ - Você sabe nadar.
 > * __Super__ - Está sobre, acima.
 > * __Infer__ - Está sob, abaixo
-> * __super ta bon__ - o melhor
-> * __infer ta bel__ - o menos belo
-> * __Revolver super ta bon de album de Beatles.__ - Aquele é o melhor álbum dos Beatles.
-> * __Manga bon ta super de pomo.__ - Manga é melhor que maçã.
-> * __Pomo bon ta infer de manga.__ - Maçã é pior que manga.
-> * __Manga bon ta ecual de persic.__ - Manga é tão bom quanto pêssego.
-> * __Manga super ta bon fructo.__ - Manga é a melhor fruta.
-> * __Pomo infer ta bon fructo.__ - Maçã é a pior fruta.
+> * __super pa bon__ - o melhor
+> * __infer pa bel__ - o menos belo
+> * __Revolver super pa bon de album de Beatles.__ - Aquele é o melhor álbum dos Beatles.
+> * __Manga bon pa super de pomo.__ - Manga é melhor que maçã.
+> * __Pomo bon pa infer de manga.__ - Maçã é pior que manga.
+> * __Manga bon pa ecual de persic.__ - Manga é tão bom quanto pêssego.
+> * __Manga super pa bon fructo.__ - Manga é a melhor fruta.
+> * __Pomo infer pa bon fructo.__ - Maçã é a pior fruta.
 
 Alguns predicados compostos com "ta":
 > * __se pote__ - possível
 > * __non se pote__ - impossível
-> * __se pote ta lege__ - legível
-> * __non se pote ta fali__ - infalível
-> * __non se pote ta intelige__ - ininteligível, incompreensível 
-
+> * __se pote de ta se lege__ - legível
+> * __non se pote de ta fali__ - infalível
+> * __non se pote de ta se intelige__ - ininteligível, incompreensível 
 > * __se face__ - fácil
 > * __non se face__ - difícil
 > * __non se face ta usa__ - difícil de se usar
-> * __novu ta lege - relê, lê novamente
-> * __se pote ta novu ta usa - reutilizável
+> * __novu pa lege__ - relê, lê novamente
+> * __pote de ta novu ta se usa__ - reutilizável
+
+A partícula "po" indica possibilidade e pode substituir a expressão "pote de ta", formando um único predicado instansitivo.
+> * __se pote de ta se lege__ - legível
+> * __po se lege__ - legível
+> * __non se pote de ta fali__ - infalível
+> * __non po fali__ - infalível
+> * __non se pote de ta se intelige__ - ininteligível, incompreensível 
+> * __non  po intelige__ - ininteligível, incompreensível 
+> * __se face__ - fácil
+> * __pote de ta novu ta se usa__ - reutilizável
+> * __po novu pa se usa - reutilizável
 
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Mi vide de tu.__ - Vejo você.
@@ -304,18 +314,19 @@ Os numerais ordinais são precedidos da partícula "se"
 > * __Carlu se tres rege de angle__ - Carlos III reina (é o rei d') a Inglaterra.
 > * __Neil Armstrong se un ta vade a luna__ - Neil Armstrong foi o primeiro a ir à lua.
 > * __Feme la se un ta ja se ama de mi.__ - Aquela mulher foi meu primeiro amor. 
-Os numerais fracionários são formados pela partícula "ta"
-> * 1/2 - __ta du__
-> * 3/4 - __tres ta cuatre__
-> * 33 % - __tres dece tres ta centu__
 
-> * __Mi ca non lege de ta du libru__ - Ainda não li nem a metade do livro.
-> * __Nove dece ta centu brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
+Os numerais fracionários são formados pela partícula "pa"
+> * 1/2 - __pa du__
+> * 3/4 - __tres pa cuatre__
+> * 33 % - __tres dece tres pa centu__
+
+> * __Mi ca non lege de pa du libru__ - Ainda não li nem a metade do livro.
+> * __Nove dece pa centu brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
 
 
 #### 15. Resumo
 __Partículas__
-> * __se__ (passiva), __ta__ (abstrativa), __non__ (negativa)
+> * __se__ (passiva), __ta__ (abstrativa), __non__ (negativa), __pa__ (compositiva), 
 > * __de__ (acusativa),  __a__ (dativa)
 > * __ca__ (proximal), __la__ (distal)
 > * __ja__ (perfectiva), __va__ (futura)
