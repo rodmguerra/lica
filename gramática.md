@@ -336,7 +336,7 @@ __Partículas__
 
 __Determinadores__
 > * __mi__, __nos__, __tu__, __vos__ - pessoais
-> * __unes__, __multi__, __non multi__, __toti__, __toti un__ - quantitativos
+> * __unes__, __multi__, __non multi__, __totu__, __totu un__ - quantitativos
 
 __Numerais__
 > * __nul__ (0), __un__ (1), __du__ (2), __tres__ (3), __cuatre__ (4)
