@@ -161,7 +161,7 @@ A partícula "va" modifica o predicado indicando que ele será válido após ap�
 > * __Mi non sape nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
 
 A partícula "ca" reforça que o ato está acontecendo no exato momento. Ou é usado para destacar a diferença de tempo quando há outra partícula de tempo aplicada a outro predicado.
-> * __A se tu silente! Mi ca lege.__ Silêncio! Estou lendo.
+> * __Pa silente! Mi ca lege.__ Silêncio! Estou lendo.
 > * __Feme ja fede ma ca bel.__ - Ela era feia, mas agora está bonita.
 
 As partículas "ca", "la", "va" e "ja" também são usados para compor locuções adverbiais de tempo ou espaço.
@@ -189,11 +189,11 @@ As partículas "ca", "la", "va" e "ja" também são usados para compor locuçõe
 > * __a di la__ - naquele dia
 
 #### 8. Imperativo
-> * __Se tu ta stude.__ - Estude.
-> * __Se tu ta ama.__ - Ame.
-> * __Se vos ta human.__ - Sejam humanos.
-> * __Se nos ta ede.__ - Vamos comer.
-> * __Se tu ta di bon.__ - Bom dia. Tenha um bom dia.
+> * __Pa (tu) stude.__ - Estude.
+> * __Pa (tu) ama.__ - Ame.
+> * __Pa (vos) human.__ - Sejam humanos.
+> * __Pa nos ede.__ - Vamos comer.
+> * __Pa (tu) di bon.__ - Bom dia. Tenha um bom dia.
 
 #### 9. Perguntas
 
