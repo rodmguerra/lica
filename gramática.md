@@ -103,7 +103,7 @@ Alguns predicados compostos com "ta":
 > * __se pote__ - é podido = possível
 > * __non se pote__ - não é podido = impossível
 > * __se pote de ta se lege__ - é podido de ser lido = legível
-> * __non se pote de ta fali__ - é podido de falhar = infalível
+> * __non se pote de ta fali__ - não é podido de falhar = infalível
 > * __non se pote de ta se intelige__ - não é podido de ser entendido = ininteligível, incompreensível 
 > * __se face__ - é feito = fácil
 > * __non se face__ - não é feito = difícil
