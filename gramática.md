@@ -229,7 +229,7 @@ Os predicados não especificam o tempo em que as ações ocorreram, isso pode se
 A partícula "ja"  modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. 
 > * __Libru ja se lege se guarda de armari.__ O livro, que já foi lido, está guardado no armário.
 > * __Cavalu ja se da, dente non se do vide.__ - Cavalo dado não se olha os dentes.
-> * __Ja preside vole pa re preside.__ - O ex-presidente quer ser presidente novamente.
+> * __Ja preside vo re preside.__ - O ex-presidente quer ser presidente novamente.
 
 
 #### 2.5. Fatos posteriores (partícula "va")
