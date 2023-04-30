@@ -48,7 +48,7 @@ Um predicado intransitivo pode ter seu agente transformado em paciente usando-se
 > * __pinge__ - pinta, o pintor
 > * __se pinge__ - é pintado, a pintura
 > * __face__ - faz, o fazedor
-> * __se face__ - feito, fácil 
+> * __se face__ - feito, fácil, o fato
 > * __vide__ - vê, o vidente
 > * __se vide__ - visto, a vista, visível 
 > * __ama__ - ama, o amante
