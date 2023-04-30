@@ -79,7 +79,7 @@ Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa
 > * __Mi se pater de home alte.__ - Meu pai é um homem alto. _(lit.: Eu sou *paternado por um homem alto)_ 
 
 > * __Mi cive de Sao Paulo.__ - Eu sou cidadão de São Paulo.
-> * __Sao Paulo se cive de mi.__ - São paulo é minha cidade.
+> * __Sao Paulo se cive de mi.__ - São Paulo é minha cidade.
 
 > * __Mi nate de Brasil.__ - Sou brasileiro.
 > * __Brasil se nate de mi.__ - Brasil é o meu país.
