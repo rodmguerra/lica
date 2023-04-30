@@ -47,17 +47,18 @@ Um predicado intransitivo pode ter seu agente transformado em paciente usando-se
 > * __se stude__ - é estudado, o estudo
 > * __pinge__ - pinta, o pintor
 > * __se pinge__ - é pintado, a pintura
-> * __face__ - faz, fácil, o fazedor
+> * __face__ - faz, o fazedor
 > * __se face__ - feito, fácil 
 > * __vide__ - vê, o vidente
 > * __se vide__ - visto, a vista, visível 
+> * __ama__ - ama, o amante
+> * __se ama__ - amado, o amado 
 > * __nate__ - o que nasceu, o nacional, nasce
 > * __se nate__ - onde se nasce, o país, a nação
 > * __cive__ - a cidadão 
 > * __se cive__ - a cidade
 
-Um predicado transitivo direto também pode ter seu agente  invertido usando-se a partícula "se", o sujeito torna-se o paciente e o objeto direto torna-se o agente.
-
+Um predicado transitivo direto também pode ter seu agente invertido usando-se a partícula "se", o sujeito torna-se o paciente e o objeto direto torna-se o agente.
 > * __Fema bon ama de can.__ - A mulher bondosa ama o cachorro.
 > * __Fema bon se ama de can.__ - A mulher bondosa é amada pelo cachorro.
 
@@ -84,11 +85,13 @@ Um predicado transitivo pode ter também um objeto indireto. Este é sempre prec
 > * __Mi compra de libro, compra a tu.__ - Comprei o livro de você.
 > * __Mi compra de libro se vende tu.__ - Comprei o livro que você vendia.
 
-Os objetos indiretos (dativos) podem se tornar o sujeito combinando-se as partículas "a" e "se". Assim, o dativo torna se o sujeito, o agente torna-se o novo objeto indireto (precedido de "a").
+Os objetos indiretos também podem ser invertidos com a partícula "se". Nesse caso, o objeto direto (se houver) permanece o mesmo, mas o agente torna-se o objeto indireto (precedido de "a").
 > * __Mi vende de libru a home.__ - Vendi o livro ao homem.
 > * __Home se a vende de libru a mi.__ - O homem para quem foi vendido o livro por mim.
 > * __Home se a vende a mi de libru.__ - O homem para quem foi vendido por mim o livro.
-
+> * __Pa cuere a mi.__ Pergunte para mim.
+> * __Pa mi a se cuere.__ Que eu seja questionado.
+ 
 #### 1.5. Predicados abstratos
 
 ##### 1.5.1 Formando predicados abstratos (partícula "ta")
