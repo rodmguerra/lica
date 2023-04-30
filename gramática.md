@@ -195,7 +195,7 @@ A partícula "ca" indica proximidade e a partícula "la" indica distância. São
 > * __a ca tempu__ - agora
 > * __a la tempu__ - naquele tempo, então
 > * __a ca locu__ - aqui, neste lugar
-> * __a la locu__ - lá, naquele ligar
+> * __a la locu__ - lá, naquele lugar
 > * __a ca di__ - hoje
 > * __a la di__ - naquele dia
 
