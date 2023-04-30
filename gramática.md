@@ -148,8 +148,8 @@ Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "no
 > * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
 > * __Tu sole de ta ama.__ = __Tu su ama.__ - Você costuma amar.
 > * __Tu solu de ta ama de feme juve pa super (de tu) .__ = __Tu so ama de feme juve pa super (de tu).__ - Você só ama mulheres mais jovens (que você).
-> * __Tu face de ta ama de Mari a Joan.__ = __Tu fa ama de Mari a Joan.__ - Você faz Maria amar João.
-> * __Tu face de ta mori a Petru.__ = __Tu fa mori a Petru.__ - Você matou o Pedro. (lit: Você faz morrer o Pedro)
+> * __Tu face de Petru ta mori .__ = __Tu fa Petru pa mori .__ - Você matou o Pedro. (lit: Você faz o Pedro morrer)
+> * __Tu face de Mari ta ama de Joan.__ = __Tu fa Mari pa ama de Joan.__ - Você faz Maria amar João.
 > * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
 > * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
 > * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo).
