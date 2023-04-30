@@ -168,7 +168,7 @@ O imperativo, usado para pedidos, instruções, ordens e desejos é formado com 
 > * __Pa tu di bon.__ - Bom dia. Tenha um bom dia.
 > * __Pa di bon.__ - Bom dia. Tenha um bom dia.
 
-#### 9. Perguntas (determinador "ce")
+#### 1.6. Perguntas (determinador "ce")
 Perguntas podem ser expressas usando o determinador interrogativo "ce":
 > * __Tu nate a tempu ce?__ - Quando você nasceu?
 > * __Tu a locu ce?__ - Onde você está?
