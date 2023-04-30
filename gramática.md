@@ -97,68 +97,63 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 > * __Ta vive__ - viver, a vida
 > * __Ta ama bel__ - O amor é lindo.
 > * __Ta vive non se face__ - A vida não é fácil.
-> * __Tu pote de ta ama.__ - Você pode amar.
-> * __Tu debe de ta ama.__ - Você deve amar.
-> * __Tu sape de ta nata.__ - Você sabe nadar.
 
-Alguns predicados compostos com "ta":
-> * __se pote__ - é podido = possível
-> * __non se pote__ - não é podido = impossível
-> * __pote de ta se lege__ - pode ser lido = legível
-> * __non pote de ta fali__ - não pode falhar = infalível
-> * __non pote de ta se intelige__ - não pode ser entendido = ininteligível, incompreensível 
-> * __pote de ta novu pa se usa__ - pode novamente ser usado = reutilizável
 
 Predicados abstratos podem ser usados como objetos diretos. 
-> * __Mi vide de tu.__ - Vejo você.
 > * __Mi vide de ta ama.__ - Vejo o amor.
 > * __Mi vide de tu ta ama.__ - Vejo você amar.
-> * __Mi vide de tu ta ama fili de tu.__ - Vejo você amar seus filhos.
-> * __Mi vide de home ta ama fili de home.__ - Vejo o homem amar os filhos dele.
+> * __Mi vide de tu ta ama de fili de tu.__ - Vejo você amar seus filhos.
+> * __Mi vide de home ta ama de fili de home.__ - Vejo o homem amar os filhos dele.
+> * __Tu vole de ta ama.__ - Você quer amar.
+> * __Tu pote de ta ama.__ - Você pode amar.
+> * __Tu debe de ta ama.__ - Você deve amar.
+> * __Tu sape de ta ama.__ - Você sabe amar.
+> * __Tu novu de ta ama.__ - Você ama de novo. (Você novo a amar).
+> * __Feme bon de ta dance.__ A boa dançarina. (lit: A mulher é boa para dançar)
+> * __Tu bon de ta joca de futbol.__ - Você joga bem o futebol. (lit: Você é bom jogando futebol)
+> * __Manga super de ta bon fructo.__ - Manga é a melhor fruta. (lit: Manga supera em ser boa fruta)
+> * __Manga bon de ta super de pomo.__ - Manga é melhor que maçã. (lit: Manga é boa superando maçã)
 
-
-A partícula "pa" pode fazer um predicado composto unindo o sentido de dois predicados:
-> * __Feme bon pa dance.__ - Mulher que dança bem. Boa dançarina.
-> * __Home mal pa scribe.__ - Homem que escreve mal. Um escritor ruim.
+Os predicados abstratos transitivos ("de ta") podem ser simplificados como predicados transitivos ("pa"). Ou seja, "pa" funciona como elemento de ligação entre dois predicados intransitivos, formando um só predicado intransitivo composto que carrega a semântica dos dois predicados originais.
+> * __Feme bon dance.__ - A mulher boa dança.
+> * __Feme bon pa dance.__ - A mulher que dança bem. A boa dançarina.
+> * __Home mal scribe.__ - O homem mau está escrevendo .
+> * __Home mal pa scribe.__ - O homem escreve mal. Um mau escritor.
 > * __Pelé exele pa joca de futbol__ - Pelé é um excelente jogador de futebol.
-> * __Super__ - Está sobre, acima.
-> * __Infer__ - Está sob, abaixo
 > * __super pa bon__ - o melhor
 > * __infer pa bel__ - o menos belo
-> * __Revolver super pa bon de album de Beatles.__ - Aquele é o melhor álbum dos Beatles.
+> * __Revolver super pa bon de album de Beatles.__ - Revolver é o melhor álbum dos Beatles.
 > * __Manga bon pa super de pomo.__ - Manga é melhor que maçã.
 > * __Pomo bon pa infer de manga.__ - Maçã é pior que manga.
 > * __Manga bon pa ecual de persic.__ - Manga é tão bom quanto pêssego.
 > * __Manga super pa bon fructo.__ - Manga é a melhor fruta.
 > * __Pomo infer pa bon fructo.__ - Maçã é a pior fruta.
 > * __novu pa lege__ - relê, lê novamente
-> * __se face__ - é feito = fácil
-> * __non se face__ - não é feito = difícil
-> * __non se face pa usa__ - não é feito de usar = difícil de se usar
+> * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-A partícula "po" indica possibilidade e pode substituir a expressão "pote de ta", formando um único predicado instansitivo. "sa" = "sape de ta", "du" = "debe de ta".
-> * __pote de ta se lege__ - legível
-> * __po se lege__ - legível
-> * __se pote de ta fali__ - infalível
-> * __non po fali__ - infalível
-> * __non se pote de ta se intelige__ - ininteligível, incompreensível 
-> * __non  po intelige__ - ininteligível, incompreensível 
-> * __se face__ - fácil
-> * __pote de ta novu pa se usa__ - reutilizável
-> * __po novu pa se usa__ - reutilizável
+
+Os predicados compostos com "vole", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados equivalentes formados pelas partículas "vo", "po", "do", "sa" e "re"
+> * __Tu vo ama.__ - Você quer amar.
+> * __Tu po ama.__ - Você pode amar.
+> * __Tu do ama.__ - Você deve amar.
+> * __Tu sa ama.__ - Você sabe amar.
+> * __Tu re ama.__ - Você ama de novo.
+> * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
+> * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
+> * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo)
 
 
 #### 7. Tempo gramatical
-Os predicados não especificam o tempo em que as ações ocorreram, isso pode ser feito com locuções adverbiais de tempo. No entanto, existem partículas que indicam se o predicado é válido no tempo exato da narrativa (ca), antes do tempo da narrativa (ja) e após o tempo da narrativa (va). 
+Os predicados não especificam o tempo em que as ações ocorreram, isso pode ser feito com locuções adverbiais de tempo. No entanto, existem partículas que indicam se o predicado é válido no tempo exato da narrativa ("ca"), antes do tempo da narrativa ("ja") e após o tempo da narrativa ("va"). 
 
-A partícula "ja" (ido) modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. 
+A partícula "ja"  modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. 
 > * __Libru ja se lege se guarda de armari.__ O livro, que já foi lido, está guardado no armário.
 > * __Cavalu ja se da, dente non debe ta se vide.__ - Cavalo dado não se olha os dentes.
 > * __Ja preside vole de va preside a novu.__ - O ex-presidente quer ser presidente novamente.
 
 A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
 > * __Home va mori.__ O moribundo. O homem vai morrer.
-> * __Mi non sape nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
+> * __Mi non sa nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
 
 A partícula "ca" reforça que o ato está acontecendo no exato momento. Ou é usado para destacar a diferença de tempo quando há outra partícula de tempo aplicada a outro predicado.
 > * __Pa silente! Mi ca lege.__ Silêncio! Estou lendo.
@@ -189,14 +184,16 @@ As partículas "ca", "la", "va" e "ja" também são usados para compor locuçõe
 > * __a di la__ - naquele dia
 
 #### 8. Imperativo
-> * __Pa (tu) stude.__ - Estude.
-> * __Pa (tu) ama.__ - Ame.
-> * __Pa (vos) human.__ - Sejam humanos.
+O imperativo é formado com a partícula "pa" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
+> * __Pa stude.__ - Estude.
+> * __Pa tu stude.__ - Estude.
+> * __Pa human.__ - Sejam humanos.
+> * __Pa vos human.__ - Sejam humanos.
 > * __Pa nos ede.__ - Vamos comer.
-> * __Pa (tu) di bon.__ - Bom dia. Tenha um bom dia.
+> * __Pa tu di bon.__ - Bom dia. Tenha um bom dia.
+> * __Pa di bon.__ - Bom dia. Tenha um bom dia.
 
 #### 9. Perguntas
-
 Usando o determinador interrogativo "ce":
 > * __Tu nate a tempu ce?__ - Quando você nasceu?
 > * __Tu a locu ce?__ - Onde você está?
@@ -208,11 +205,11 @@ Usando o determinador interrogativo "ce":
 Perguntas de sim o não:
 > * __Tu vole a visita mi, o non?__ - Quer me visitar?
 
-#### 10. Período composto
+#### 10. Recursão pronominal
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
 > * __Feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
 
-Se desejar referenciar outra palavra que não é o objeto imediatamente anterior, basta recuperar essa palavra.
+Se desejar referenciar outro predicado que não é o objeto imediatamente anterior, basta recuperar esse predicado.
 > * __Feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
 > * __Feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
 
@@ -227,23 +224,40 @@ As orações coordenadas são formadas usando-se as partículas "e" (e), "o" (ou
 #### 12. Locuções adverbiais
 A partícula "a" também é usada para expressar locuções adverbiais. 
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
-> * __Mi guarda de libro a (inter de) capsa.__ Eu guardo o livro dentro da caixa.
+> * __Mi guarda de libro a capsa.__ Eu guardo o livro dentro da caixa.
+> * __Mi guarda de libro a inter de capsa.__ Eu guardo o livro dentro da caixa.
 > * __Train parti a se du.__ O trem parte às duas.
-> * __Libru a (super de) tabla.__ O livro está em cima da mesa.
+> * __Libru a tabla.__ O livro está sobre a mesa.
+> * __Libru a super de tabla.__ O livro está sobre a mesa.
 > * __Se calce a infer de tabla.__ O sapato está em baixo da mesa.
 
-Locuções adverbiais podem fazer parte de um período composto adverbial.
+Locuções adverbiais podem ser combinadas podem ter um predicado transitivo abstrato "de (...) ta", criando uma ideia de subordinação entre as orações.
+
+A casu de [cosa] ta = "se"
 > * __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
 > * __A casu de tu ta va studa, tu va se bon de exame.__ - Se você estudar, fará um bom exame.
 > * __A casu de tu ta ja  studa, tu ta ja se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
+> * __Nos va a festa, a casu de non ta va pluve.__ - Vamos à festa se não chover.
+
+A causa de [cosa] ta = "porque"
 > * __Mi vive a causa de tu ta ja salva de mi.__ - Estou vivo porque você me salvou.
 > * __Mi va face, a casu mesmu de non tu ta vole.__ - Vou fazer mesmo que você não queira.
-> * __Nos va a festa, a casu de non ta va pluve.__ - Vamos à festa se não chover.
-> * __Vos debe ta face de torta, a modu de ta se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
+
+A modu de [cosa] ta = "conforme", "de modo que"
+> * __Vos do face de torta, a modu de ta se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
+> * __Vos do face de torta, a modu pa se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
 > * __Home debile a parla, a modu de nos non ta audi.__ - Ele fala baixo, de modo que não ouvimos.
+
+A fin de [cosa] ta = "a fim de", "para"
 > * __Mi a ca, a fin de ta labora.__ - Estou aqui para trabalhar.
-> * __A tempu de altre dormi, nos stude.__ - Enquanto outros dormem nós estudamos. 
-> * __A mesura tempu va, feme super ta bel.__ - A medida que o tempo passa, ela fica mais bela.
+> * __Mi a ca, a fin pa labora.__ - Estou aqui para trabalhar.
+
+A tempu de [cosa] ta = "enquanto", "quando"
+> * __A tempu de altre ta dormi, nos stude.__ - Enquanto eles dormem nós estudamos. 
+> * __A tempu de tu va ta ariva, bate a porta.__ - Quando você chegar, bata à porta.
+
+A mesura de [cosa] ta = "a medida que"
+> * __A mesura de tempu ta va, feme super pa bel.__ - A medida que o tempo passa, ela fica mais bela.
 
 #### 13. Determinadores de pessoa
 Os determinadores de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
@@ -282,7 +296,7 @@ Exemplos
 Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade determinada.
 > * 0 - __nul__
 > * 1 - __un__
-> * 2 - __du__
+> * 2 - __duo__
 > * 3 - __tres__
 > * 4 - __cuatre__
 > * 5 - __cincue__
