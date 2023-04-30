@@ -403,7 +403,7 @@ Os numerais fracionários são formados pela partícula "pa"
 __Partículas__
 > * __non__ (negativa), __se__ (passiva), __ta__ (abstrativa), __pa__ (compositiva), __de__ (acusativa),  __a__ (dativa)
 > * __sa__ (cognitiva), __so__ (habitual), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __vo__ (volitiva)
-> * __ca__ (proximal), __la__ (distal), __ja__ (perfectiva), __va__ (futura)
+> * __ca__ (proximal), __la__ (distal), __ja__ (anterior), __va__ (posterior)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
 __Determinadores__
