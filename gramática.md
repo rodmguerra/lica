@@ -401,7 +401,7 @@ Os numerais fracionários são formados pela partícula "pa"
 > * 33 % - __tres dece tres pa centu__
 
 > * __Mi ca non lege de pa du libru__ - Ainda não li nem a metade do livro.
-> * __Nove dece pa centu brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
+> * __Nove dece pa centu brasil se vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
 
 
 #### 5. Resumo
