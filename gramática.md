@@ -412,7 +412,7 @@ Pessoais
 > * __mi__, __nos__, __tu__, __vos__
 
 Quantidade
-> * __unes__, __multi__, __non multi__, __totu__, __totu un__ - quantitativos
+> * __unes__, __multi__, __non multi__, __totu__, __totu un__
 
 Numerais
 > * __nul__ (0), __un__ (1), __du__ (2), __tres__ (3), __cuatru__ (4)
