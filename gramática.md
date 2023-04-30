@@ -1,6 +1,8 @@
 # Gramática de Lica
 
-#### 1. Predicado
+Lica é uma língua auxiliar de gramática simples combinando características de línguas criolas e línguas analíticas. Nenhuma palavra apresenta flexão, ou seja, as palavras são invariáveis quanto a gênero, número, grau, caso ou tempo verbal. Não há verbos de ligação (zero cópula). Há apenas três classes de palavras "predicados" (descrevem as coisas), "partículas" (dão função sintática aos predicados) e "determinadores" (especificam pessoa, número ou quantidade). 
+
+### 1. Predicados 
 Toda palavra que é usada para descrever algo é considerado um predicado. Os predicados não flexionam, nem apresentam número, gênero ou tempo verbal. 
 
 >  * __home__ - é um homem
@@ -9,10 +11,11 @@ Toda palavra que é usada para descrever algo é considerado um predicado. Os pr
 >  * __ama__ - ama
 >  * __stude__ - estuda
 
-Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos, e relações temporais entre predicados podem ser marcadas com locuções adverbiais ou partículas, que veremos em breve.
+_Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos, e relações temporais entre predicados podem ser marcadas com locuções adverbiais ou partículas, que veremos em breve._
 
-#### 2. Intransitivo
+#### 1.1 Intransitivo
 Predicados em sequência, desde que não tenham objeto direto ou indireto, podem ser colocados em qualquer ordem, ficando a critério do falante e se dá por questões de preferência, ênfase ou estilo.
+
 > * __Puer stude.__ A criança está estudando. _(lit.: É criança e estuda.)_
 > * __Feme ama bon. Feme bon ama. Ama bon feme.__ - A mulher bondosa ama. _(lit.: É mulher, ama e é boa)_
 
@@ -20,7 +23,7 @@ Predicados podem ser negados precedendo-os da partícula "non":
 > * __Puer non stude.__ A criança não está estudando. _(lit.: É criança e não estuda.)_
 > * __Feme non bon non ama.__ - A mulher, que não é bondosa, não ama. _(lit.: É mulher, não é boa e não ama)_
 	
-#### 3. Transitivo direto
+#### 1.2. Objeto direto (partícula "de")
 Um predicado sucedido de "de" representa um predicado transitivo, sendo a palavra seguinte seu objeto direto. Nesse caso a ordem importa, o predicado transitivo deve ser o último.
 
 > * __Mi ama de tu__ - Eu te amo.
@@ -35,26 +38,23 @@ Quando "de" é colocado após um predicado que expressa um objeto concreto, ele 
 > * __Mi pater de bel puer.__ - Sou o pai de uma bela criança.
 > * __Home lupu de home.__ - O homem é o lobo do homem.
 
-#### 4. Inversão de agente - partícula "se". 
+#### 1.3. Inversão de agente (partícula "se"). 
 Um predicado intransitivo pode ter seu agente transformado em paciente usando-se a partícula "se". Alguns predicados ganham um sentido específico quando antecedidos desta partícula.
 
 > * __ama__ - ama, o amante
 > * __se ama__ - é amado, amado
-
 > * __stude__ - estuda, o estudante
-> * __se stude.__ - é estudado, o estudo
-
-> * __face__ - faz, o fazedor
-> * __se face.__ - feito, fácil 
-
+> * __se stude__ - é estudado, o estudo
+> * __pinge__ - pinta, o pintor
+> * __se pinge__ - é pintado, a pintura
+> * __face__ - faz, fácil, o fazedor
+> * __se face__ - feito, fácil 
 > * __vide__ - vê, o vidente
-> * __se vide.__ - visto, a vista, visível 
-
+> * __se vide__ - visto, a vista, visível 
 > * __nate__ - o que nasceu, o nacional, nasce
 > * __se nate__ - onde se nasce, o país, a nação
-
-> * __cive__ - a cidadão. 
-> * __se cive__ - a cidade.
+> * __cive__ - a cidadão 
+> * __se cive__ - a cidade
 
 Um predicado transitivo direto também pode ter seu agente  invertido usando-se a partícula "se", o sujeito torna-se o paciente e o objeto direto torna-se o agente.
 
@@ -76,7 +76,7 @@ Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa
 > * __Mi nate de Brasil.__ - Sou brasileiro.
 > * __Brasil se nate de mi.__ - Brasil é o meu país.
 
-#### 5. Transitivo indireto
+#### 1.4. Objeto indireto (partícula "a")
 Um predicado transitivo pode ter também um objeto indireto. Este é sempre precedido da particula "a". Os dois objetos podem ser usados um em sequência do outro, em qualquer ordem. Para evitar ambiguidade, pode-se repetir o predicado antes do segundo objeto, ou substituí-lo por um predicado transitivo direto que confira o mesmo sentido à frase.
 
 > * __Mi compra de libru a tu.__ - Comprei o livro de você.
@@ -89,7 +89,9 @@ Os objetos indiretos (dativos) podem se tornar o sujeito combinando-se as partí
 > * __Home se a vende de libru a mi.__ - O homem para quem foi vendido o livro por mim.
 > * __Home se a vende a mi de libru.__ - O homem para quem foi vendido por mim o livro.
 
-#### 6. Predicados abstratos - partícula "ta".
+#### 1.5. Predicados abstratos
+
+#### 1.5.1 Formando predicados abstratos (partícula "ta")
 Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qualidade ou ação abstrata, ou seja, uma generalização da ideia expressa por ele.
 > * __Ta feme__ - ser mulher, a femininidade
 > * __Ta bon__ - ser bom, bondade
@@ -98,7 +100,7 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 > * __Ta ama bel__ - O amor é lindo.
 > * __Ta vive non se face__ - A vida não é fácil.
 
-
+#### 1.5.1 Predicados abstratos como objeto direto ("de \[??\] ta")
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Mi vide de ta ama.__ - Vejo o amor.
 > * __Mi vide de tu ta ama.__ - Vejo você amar.
@@ -114,6 +116,7 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Manga super de ta bon fructo.__ - Manga é a melhor fruta. (lit: Manga supera em ser boa fruta)
 > * __Manga bon de ta super de pomo.__ - Manga é melhor que maçã. (lit: Manga é boa superando maçã)
 
+#### 1.5.2 Combinando predicados intransitivos (partícula "pa")
 Os predicados abstratos transitivos ("de ta") podem ser simplificados como predicados transitivos ("pa"). Ou seja, "pa" funciona como elemento de ligação entre dois predicados intransitivos, formando um só predicado intransitivo composto que carrega a semântica dos dois predicados originais.
 > * __Feme bon dance.__ - A mulher boa dança.
 > * __Feme bon pa dance.__ - A mulher que dança bem. A boa dançarina.
@@ -131,7 +134,7 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados como predi
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-
+#### 1.5.3 Predicados compostos modais (partículas "vo", "po", "do", "sa" e "re")
 Os predicados compostos com "vole", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados equivalentes formados pelas partículas "vo", "po", "do", "sa" e "re"
 > * __Tu vo ama.__ - Você quer amar.
 > * __Tu po ama.__ - Você pode amar.
@@ -143,47 +146,77 @@ Os predicados compostos com "vole", "pote", "debe", "sape" e "novu", quando segu
 > * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo)
 
 
-#### 7. Tempo gramatical
+#### 1.6. Expressando tempo e espaço (partículas "ca", "ja", "va" e "la")
 Os predicados não especificam o tempo em que as ações ocorreram, isso pode ser feito com locuções adverbiais de tempo. No entanto, existem partículas que indicam se o predicado é válido no tempo exato da narrativa ("ca"), antes do tempo da narrativa ("ja") e após o tempo da narrativa ("va"). 
 
+
+#### 1.6.1 Expressando proximidade e distanciamento (partículas "ca" e "la")
+A partícula "ca" indica proximidade e a partícula "la" indica distância. São usados em predicados simples ou para compor locuções adverbiais de tempo ou espaço.
+> * __ca libru__ - este livro
+> * __la libru__ - aquele livro
+> * __a ca__ - agora, aqui
+> * __a la__ - então, naquele tempo; lá, naquele lugar
+> * __a ca tempu__ - agora
+> * __a la tempu__ - naquele tempo, então
+> * __a ca locu__ - aqui, neste lugar
+> * __a la locu__ - lá, naquele ligar
+> * __a ca di__ - hoje
+> * __a la di__ - naquele dia
+
+
+#### 1.6.2 Expressando anterioridade e posterioridade (partículas "ja" e "va")
+> * __ja predide__ - aquilo que era um livro
+> * __ja predide__ - aquele que presidia, o o ex-presidente
+> * __a ja__ - no passado, atrás
+> * __a ja casa__ - na casa anterior
+> * __a ja tempu__ - no passado
+> * __a ja locu__ - atrás
+> * __a va__ - no futuro, em frente
+> * __a va casa__ - na casa em frente
+> * __a va tempu__ - no futuro
+> * __a va locu__ - em frente
+> * __a ja di__ - ontem
+> * __a va di__ - amanhã
+> * __a ja di se du__ - anteontem
+> * __a va di se du__ - depois de amanhã
+> * __a ja mense se tres__ - há três meses
+> * __a va anu se dece__ - daqui a dez a nos
+
+
+#### 1.6.1 Expressando tempo 
+
+#### 1.6.2 Fatos pretéritos (partícula "ja" e "la")
 A partícula "ja"  modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. 
 > * __Libru ja se lege se guarda de armari.__ O livro, que já foi lido, está guardado no armário.
-> * __Cavalu ja se da, dente non debe ta se vide.__ - Cavalo dado não se olha os dentes.
-> * __Ja preside vole de va preside a novu.__ - O ex-presidente quer ser presidente novamente.
+> * __Cavalu ja se da, dente non do se vide.__ - Cavalo dado não se olha os dentes.
+> * __Ja preside vole pa re preside.__ - O ex-presidente quer ser presidente novamente.
 
+A partícula "la" também pode ser usada para se referir a um tempo passado anteriormente expresso. 
+> * __Mi ja marita, mi la sufre.__ Já fui casado, eu sofria.  
+
+#### 1.6.2 Fatos posteriores (partícula "va")
 A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
 > * __Home va mori.__ O moribundo. O homem vai morrer.
 > * __Mi non sa nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
 
-A partícula "ca" reforça que o ato está acontecendo no exato momento. Ou é usado para destacar a diferença de tempo quando há outra partícula de tempo aplicada a outro predicado.
+#### 1.6.2 Fatos correntes (partícula "ca")
+A partícula "ca" pode ser usada para reforçar que o ato está acontecendo no exato momento o da narrativa, podendo ser usado como forma de contrastar com outro predicado que tenha ocorrido em tempo diferente.
 > * __Pa silente! Mi ca lege.__ Silêncio! Estou lendo.
 > * __Feme ja fede ma ca bel.__ - Ela era feia, mas agora está bonita.
 
-As partículas "ca", "la", "va" e "ja" também são usados para compor locuções adverbiais de tempo ou espaço.
-> * __a ca__ - agora, aqui
-> * __a tempu ca__ - agora
-> * __a locu ca__ - aqui
+#### 1.6.2 Expressando posição
+As partículas "ca", "la", "ja" e "va" 
+Mi ca a casa
+Mi ca 
+
  
-> * __a ja__ - no passado, atrás
-> * __a tempu ja__ - no passado
-> * __a locu ja__ - atrás
 
-> * __a va__ - no futuro, em frente
-> * __a tempu va__ - no futuro
-> * __a locu va__ - em frente
 
-> * __a la__ - então, naquele tempo; lá, naquele lugar
-> * __a tempu la__ - naquele tempo, então
-> * __a locu la__ - lá
+
  
-> * __a di ca__ - hoje
-> * __a di ja__ - ontem
-> * __a di ja se du__ - anteontem
-> * __a di va__ - amanhã
-> * __a di va se tres__ - daqui a três dias
-> * __a di la__ - naquele dia
 
-#### 8. Imperativo
+
+#### 1.6.1. 
 O imperativo é formado com a partícula "pa" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
 > * __Pa stude.__ - Estude.
 > * __Pa tu stude.__ - Estude.
