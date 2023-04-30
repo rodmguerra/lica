@@ -387,8 +387,8 @@ Os numerais fracionários são formados pela partícula "pa"
 
 #### 15. Resumo
 __Partículas__
-> * __se__ (passiva), __ta__ (abstrativa), __non__ (negativa), __pa__ (compositiva), 
-> * __de__ (acusativa),  __a__ (dativa)
+> * __non__ (negativa), __se__ (passiva), __ta__ (abstrativa), __pa__ (compositiva), __de__ (acusativa),  __a__ (dativa)
+> * __sa__ (cognitiva), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __vo__ (volitiva)
 > * __ca__ (proximal), __la__ (distal), __ja__ (perfectiva), __va__ (futura)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
