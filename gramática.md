@@ -229,22 +229,22 @@ A partícula "ja"  modifica o predicado indicando que ele foi válido antes do t
 > * __Ja preside vole pa re preside.__ - O ex-presidente quer ser presidente novamente.
 
 
-#### 2.4. Fatos posteriores (partícula "va")
+#### 2.5. Fatos posteriores (partícula "va")
 A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
 > * __Home va mori.__ O moribundo. O homem vai morrer.
 > * __Mi non sa nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
 
-#### 2.5 Fatos correntes (partícula "ca")
+#### 2.6 Fatos correntes (partícula "ca")
 A partícula "ca" pode ser usada para reforçar que o ato está acontecendo no exato momento o da narrativa, podendo ser usado como forma de contrastar com outro predicado que tenha ocorrido em tempo diferente.
 > * __Pa silente! Mi ca lege.__ Silêncio! Estou lendo.
 > * __Feme ja fede ma ca bel.__ - Ela era feia, mas agora está bonita.
 
-#### 2.5 Referindo-se a um momento anteriormente expresso (partícula "la")
+#### 2.7 Referindo-se a um momento anteriormente expresso (partícula "la")
 A partícula "la" também pode ser usada para se referir a um tempo passado anteriormente expresso. 
 > * __Mi ja marita, mi la sufre.__ Já fui casado, eu sofria.  
 > * __Mi va preside de Brasil, mi la se ama.__ Presidirei o Brasil, serei amado.
 
-#### 2.6. Expressando posição
+#### 2.8. Expressando posição
 As partículas "ca", "la", "ja" e "va" podem ser usadas para expressar uma ideia de posição.
 > * __Mi a casa.__       - Estou em casa.
 > * __Mi a ca de casa.__ - Estou perto de casa.
@@ -268,9 +268,9 @@ A posição pode ser expressada com predicados também.
 > * __Se calce infer de tabla.__ O sapato está em baixo da mesa.
 > * __Flamengo joca pa contra de Fluminense.__ O Flamengo joga contra o fluminense.
 
-#### 10. Períodos compostos de múltiplas orações
+### 3. Períodos compostos de múltiplas orações
 
-#### 10. Recursão pronominal
+#### 3.1. Recursão pronominal
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
 > * __Feme stude de lingua bel se insenia de sape.__ - Eu estudo a lingua bela ensinada pelo sábio.
 
@@ -278,7 +278,7 @@ Se desejar referenciar outro predicado que não é o objeto imediatamente anteri
 > * __Feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
 > * __Feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
 
-#### 10.1 Coordenação (partículas "e", "o", "ma" e "ergo")
+#### 3.2 Coordenação (partículas "e", "o", "ma" e "ergo")
 As orações coordenadas são formadas usando-se as partículas "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
 > * __Mi pensa ergo mi existe.__ Penso logo existo.
 > * __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
@@ -286,7 +286,7 @@ As orações coordenadas são formadas usando-se as partículas "e" (e), "o" (ou
 > * __Nos non va depende o nos va mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
 > * __Mi ja stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
 
-#### 10.2. Subordinação
+#### 3.3. Subordinação
 Expressões de posição podem ser combinadas podem ter um predicado transitivo abstrato "de (...) ta", criando uma ideia de subordinação entre as orações.
 
 A casu de [cosa] ta = "se"
@@ -316,7 +316,9 @@ A tempu de [cosa] ta = "enquanto", "quando"
 A mesura de [cosa] ta = "a medida que"
 > * __A mesura de tempu ta va, feme super pa bel.__ - A medida que o tempo passa, ela fica mais bela.
 
-#### 13. Determinadores de pessoa
+### 4. Determinadores
+
+#### 4.1 Determinadores de pessoa
 Os determinadores de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
 > * __mi__ - eu
 > * __tu__ - você
@@ -333,7 +335,7 @@ Não existem determinadores de terceira pessoa, pode-se repetir o predicado caso
 > * __Home vide de home altre a fenestra.__ - O homem vê outro homem pela janela.
 
 
-#### 14. Determinadores de quantidade
+#### 4.2. Determinadores de quantidade
 Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se usados apenas quando houver uma necessidade explícita de expressar a quantidade. São usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados. 
 > * __nul__ - nenhum, ninguém, nada, zero
 > * __un__ - um, alguém, alguma coisa
@@ -349,7 +351,7 @@ Exemplos
 > * __Multi tenta ma non multi sucede__ Muitos tentam mas poucos conseguem.
 > * __Mi vide de multi puer a strata.__ - Eu vi muitos meninos na rua.
 
-#### 15. Determinadores de quantidade absolutos - numerais
+#### 4.3. Determinadores de quantidade absolutos - numerais
 Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade determinada.
 > * 0 - __nul__
 > * 1 - __un__
@@ -397,7 +399,7 @@ Os numerais fracionários são formados pela partícula "pa"
 > * __Nove dece pa centu brasil prende vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
 
 
-#### 15. Resumo
+#### 5. Resumo
 __Partículas__
 > * __non__ (negativa), __se__ (passiva), __ta__ (abstrativa), __pa__ (compositiva), __de__ (acusativa),  __a__ (dativa)
 > * __sa__ (cognitiva), __so__ (habitual), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __vo__ (volitiva)
@@ -405,10 +407,13 @@ __Partículas__
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
 __Determinadores__
-> * __mi__, __nos__, __tu__, __vos__ - pessoais
+Pessoais
+> * __mi__, __nos__, __tu__, __vos__
+
+Quantidade
 > * __unes__, __multi__, __non multi__, __totu__, __totu un__ - quantitativos
 
-__Numerais__
+Numerais
 > * __nul__ (0), __un__ (1), __du__ (2), __tres__ (3), __cuatru__ (4)
 > * __cincue__ (5), __sex__ (6), __septe__ (7), __octu__ (8), __nove__ (9)
 > * __dece__ (10), __centu__ (100), __mil__ (1 000), __mil se du__ (1 000 000)
