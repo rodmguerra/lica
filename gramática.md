@@ -90,7 +90,7 @@ Um predicado transitivo pode ter também um objeto indireto. Este é sempre prec
 > * __Mi compra de libru a tu.__ - Comprei o livro de você.
 > * __Mi vende a tu de libru.__ - Vendi para você o livro.
 > * __Mi compra de libro, compra a tu.__ - Comprei o livro de você.
-> * __Mi compra de libro se vende tu.__ - Comprei o livro que você vendia.
+> * __Mi compra de libro se vende de tu.__ - Comprei o livro que você vendia.
 
 Os objetos indiretos também podem ser invertidos com a partícula "se". Nesse caso, o objeto direto (se houver) permanece o mesmo, mas o agente torna-se o objeto indireto (precedido de "a").
 > * __Mi vende de libru a home.__ - Vendi o livro ao homem.
