@@ -108,7 +108,7 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Tu pote de ta ama.__ - Você pode amar.
 > * __Tu debe de ta ama.__ - Você deve amar.
 > * __Tu sape de ta ama.__ - Você sabe amar.
-> * __Tu novu de ta ama.__ - Você ama de novo. (Você novo a amar).
+> * __Tu novu de ta ama.__ - Você ama de novo. (lit: Você novo a amar).
 > * __Feme bon de ta dance.__ A boa dançarina. (lit: A mulher é boa para dançar)
 > * __Tu bon de ta joca de futbol.__ - Você joga bem o futebol. (lit: Você é bom jogando futebol)
 > * __Manga super de ta bon fructo.__ - Manga é a melhor fruta. (lit: Manga supera em ser boa fruta)
