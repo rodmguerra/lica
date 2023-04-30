@@ -407,6 +407,7 @@ __Partículas__
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
 __Determinadores__
+
 Pessoais
 > * __mi__, __nos__, __tu__, __vos__
 
