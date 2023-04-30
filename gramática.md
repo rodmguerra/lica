@@ -95,8 +95,8 @@ Os objetos indiretos também podem ser invertidos com a partícula "se". Nesse c
 > * __Mi vende de libru a home.__ - Vendi o livro ao homem.
 > * __Home se a vende de libru a mi.__ - O homem para quem foi vendido o livro por mim.
 > * __Home se a vende a mi de libru.__ - O homem para quem foi vendido por mim o livro.
-> * __Pa cuere a mi.__ Pergunte para mim.
-> * __Pa mi a se cuere.__ Que eu seja questionado.
+> * __Pa cuere a mi.__ - Pergunte para mim.
+> * __Pa mi a se cuere.__ - Que eu seja questionado.
  
 #### 1.5. Predicados abstratos
 
