@@ -91,7 +91,7 @@ Os objetos indiretos (dativos) podem se tornar o sujeito combinando-se as partí
 
 #### 1.5. Predicados abstratos
 
-#### 1.5.1 Formando predicados abstratos (partícula "ta")
+##### 1.5.1 Formando predicados abstratos (partícula "ta")
 Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qualidade ou ação abstrata, ou seja, uma generalização da ideia expressa por ele.
 > * __Ta feme__ - ser mulher, a femininidade
 > * __Ta bon__ - ser bom, bondade
@@ -100,23 +100,18 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 > * __Ta ama bel__ - O amor é lindo.
 > * __Ta vive non se face__ - A vida não é fácil.
 
-#### 1.5.1 Predicados abstratos como objeto direto ("de \[??\] ta")
+##### 1.5.1 Predicados abstratos como objeto direto ("de \[??\] ta")
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Mi vide de ta ama.__ - Vejo o amor.
 > * __Mi vide de tu ta ama.__ - Vejo você amar.
 > * __Mi vide de tu ta ama de fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama de fili de home.__ - Vejo o homem amar os filhos dele.
-> * __Tu vole de ta ama.__ - Você quer amar.
-> * __Tu pote de ta ama.__ - Você pode amar.
-> * __Tu debe de ta ama.__ - Você deve amar.
-> * __Tu sape de ta ama.__ - Você sabe amar.
-> * __Tu novu de ta ama.__ - Você ama de novo. (lit: Você novo a amar).
 > * __Feme bon de ta dance.__ A boa dançarina. (lit: A mulher é boa para dançar)
 > * __Tu bon de ta joca de futbol.__ - Você joga bem o futebol. (lit: Você é bom jogando futebol)
 > * __Manga super de ta bon fructo.__ - Manga é a melhor fruta. (lit: Manga supera em ser boa fruta)
 > * __Manga bon de ta super de pomo.__ - Manga é melhor que maçã. (lit: Manga é boa superando maçã)
 
-#### 1.5.2 Combinando predicados intransitivos (partícula "pa")
+##### 1.5.2 Combinando predicados intransitivos (partícula "pa")
 Os predicados abstratos transitivos ("de ta") podem ser simplificados como predicados transitivos ("pa"). Ou seja, "pa" funciona como elemento de ligação entre dois predicados intransitivos, formando um só predicado intransitivo composto que carrega a semântica dos dois predicados originais.
 > * __Feme bon dance.__ - A mulher boa dança.
 > * __Feme bon pa dance.__ - A mulher que dança bem. A boa dançarina.
@@ -134,23 +129,52 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados como predi
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-#### 1.5.3 Predicados compostos modais (partículas "vo", "po", "do", "sa" e "re")
+##### 1.5.3 Predicados compostos modais (partículas "vo", "po", "do", "sa" e "re")
 Os predicados compostos com "vole", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados equivalentes formados pelas partículas "vo", "po", "do", "sa" e "re"
-> * __Tu vo ama.__ - Você quer amar.
-> * __Tu po ama.__ - Você pode amar.
-> * __Tu do ama.__ - Você deve amar.
-> * __Tu sa ama.__ - Você sabe amar.
-> * __Tu re ama.__ - Você ama de novo.
+> * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
+> * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
+> * __Tu debe de ta ama.__ = __Tu do ama.__ - Você deve amar.
+> * __Tu sape de ta ama.__ = __Tu sa ama.__ - Você sabe amar.
+> * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
 > * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
 > * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
-> * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo)
+> * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo).
+> * __non se po re cogne__ - Irreconhecível.
 
 
-#### 1.6. Expressando tempo e espaço (partículas "ca", "ja", "va" e "la")
-Os predicados não especificam o tempo em que as ações ocorreram, isso pode ser feito com locuções adverbiais de tempo. No entanto, existem partículas que indicam se o predicado é válido no tempo exato da narrativa ("ca"), antes do tempo da narrativa ("ja") e após o tempo da narrativa ("va"). 
+##### 1.5.4. Pedidos, ordens e desejos (partícula "pa")
+O imperativo, usado para pedidos, instruções ordens e desejos é formado com a partícula "pa" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
+> * __Pa stude.__ - Estude.
+> * __Pa tu stude.__ - Estude.
+> * __Pa non cure.__ - Não corra
+> * __Pa tu non cure.__ - Não corra
+> * __Pa human.__ - Sejam humanos.
+> * __Pa vos human.__ - Sejam humanos.
+> * __Pa nos ede.__ - Vamos comer.
+> * __Pa tu di bon.__ - Bom dia. Tenha um bom dia.
+> * __Pa di bon.__ - Bom dia. Tenha um bom dia.
+
+#### 9. Perguntas (determinador "ce")
+Perguntas podem ser expressas usando o determinador interrogativo "ce":
+> * __Tu nate a tempu ce?__ - Quando você nasceu?
+> * __Tu a locu ce?__ - Onde você está?
+> * __Tu ce?__ - Quem é você?
+> * __Ce persona discoperi Brasil?__ - Quem descobriu o Brasil?
+> * __Tu a anu ce?__ - Você tem quantos anos?
+> * __Custa ce?__ - Quanto custa?
+
+Perguntas de sim o não exigem a terminação "o non".
+> * __Tu vo peti o non?__ - Gostaria de pedir?
+> * __Vo.__ ou __Vo peti.__ ou __Mi vo peti.__ - Sim, quero pedir.
+> * __Non.__ ou __Non vo.__ ou __Non vo peti.__ ou __Mi non vo peti__ - Não, não quero pedir.
+> * __Feme bel o non?__ - Ela é bonita?
+> * __Bel__ ou __Feme bel__ - Sim, ela é bonita.
+> * __Non__ ou __Non bel__ ou __Feme non bel.__ - Não, ela não é bonita. 
 
 
-#### 1.6.1 Expressando proximidade e distanciamento (partículas "ca" e "la")
+### 2 Expressando tempo e espaço (partículas "ca", "ja", "va" e "la")
+
+#### 2.1 Expressando proximidade e distanciamento (partículas "ca" e "la")
 A partícula "ca" indica proximidade e a partícula "la" indica distância. São usados em predicados simples ou para compor locuções adverbiais de tempo ou espaço.
 > * __ca libru__ - este livro
 > * __la libru__ - aquele livro
@@ -164,7 +188,7 @@ A partícula "ca" indica proximidade e a partícula "la" indica distância. São
 > * __a la di__ - naquele dia
 
 
-#### 1.6.2 Expressando anterioridade e posterioridade (partículas "ja" e "va")
+#### 2.2 Expressando anterioridade e posterioridade (partículas "ja" e "va")
 > * __ja predide__ - aquilo que era um livro
 > * __ja predide__ - aquele que presidia, o o ex-presidente
 > * __a ja__ - no passado, atrás
@@ -183,60 +207,53 @@ A partícula "ca" indica proximidade e a partícula "la" indica distância. São
 > * __a va anu se dece__ - daqui a dez a nos
 
 
-#### 1.6.1 Expressando tempo 
+#### 2.3. Expressando tempo
+Os predicados não especificam o tempo em que as ações ocorreram, isso pode ser feito com locuções adverbiais de tempo. No entanto, existem partículas que indicam se o predicado é válido no tempo exato da narrativa ("ca"), antes do tempo da narrativa ("ja") e após o tempo da narrativa ("va"). 
 
-#### 1.6.2 Fatos pretéritos (partícula "ja" e "la")
+#### 2.4. Fatos anteriores (partícula "ja")
 A partícula "ja"  modifica o predicado indicando que ele foi válido antes do tempo da narrativa, mas não é mais. 
 > * __Libru ja se lege se guarda de armari.__ O livro, que já foi lido, está guardado no armário.
 > * __Cavalu ja se da, dente non do se vide.__ - Cavalo dado não se olha os dentes.
 > * __Ja preside vole pa re preside.__ - O ex-presidente quer ser presidente novamente.
 
-A partícula "la" também pode ser usada para se referir a um tempo passado anteriormente expresso. 
-> * __Mi ja marita, mi la sufre.__ Já fui casado, eu sofria.  
 
-#### 1.6.2 Fatos posteriores (partícula "va")
+#### 2.4. Fatos posteriores (partícula "va")
 A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
 > * __Home va mori.__ O moribundo. O homem vai morrer.
 > * __Mi non sa nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
 
-#### 1.6.2 Fatos correntes (partícula "ca")
+#### 2.5 Fatos correntes (partícula "ca")
 A partícula "ca" pode ser usada para reforçar que o ato está acontecendo no exato momento o da narrativa, podendo ser usado como forma de contrastar com outro predicado que tenha ocorrido em tempo diferente.
 > * __Pa silente! Mi ca lege.__ Silêncio! Estou lendo.
 > * __Feme ja fede ma ca bel.__ - Ela era feia, mas agora está bonita.
 
-#### 1.6.2 Expressando posição
-As partículas "ca", "la", "ja" e "va" 
-Mi ca a casa
-Mi ca 
+#### 2.5 Referindo-se a um momento anteriormente expresso (partícula "la")
+A partícula "la" também pode ser usada para se referir a um tempo passado anteriormente expresso. 
+> * __Mi ja marita, mi la sufre.__ Já fui casado, eu sofria.  
+> * __Mi va preside de Brasil, mi la se ama.__ Presidirei o Brasil, serei amado.
 
- 
+#### 2.6. Expressando posição
+As partículas "ca", "la", "ja" e "va" podem ser usadas para expressar uma ideia de posição.
+> * __Mi a casa.__       - Estou em casa.
+> * __Mi a ca de casa.__ - Estou perto de casa.
+> * __Mi a la de casa.__ - Estou longe de casa
+> * __Mi a ja de casa.__ - Estou atrás de casa.
+> * __Mi a va de casa.__ - Estou em frente de casa. 
 
+A posição pode ser expressada com predicados também.
+> * __Mi inter de casa.___ Estou dentro de casa
+> * __Mi exter de casa.___ Estou fora de casa.
+> * __Mi super de casa.___ Estou em cima da casa.
+> * __Mi infer de casa.___ Estou em baixo da casa.
+> * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
+> * __Mi guarda de libro a capsa.__ Eu guardo o livro na caixa.
+> * __Mi guarda de libro a inter de capsa.__ Eu guardo o livro dentro da caixa.
+> * __Train parti a se du.__ O trem parte às duas.
+> * __Libru a tabla.__ O livro está sobre a mesa.
+> * __Libru a super de tabla.__ O livro está sobre a mesa.
+> * __Se calce a infer de tabla.__ O sapato está em baixo da mesa.
 
-
- 
-
-
-#### 1.6.1. 
-O imperativo é formado com a partícula "pa" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
-> * __Pa stude.__ - Estude.
-> * __Pa tu stude.__ - Estude.
-> * __Pa human.__ - Sejam humanos.
-> * __Pa vos human.__ - Sejam humanos.
-> * __Pa nos ede.__ - Vamos comer.
-> * __Pa tu di bon.__ - Bom dia. Tenha um bom dia.
-> * __Pa di bon.__ - Bom dia. Tenha um bom dia.
-
-#### 9. Perguntas
-Usando o determinador interrogativo "ce":
-> * __Tu nate a tempu ce?__ - Quando você nasceu?
-> * __Tu a locu ce?__ - Onde você está?
-> * __Tu ce?__ - Quem é você?
-> * __Ce persona discoperi Brasil?__ - Quem descobriu o Brasil?
-> * __Tu a anu ce?__ - Você tem quantos anos?
-> * __Custa ce?__ - Quanto custa?
-
-Perguntas de sim o não:
-> * __Tu vole a visita mi, o non?__ - Quer me visitar?
+#### 10. Períodos compostos de múltiplas orações
 
 #### 10. Recursão pronominal
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
@@ -246,7 +263,7 @@ Se desejar referenciar outro predicado que não é o objeto imediatamente anteri
 > * __Feme stude de lingua bel se insenia de sape, feme fili de mi.__ - A mulher que estuda a língua ensinada pelo sábio é minha filha.
 > * __Feme stude de angle, stude a scola de lingua.__ Estudo inglês na escola de idiomas.
 
-#### 11. Coordenação - parículas "e", "o", "ma" e "ergo"
+#### 10.1 Coordenação (partículas "e", "o", "ma" e "ergo")
 As orações coordenadas são formadas usando-se as partículas "e" (e), "o" (ou), "ma" (mas, porém) e "ergo" (logo, então, portanto)
 > * __Mi pensa ergo mi existe.__ Penso logo existo.
 > * __Mi sape tu ta labora a tempu la, ergo mi non clama tu.__ Eu sabia que você trabalhava naquele horário, então não te liguei.
@@ -254,23 +271,15 @@ As orações coordenadas são formadas usando-se as partículas "e" (e), "o" (ou
 > * __Nos non va depende o nos va mori.__ Ficaremos independentes ou morreremos. Independência ou morte.
 > * __Mi ja stude ma mi non se bon de exame.__ Eu tinha estudado mas não fui bem no exame.
 
-#### 12. Locuções adverbiais
-A partícula "a" também é usada para expressar locuções adverbiais. 
-> * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
-> * __Mi guarda de libro a capsa.__ Eu guardo o livro dentro da caixa.
-> * __Mi guarda de libro a inter de capsa.__ Eu guardo o livro dentro da caixa.
-> * __Train parti a se du.__ O trem parte às duas.
-> * __Libru a tabla.__ O livro está sobre a mesa.
-> * __Libru a super de tabla.__ O livro está sobre a mesa.
-> * __Se calce a infer de tabla.__ O sapato está em baixo da mesa.
-
-Locuções adverbiais podem ser combinadas podem ter um predicado transitivo abstrato "de (...) ta", criando uma ideia de subordinação entre as orações.
+#### 10.2. Subordinação
+Expressões de posição podem ser combinadas podem ter um predicado transitivo abstrato "de (...) ta", criando uma ideia de subordinação entre as orações.
 
 A casu de [cosa] ta = "se"
 > * __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
 > * __A casu de tu ta va studa, tu va se bon de exame.__ - Se você estudar, fará um bom exame.
-> * __A casu de tu ta ja  studa, tu ta ja se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
-> * __Nos va a festa, a casu de non ta va pluve.__ - Vamos à festa se não chover.
+> * __A casu de tu ta ja studa, tu ta ja se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
+> * __Nos va a festa, a casu de ta non va pluve.__ - Vamos à festa se não chover.
+> * __Nos va a festa, a casu pa non va pluve.__ - Vamos à festa se não chover.
 
 A causa de [cosa] ta = "porque"
 > * __Mi vive a causa de tu ta ja salva de mi.__ - Estou vivo porque você me salvou.
@@ -329,7 +338,7 @@ Exemplos
 Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade determinada.
 > * 0 - __nul__
 > * 1 - __un__
-> * 2 - __duo__
+> * 2 - __du__
 > * 3 - __tres__
 > * 4 - __cuatre__
 > * 5 - __cincue__
@@ -377,8 +386,7 @@ Os numerais fracionários são formados pela partícula "pa"
 __Partículas__
 > * __se__ (passiva), __ta__ (abstrativa), __non__ (negativa), __pa__ (compositiva), 
 > * __de__ (acusativa),  __a__ (dativa)
-> * __ca__ (proximal), __la__ (distal)
-> * __ja__ (perfectiva), __va__ (futura)
+> * __ca__ (proximal), __la__ (distal), __ja__ (perfectiva), __va__ (futura)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
 __Determinadores__
