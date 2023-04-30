@@ -346,11 +346,11 @@ Os numerais também são determinadores de quantidade, mas diferente de grande p
 > * 1 - __un__
 > * 2 - __du__
 > * 3 - __tres__
-> * 4 - __cuatre__
+> * 4 - __cuatru__
 > * 5 - __cincue__
 > * 6 - __sex__
 > * 7 - __septe__
-> * 8 - __octe__
+> * 8 - __octu__
 > * 9 - __nove__
 
 > * 10 - __dece__
@@ -381,7 +381,7 @@ Os numerais ordinais são precedidos da partícula "se"
 
 Os numerais fracionários são formados pela partícula "pa"
 > * 1/2 - __pa du__
-> * 3/4 - __tres pa cuatre__
+> * 3/4 - __tres pa cuatru__
 > * 33 % - __tres dece tres pa centu__
 
 > * __Mi ca non lege de pa du libru__ - Ainda não li nem a metade do livro.
