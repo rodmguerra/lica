@@ -190,6 +190,8 @@ Perguntas de "sim o não" exigem a terminação "o non".
 A partícula "ca" indica proximidade e a partícula "la" indica distância. São usados em predicados simples ou para compor locuções adverbiais de tempo ou espaço.
 > * __ca libru__ - este livro
 > * __la libru__ - aquele livro
+> * __ca preside__ - o que agora preside, este presidente, o atual presidente 
+> * __la preside__ - o que preside lá, o que preside naquele tempo, aquele presidente, o então presidente 
 > * __a ca__ - agora, aqui
 > * __a la__ - então, naquele tempo; lá, naquele lugar
 > * __a ca tempu__ - agora
@@ -201,8 +203,8 @@ A partícula "ca" indica proximidade e a partícula "la" indica distância. São
 
 
 #### 2.2 Expressando anterioridade e posterioridade (partículas "ja" e "va")
-> * __ja predide__ - aquilo que era um livro
-> * __ja predide__ - aquele que presidia, o o ex-presidente
+> * __ja preside__ - aquele que presidia, o ex-presidente
+> * __va preside__ - aquele que presidirá, o futuro presidente
 > * __a ja__ - no passado, atrás
 > * __a ja casa__ - na casa anterior
 > * __a ja tempu__ - no passado
