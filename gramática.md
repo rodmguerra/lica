@@ -138,14 +138,14 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados com a part
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-##### 1.5.3 Predicados  modais (partículas "vo", "po", "do", "sa", "so", e "re")
-Os predicados compostos com "vole", "sole", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "po", "do", "sa" e "re"
+##### 1.5.3 Predicados  modais (partículas "vo", "so", "po", "do", "sa", "so", e "re")
+Os predicados compostos com "vole", "solu", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "po", "do", "sa" e "re"
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
 > * __Tu debe de ta ama.__ = __Tu do ama.__ - Você tem que amar. Você deve amar.
 > * __Tu sape de ta ama.__ = __Tu sa ama.__ - Você sabe amar.
 > * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
-> * __Tu sole de ta ama.__ = __Tu so ama.__ - Você costuma amar.
+> * __Tu solu de ta ama.__ = __Tu so ama.__ - Você só ama.
 > * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
 > * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
 > * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo).
