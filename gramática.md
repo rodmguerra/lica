@@ -10,8 +10,9 @@ Toda palavra que é usada para descrever algo é considerado um predicado. Os pr
 >  * __bon__ - é bon
 >  * __ama__ - ama
 >  * __stude__ - estuda
+>  * __solu__ - sozinho, só, solitário
 
-_Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos, e relações temporais entre predicados podem ser marcadas com locuções adverbiais ou partículas, que veremos em breve._
+_Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos._
 
 #### 1.1 Intransitivo
 Predicados em sequência, desde que não tenham objeto direto ou indireto, podem ser colocados em qualquer ordem, ficando a critério do falante e se dá por questões de preferência, ênfase ou estilo.
@@ -123,7 +124,7 @@ Predicados abstratos podem ser usados como objetos diretos.
 ##### 1.5.2 Predicados compostos (partícula "pa")
 Os predicados abstratos transitivos ("de ta") podem ser simplificados com a partícula ("pa"). A partícula "pa" funciona como elemento de ligação entre dois predicados, formando um só predicado composto que carrega a semântica dos dois predicados originais.
 > * __Feme bon dance.__ - A mulher boa dança.
-> * __Feme bon pa dance.__ - A mulher que dança bem. A boa dançarina.
+> * __Feme bon de ta dance__ = __Feme bon pa dance.__ - A mulher que dança bem. A boa dançarina.
 > * __Home mal scribe.__ - O homem mau está escrevendo .
 > * __Home mal pa scribe.__ - O homem escreve mal. Um mau escritor.
 > * __Pelé exele pa joca de futbol__ - Pelé é um excelente jogador de futebol.
@@ -138,14 +139,15 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados com a part
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-##### 1.5.3 Predicados  modais (partículas "vo", "so", "po", "do", "sa", "so", e "re")
-Os predicados compostos com "vole", "solu", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "po", "do", "sa" e "re"
+##### 1.5.3 Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa", "so", e "re")
+Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "su", "po", "do", "sa" e "re"
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
 > * __Tu debe de ta ama.__ = __Tu do ama.__ - Você tem que amar. Você deve amar.
 > * __Tu sape de ta ama.__ = __Tu sa ama.__ - Você sabe amar.
 > * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
-> * __Tu solu de ta ama.__ = __Tu so ama.__ - Você só ama.
+> * __Tu sole de ta ama.__ = __Tu su ama.__ - Você costuma amar.
+> * __Tu solu de ta ama de feme juve pa super (de tu) .__ = __Tu so ama de feme juve pa super (de tu).__ - Você só ama mulheres mais jovens (que você).
 > * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
 > * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
 > * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo).
@@ -404,7 +406,7 @@ Os numerais fracionários são formados pela partícula "pa"
 #### 5. Resumo
 __Partículas__
 > * __non__ (negativa), __se__ (passiva), __ta__ (abstrativa), __pa__ (compositiva), __de__ (acusativa),  __a__ (dativa)
-> * __sa__ (cognitiva), __so__ (habitual), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __vo__ (volitiva)
+> * __sa__ (cognitiva), __so__ (exclusiva), __su__ (habitual), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __vo__ (volitiva)
 > * __ca__ (proximal), __la__ (distal), __ja__ (anterior), __va__ (posterior)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
