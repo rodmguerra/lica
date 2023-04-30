@@ -45,15 +45,21 @@ Um predicado intransitivo pode ter seu agente transformado em paciente usando-se
 > * __se ama__ - é amado, amado
 > * __stude__ - estuda, o estudante
 > * __se stude__ - é estudado, o estudo
+> * __cogne__ - conhecer
+> * __se cogne__ - conhecido
+> * __non se cogne__ - incógnito, desconhecido, a incógnita
+> * __sole__ - costuma, tem o costume
+> * __se sole__ - costumeiro, habitual
+> * __non se sole__ insólito, inabitual
 > * __pinge__ - pinta, o pintor
 > * __se pinge__ - é pintado, a pintura
 > * __face__ - faz, o fazedor
 > * __se face__ - feito, fácil, o fato
 > * __vide__ - vê, o vidente
-> * __se vide__ - visto, a vista, visível 
+> * __se vide__ - visto, a vista, o vídeo 
 > * __ama__ - ama, o amante
 > * __se ama__ - amado, o amado 
-> * __nate__ - o que nasceu, o nacional, nasce
+> * __nate__ - o que nasceu, o nacional, nasce, nascido
 > * __se nate__ - onde se nasce, o país, a nação
 > * __cive__ - a cidadão 
 > * __se cive__ - a cidade
@@ -132,17 +138,20 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados como predi
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-##### 1.5.3 Predicados compostos modais (partículas "vo", "po", "do", "sa" e "re")
+##### 1.5.3 Predicados compostos modais (partículas "vo", "po", "do", "sa", "so", e "re")
 Os predicados compostos com "vole", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados equivalentes formados pelas partículas "vo", "po", "do", "sa" e "re"
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
 > * __Tu debe de ta ama.__ = __Tu do ama.__ - Você deve amar.
 > * __Tu sape de ta ama.__ = __Tu sa ama.__ - Você sabe amar.
 > * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
+> * __Tu sole de ta ama.__ = __Tu so ama.__ - Você costuma amar.
 > * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
 > * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
 > * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo).
 > * __non se po re cogne__ - Irreconhecível.
+> * __non se po vide__ - visível.
+> * __se po ride__ - risível.
 
 
 ##### 1.5.4. Pedidos, ordens e desejos (partícula "pa")
@@ -391,7 +400,7 @@ Os numerais fracionários são formados pela partícula "pa"
 #### 15. Resumo
 __Partículas__
 > * __non__ (negativa), __se__ (passiva), __ta__ (abstrativa), __pa__ (compositiva), __de__ (acusativa),  __a__ (dativa)
-> * __sa__ (cognitiva), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __vo__ (volitiva)
+> * __sa__ (cognitiva), __so__ (habitual), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __vo__ (volitiva)
 > * __ca__ (proximal), __la__ (distal), __ja__ (perfectiva), __va__ (futura)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
