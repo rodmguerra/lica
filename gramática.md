@@ -299,7 +299,7 @@ A fin de [cosa] ta = "a fim de", "para"
 
 A tempu de [cosa] ta = "enquanto", "quando"
 > * __A tempu de altre ta dormi, nos stude.__ - Enquanto eles dormem nós estudamos. 
-> * __A tempu de tu va ta ariva, bate a porta.__ - Quando você chegar, bata à porta.
+> * __A tempu de tu va ta ariva, pa tu bate a porta.__ - Quando você chegar, bata à porta.
 
 A mesura de [cosa] ta = "a medida que"
 > * __A mesura de tempu ta va, feme super pa bel.__ - A medida que o tempo passa, ela fica mais bela.
