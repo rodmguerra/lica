@@ -59,13 +59,13 @@ Um predicado intransitivo pode ter seu agente transformado em paciente usando-se
 > * __se cive__ - a cidade
 
 Um predicado transitivo direto também pode ter seu agente invertido usando-se a partícula "se", o sujeito torna-se o paciente e o objeto direto torna-se o agente.
-> * __Fema bon ama de can.__ - A mulher bondosa ama o cachorro.
-> * __Fema bon se ama de can.__ - A mulher bondosa é amada pelo cachorro.
+> * __Feme bon ama de can.__ - A mulher bondosa ama o cachorro.
+> * __Feme bon se ama de can.__ - A mulher bondosa é amada pelo cachorro.
 
 Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa forma é bastante útil quando queremos acresentar mais uma oração para falar do possuidor.
 
-> * __Can de fema bon alacre__ - O cão da mulher boa e alegre. _(Os predicados subsequentes referem-se à mulher)_
-> * __Fema se can de bon alacre__ - O cão da mulher é bom e alegre _(Os predicados subsequentes referem-se ao cão)_
+> * __Can de feme bon alacre__ - O cão da mulher boa e alegre. _(Os predicados subsequentes referem-se à mulher)_
+> * __Feme se can de bon alacre__ - O cão da mulher é bom e alegre _(Os predicados subsequentes referem-se ao cão)_
 > * __Mi se can de bon alacre__ - Meu cão é bom e alegre.
 
 > * __Pater de mi__ - Meu pai.
