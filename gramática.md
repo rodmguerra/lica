@@ -139,7 +139,7 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados com a part
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-##### 1.5.3 Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa", "so", e "re")
+##### 1.5.3 Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa" e "re")
 Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "su", "po", "do", "sa" e "re"
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
@@ -412,13 +412,13 @@ __Partículas__
 
 __Determinadores__
 
-Pessoais
+> Pessoais
 > * __mi__, __nos__, __tu__, __vos__
-
-Quantidade
+> 
+> Quantitivos
 > * __unes__, __multi__, __non multi__, __totu__, __totu un__
-
-Numerais
+> 
+> Numerais
 > * __nul__ (0), __un__ (1), __du__ (2), __tres__ (3), __cuatru__ (4)
 > * __cincue__ (5), __sex__ (6), __septe__ (7), __octu__ (8), __nove__ (9)
 > * __dece__ (10), __centu__ (100), __mil__ (1 000), __mil se du__ (1 000 000)
