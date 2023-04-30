@@ -101,7 +101,7 @@ Os objetos indiretos também podem ser invertidos com a partícula "se". Nesse c
  
 #### 1.5. Predicados abstratos
 
-##### 1.5.1 Sujeito abstrato (partícula "ta")
+##### 1.5.1. Sujeito abstrato (partícula "ta")
 Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qualidade ou ação abstrata, ou seja, uma generalização da ideia expressa por ele.
 > * __Ta feme__ - ser mulher, a femininidade
 > * __Ta bon__ - ser bom, bondade
@@ -110,7 +110,7 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 > * __Ta ama bel__ - O amor é lindo.
 > * __Ta vive non se face__ - A vida não é fácil.
 
-##### 1.5.1 Objeto direto abstrato ("de ta")
+##### 1.5.2. Objeto direto abstrato ("de ta")
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Mi vide de ta ama.__ - Vejo o amor.
 > * __Mi vide de tu ta ama.__ - Vejo você amar.
@@ -121,7 +121,7 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Manga super de ta bon fructo.__ - Manga é a melhor fruta. (lit: Manga supera em ser boa fruta)
 > * __Manga bon de ta super de pomo.__ - Manga é melhor que maçã. (lit: Manga é boa superando maçã)
 
-##### 1.5.2 Predicados compostos (partícula "pa")
+##### 1.5.3. Predicados compostos (partícula "pa")
 Os predicados abstratos transitivos ("de ta") podem ser simplificados com a partícula ("pa"). A partícula "pa" funciona como elemento de ligação entre dois predicados, formando um só predicado composto que carrega a semântica dos dois predicados originais.
 > * __Feme bon dance.__ - A mulher boa dança.
 > * __Feme bon de ta dance__ = __Feme bon pa dance.__ - A mulher que dança bem. A boa dançarina.
@@ -139,7 +139,7 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados com a part
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-##### 1.5.3 Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa" e "re")
+##### 1.5.4. Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa" e "re")
 Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "su", "po", "do", "sa" e "re"
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
@@ -155,8 +155,7 @@ Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "no
 > * __non se po vide__ - visível.
 > * __se po ride__ - risível.
 
-
-##### 1.5.4. Pedidos, instruções, ordens e desejos (partícula "pa")
+##### 1.6. Pedidos, instruções, ordens e desejos (partícula "pa")
 O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a partícula "pa" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
 > * __Pa stude.__ - Estude.
 > * __Pa tu stude.__ - Estude.
@@ -168,7 +167,7 @@ O imperativo, usado para pedidos, instruções, ordens e desejos é formado com 
 > * __Pa tu di bon.__ - Bom dia. Tenha um bom dia.
 > * __Pa di bon.__ - Bom dia. Tenha um bom dia.
 
-#### 1.6. Perguntas (determinador "ce")
+#### 1.7. Perguntas (determinador "ce")
 Perguntas podem ser expressas usando o determinador interrogativo "ce":
 > * __Tu nate a tempu ce?__ - Quando você nasceu?
 > * __Tu a locu ce?__ - Onde você está?
@@ -418,6 +417,9 @@ __Determinadores__
 > Quantitivos
 > * __unes__, __multi__, __non multi__, __totu__, __totu un__
 > 
+> Interrogativo
+> * __ce__
+>  
 > Numerais
 > * __nul__ (0), __un__ (1), __du__ (2), __tres__ (3), __cuatru__ (4)
 > * __cincue__ (5), __sex__ (6), __septe__ (7), __octu__ (8), __nove__ (9)
