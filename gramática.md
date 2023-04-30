@@ -100,7 +100,7 @@ Os objetos indiretos também podem ser invertidos com a partícula "se". Nesse c
  
 #### 1.5. Predicados abstratos
 
-##### 1.5.1 Formando predicados abstratos (partícula "ta")
+##### 1.5.1 Sujeito abstrato (partícula "ta")
 Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qualidade ou ação abstrata, ou seja, uma generalização da ideia expressa por ele.
 > * __Ta feme__ - ser mulher, a femininidade
 > * __Ta bon__ - ser bom, bondade
@@ -109,7 +109,7 @@ Um predicado pode ser precedido pela palavra "ta" conferindo-lhe uma ideia de qu
 > * __Ta ama bel__ - O amor é lindo.
 > * __Ta vive non se face__ - A vida não é fácil.
 
-##### 1.5.1 Predicados abstratos como objeto direto ("de \[??\] ta")
+##### 1.5.1 Objeto direto abstrato ("de ta")
 Predicados abstratos podem ser usados como objetos diretos. 
 > * __Mi vide de ta ama.__ - Vejo o amor.
 > * __Mi vide de tu ta ama.__ - Vejo você amar.
@@ -120,8 +120,8 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Manga super de ta bon fructo.__ - Manga é a melhor fruta. (lit: Manga supera em ser boa fruta)
 > * __Manga bon de ta super de pomo.__ - Manga é melhor que maçã. (lit: Manga é boa superando maçã)
 
-##### 1.5.2 Combinando predicados intransitivos (partícula "pa")
-Os predicados abstratos transitivos ("de ta") podem ser simplificados como predicados transitivos ("pa"). Ou seja, "pa" funciona como elemento de ligação entre dois predicados intransitivos, formando um só predicado intransitivo composto que carrega a semântica dos dois predicados originais.
+##### 1.5.2 Predicados compostos (partícula "pa")
+Os predicados abstratos transitivos ("de ta") podem ser simplificados com a partícula ("pa"). A partícula "pa" funciona como elemento de ligação entre dois predicados, formando um só predicado composto que carrega a semântica dos dois predicados originais.
 > * __Feme bon dance.__ - A mulher boa dança.
 > * __Feme bon pa dance.__ - A mulher que dança bem. A boa dançarina.
 > * __Home mal scribe.__ - O homem mau está escrevendo .
@@ -138,11 +138,11 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados como predi
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-##### 1.5.3 Predicados compostos modais (partículas "vo", "po", "do", "sa", "so", e "re")
-Os predicados compostos com "vole", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados equivalentes formados pelas partículas "vo", "po", "do", "sa" e "re"
+##### 1.5.3 Predicados  modais (partículas "vo", "po", "do", "sa", "so", e "re")
+Os predicados compostos com "vole", "sole", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "po", "do", "sa" e "re"
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
-> * __Tu debe de ta ama.__ = __Tu do ama.__ - Você deve amar.
+> * __Tu debe de ta ama.__ = __Tu do ama.__ - Você tem que amar. Você deve amar.
 > * __Tu sape de ta ama.__ = __Tu sa ama.__ - Você sabe amar.
 > * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
 > * __Tu sole de ta ama.__ = __Tu so ama.__ - Você costuma amar.
@@ -154,8 +154,8 @@ Os predicados compostos com "vole", "pote", "debe", "sape" e "novu", quando segu
 > * __se po ride__ - risível.
 
 
-##### 1.5.4. Pedidos, ordens e desejos (partícula "pa")
-O imperativo, usado para pedidos, instruções ordens e desejos é formado com a partícula "pa" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
+##### 1.5.4. Pedidos, instruções, ordens e desejos (partícula "pa")
+O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a partícula "pa" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
 > * __Pa stude.__ - Estude.
 > * __Pa tu stude.__ - Estude.
 > * __Pa non cure.__ - Não corra
@@ -175,13 +175,13 @@ Perguntas podem ser expressas usando o determinador interrogativo "ce":
 > * __Tu a anu ce?__ - Você tem quantos anos?
 > * __Custa ce?__ - Quanto custa?
 
-Perguntas de sim o não exigem a terminação "o non".
+Perguntas de "sim o não" exigem a terminação "o non".
 > * __Tu vo peti o non?__ - Gostaria de pedir?
-> * __Vo.__ ou __Vo peti.__ ou __Mi vo peti.__ - Sim, quero pedir.
+> * __Peti.__ ou __Vo peti.__ ou __Mi vo peti.__ - Sim, quero pedir.
 > * __Non.__ ou __Non vo.__ ou __Non vo peti.__ ou __Mi non vo peti__ - Não, não quero pedir.
 > * __Feme bel o non?__ - Ela é bonita?
-> * __Bel__ ou __Feme bel__ - Sim, ela é bonita.
-> * __Non__ ou __Non bel__ ou __Feme non bel.__ - Não, ela não é bonita. 
+> * __Bel.__ ou __Feme bel.__ - Sim, ela é bonita.
+> * __Non.__ ou __Non bel.__ ou __Feme non bel.__ - Não, ela não é bonita. 
 
 
 ### 2 Expressando tempo e espaço (partículas "ca", "ja", "va" e "la")
