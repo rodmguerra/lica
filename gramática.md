@@ -242,6 +242,8 @@ As partículas "ca", "la", "ja" e "va" podem ser usadas para expressar uma ideia
 > * __Mi a la de casa.__ - Estou longe de casa
 > * __Mi a ja de casa.__ - Estou atrás de casa.
 > * __Mi a va de casa.__ - Estou em frente de casa. 
+> * __Ris a ca de fasiolu.__ - Arroz com feijão.
+> * __Fasiolu a non ca de ris.__ Arroz sem feijão.
 
 A posição pode ser expressada com predicados também.
 > * __Mi inter de casa.___ Estou dentro de casa
@@ -253,8 +255,9 @@ A posição pode ser expressada com predicados também.
 > * __Mi guarda de libro a inter de capsa.__ Eu guardo o livro dentro da caixa.
 > * __Train parti a se du.__ O trem parte às duas.
 > * __Libru a tabla.__ O livro está sobre a mesa.
-> * __Libru a super de tabla.__ O livro está sobre a mesa.
-> * __Se calce a infer de tabla.__ O sapato está em baixo da mesa.
+> * __Libru super de tabla.__ O livro está sobre a mesa.
+> * __Se calce infer de tabla.__ O sapato está em baixo da mesa.
+> * __Flamengo joca pa contra de Fluminense.__ O Flamengo joga contra o fluminense.
 
 #### 10. Períodos compostos de múltiplas orações
 
