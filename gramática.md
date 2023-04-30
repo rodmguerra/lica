@@ -139,8 +139,8 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados com a part
 > * __novu pa lege__ - relê, lê novamente
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
-##### 1.5.4. Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa" e "re")
-Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "su", "po", "do", "sa" e "re"
+##### 1.5.4. Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa", "fa" e "re")
+Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "su", "po", "do", "sa" "fa" e "re"
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
 > * __Tu debe de ta ama.__ = __Tu do ama.__ - Você tem que amar. Você deve amar.
@@ -148,6 +148,8 @@ Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "no
 > * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
 > * __Tu sole de ta ama.__ = __Tu su ama.__ - Você costuma amar.
 > * __Tu solu de ta ama de feme juve pa super (de tu) .__ = __Tu so ama de feme juve pa super (de tu).__ - Você só ama mulheres mais jovens (que você).
+> * __Tu face de ta ama de Mari a Joan.__ = __Tu fa ama de Mari a Joan.__ - Você faz Maria amar João.
+> * __Tu face de ta mori a Petru.__ = __Tu fa mori a Petru.__ - Você matou o Pedro. (lit: Você faz morrer o Pedro)
 > * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
 > * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
 > * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo).
@@ -405,7 +407,7 @@ Os numerais fracionários são formados pela partícula "pa"
 #### 5. Resumo
 __Partículas__
 > * __non__ (negativa), __se__ (passiva), __ta__ (abstrativa), __pa__ (compositiva), __de__ (acusativa),  __a__ (dativa)
-> * __sa__ (cognitiva), __so__ (exclusiva), __su__ (habitual), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __vo__ (volitiva)
+> * __sa__ (cognitiva), __so__ (exclusiva), __su__ (habitual), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __fa__ (causativa), __vo__ (volitiva)
 > * __ca__ (proximal), __la__ (distal), __ja__ (anterior), __va__ (posterior)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
