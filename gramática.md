@@ -11,6 +11,8 @@ Toda palavra que é usada para descrever algo é considerado um predicado. Os pr
 >  * __ama__ - ama
 >  * __stude__ - estuda
 >  * __solu__ - sozinho, só, solitário
+>  * __stude__ - estuda
+>  * __solu__ - sozinho, só, solitário
 
 _Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos._
 
@@ -92,7 +94,7 @@ Um predicado transitivo pode ter também um objeto indireto. Este é sempre prec
 > * __Mi compra de libro, compra a tu.__ - Comprei o livro de você.
 > * __Mi compra de libro se vende de tu.__ - Comprei o livro que você vendia.
 
-Os objetos indiretos também podem ser invertidos com a partícula "se". Nesse caso, o objeto direto (se houver) permanece o mesmo, mas o agente torna-se o objeto indireto (precedido de "a").
+Os objetos indiretos também podem ser invertidos com a partícula "se", porém combinada com a partícula "a" ("se a"). Nesse caso, o objeto direto (se houver) permanece o mesmo, mas o agente torna-se o objeto indireto (precedido de "a").
 > * __Mi vende de libru a home.__ - Vendi o livro ao homem.
 > * __Home se a vende de libru a mi.__ - O homem para quem foi vendido o livro por mim.
 > * __Home se a vende a mi de libru.__ - O homem para quem foi vendido por mim o livro.
@@ -158,17 +160,17 @@ Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "no
 > * __non se po vide__ - visível.
 > * __se po ride__ - risível.
 
-##### 1.6. Pedidos, instruções, ordens e desejos (partícula "pa")
-O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a partícula "pa" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
-> * __Pa stude.__ - Estude.
-> * __Pa tu stude.__ - Estude.
-> * __Pa non cure.__ - Não corra
-> * __Pa tu non cure.__ - Não corra
-> * __Pa human.__ - Sejam humanos.
-> * __Pa vos human.__ - Sejam humanos.
-> * __Pa nos ede.__ - Vamos comer.
-> * __Pa tu di bon.__ - Bom dia. Tenha um bom dia.
-> * __Pa di bon.__ - Bom dia. Tenha um bom dia.
+##### 1.6. Pedidos, instruções, ordens e desejos (partícula "a")
+O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a partícula "a" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
+> * __A stude.__ - Estude.
+> * __A tu stude.__ - Estude.
+> * __A non cure.__ - Não corra
+> * __A tu non cure.__ - Não corra
+> * __A human.__ - Sejam humanos.
+> * __A vos human.__ - Sejam humanos.
+> * __A nos ede.__ - Vamos comer.
+> * __A tu di bon.__ - Bom dia. Tenha um bom dia.
+> * __A di bon.__ - Bom dia. Tenha um bom dia.
 
 #### 1.7. Perguntas (determinador "ce")
 Perguntas podem ser expressas usando o determinador interrogativo "ce":
@@ -225,7 +227,7 @@ A partícula "ca" indica proximidade e a partícula "la" indica distância. São
 > * __a va anu se dece__ - daqui a dez a nos
 
 
-#### 2.3. Expressando tempo
+#### 2.3. Expressando tempo em predicados
 Os predicados não especificam o tempo em que as ações ocorreram, isso pode ser feito com locuções adverbiais de tempo. No entanto, existem partículas que indicam se o predicado é válido no tempo exato da narrativa ("ca"), antes do tempo da narrativa ("ja") e após o tempo da narrativa ("va"). 
 
 #### 2.4. Fatos anteriores (partícula "ja")
@@ -262,15 +264,20 @@ As partículas "ca", "la", "ja" e "va" podem ser usadas para expressar uma ideia
 
 A posição pode ser expressada com predicados também.
 > * __Mi inter de casa.___ Estou dentro de casa
+> * __Mi vade a inter de casa.___ Eu entro na casa.
 > * __Mi exter de casa.___ Estou fora de casa.
+> * __Mi vade a exter de casa.___ Eu saio da casa.
 > * __Mi super de casa.___ Estou em cima da casa.
+> * __Mi vade a super de casa.___ Eu subo na casa.
 > * __Mi infer de casa.___ Estou em baixo da casa.
+> * __Mi vade a infer de casa.___ Eu vou para baixo da casa.
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
 > * __Mi guarda de libro a capsa.__ Eu guardo o livro na caixa.
 > * __Mi guarda de libro a inter de capsa.__ Eu guardo o livro dentro da caixa.
 > * __Train parti a se du.__ O trem parte às duas.
 > * __Libru a tabla.__ O livro está sobre a mesa.
 > * __Libru super de tabla.__ O livro está sobre a mesa.
+> * __Libru se pone a super de tabla.__ O livro está sobre a mesa.
 > * __Se calce infer de tabla.__ O sapato está em baixo da mesa.
 > * __Flamengo joca pa contra de Fluminense.__ O Flamengo joga contra o fluminense.
 
