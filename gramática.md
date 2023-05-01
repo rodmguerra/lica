@@ -140,7 +140,8 @@ Os predicados abstratos transitivos ("de ta") podem ser simplificados com a part
 > * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
 
 ##### 1.5.4. Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa", "fa" e "re")
-Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "novu", quando seguidos da partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "su", "po", "do", "sa" "fa" e "re"
+Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "novu", quando seguidos por "de ta" ou pela partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "su", "po", "do", "sa" "fa" e "re". Quando esse desses predicados possuem a forma "\[predicado original\] de [\objeto] ta", são transformados em "\[predicado simplificado\] \[objeto\] pa".
+
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
 > * __Tu debe de ta ama.__ = __Tu do ama.__ - Você tem que amar. Você deve amar.
@@ -187,7 +188,7 @@ Perguntas de "sim o não" exigem a terminação "o non".
 > * __Non.__ ou __Non bel.__ ou __Feme non bel.__ - Não, ela não é bonita. 
 
 
-### 2 Expressando tempo e espaço (partículas "ca", "ja", "va" e "la")
+### 2. Tempo e posição
 
 #### 2.1 Expressando proximidade e distanciamento (partículas "ca" e "la")
 A partícula "ca" indica proximidade e a partícula "la" indica distância. São usados em predicados simples ou para compor locuções adverbiais de tempo ou espaço.
@@ -273,7 +274,7 @@ A posição pode ser expressada com predicados também.
 > * __Se calce infer de tabla.__ O sapato está em baixo da mesa.
 > * __Flamengo joca pa contra de Fluminense.__ O Flamengo joga contra o fluminense.
 
-### 3. Períodos compostos de múltiplas orações
+### 3. Períodos compostos
 
 #### 3.1. Recursão pronominal
 Uma frase pode ter várias orações, com mais de um predicado transitivo. Nesse caso, o segundo objeto torna o sujeito do terceiro objeto e assim por diante.
