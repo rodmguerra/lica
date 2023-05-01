@@ -3,7 +3,7 @@
 Lica é uma língua auxiliar de gramática simples combinando características de línguas criolas e línguas analíticas. Nenhuma palavra apresenta flexão, ou seja, as palavras são invariáveis quanto a gênero, número, grau, caso ou tempo verbal. Não há verbos de ligação (zero cópula). Há apenas três classes de palavras "predicados" (descrevem as coisas), "partículas" (dão função sintática aos predicados) e "determinadores" (especificam pessoa, número ou quantidade). 
 
 ### 1. Predicados 
-Toda palavra que é usada para descrever algo é considerado um predicado. Os predicados não flexionam, nem apresentam número, gênero ou tempo verbal. 
+Toda palavra que é usada para descrever algo é considerado um predicado. Os predicados não se flexionam, nem apresentam número, gênero ou tempo verbal. 
 
 >  * __home__ - é um homem
 >  * __feme__ - é uma mulher
