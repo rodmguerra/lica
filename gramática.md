@@ -353,8 +353,8 @@ Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se u
 > * __totu ##__ - cada ##
 
 Exemplos
-> * __Nul human isla__ - Nenhum homem é uma ilha.
-> * __Multi tenta ma non multi sucede__ Muitos tentam mas poucos conseguem.
+> * __Nul human isla.__ - Nenhum homem é uma ilha.
+> * __Multi tenta ma non multi sucede.__ - Muitos tentam mas poucos conseguem.
 > * __Mi vide de multi puer a strata.__ - Eu vi muitos meninos na rua.
 
 #### 4.3. Determinadores de quantidade absolutos - numerais
