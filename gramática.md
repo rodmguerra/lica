@@ -160,9 +160,9 @@ O imperativo, usado para pedidos, instruções, ordens e desejos é formado com 
 > * __A tu ta stude.__ - Estude.
 > * __A ta stude.__ - Estude.
 > * __Stude.__ - Estude.
-> * __ A tu ta non cure.__ - Não corra
+> * __A tu ta non cure.__ - Não corra
 > * __A ta non cure.__ - Não corra
-> * __No cure
+> * __Non cure.__ - Não corra
 > * __A vos ta human.__ - Sejam humanos.
 > * __A ta human.__ - Sejam humanos.
 > * __Human.__ - Sejam humanos.
