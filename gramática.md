@@ -143,7 +143,6 @@ Os predicados compostos com "vole", "solu", "pote", "debe" e "novu", quando segu
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
 > * __Tu debe de ta ama.__ = __Tu do ama.__ - Você tem que amar. Você deve amar.
-> * __Tu sape de ta ama.__ = __Tu sa ama.__ - Você sabe amar.
 > * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
 > * __Tu solu de ta ama de feme juve de ta super (de tu) .__ = __Tu so ama de feme juve de ta super (de tu).__ - Você só ama mulheres mais jovens (que você).
 > * __Tu face de Petru ta mori .__ = __Tu fa mori de Petru .__ - Você matou o Pedro. (lit: Você faz o Pedro morrer)
@@ -156,16 +155,22 @@ Os predicados compostos com "vole", "solu", "pote", "debe" e "novu", quando segu
 > * __se po ride__ - risível.
 
 ##### 1.6. Pedidos, instruções, ordens e desejos ("a ta ")
-O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a "a ta", opcionalmente intercaldado com um pronome. A segunda pessoa é subentendida quando não está explícita.
-> * __A ta stude.__ - Estude.
+O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a "a ta", opcionalmente intercaldado com um pronome. A segunda pessoa é subentendida quando não está explícita. Nesse caso, pode-se omitir também a expressão "a ta".
+
 > * __A tu ta stude.__ - Estude.
+> * __A ta stude.__ - Estude.
+> * __Stude.__ - Estude.
+> * __ A tu ta non cure.__ - Não corra
 > * __A ta non cure.__ - Não corra
-> * __A tu ta non cure.__ - Não corra
-> * __A ta human.__ - Sejam humanos.
+> * __No cure
 > * __A vos ta human.__ - Sejam humanos.
+> * __A ta human.__ - Sejam humanos.
+> * __Human.__ - Sejam humanos.
 > * __A ta nos ede.__ - Vamos comer.
-> * __A ta di bon.__ - Bom dia. Tenha um bom dia.
-> * __A tu ta di bon.__ - Bom dia. Tenha um bom dia.
+> * __A tu ta bon di.__ - Bom dia. Tenha um bom dia.
+> * __A ta bon di.__ - Bom dia. Tenha um bom dia.
+> * __Bon di.__ Bom dia.
+
 
 #### 1.7. Perguntas (determinador "ce")
 Perguntas podem ser expressas usando o determinador interrogativo "ce":
@@ -235,7 +240,7 @@ A partícula "ja"  modifica o predicado indicando que ele foi válido antes do t
 #### 2.5. Fatos posteriores (partícula "va")
 A partícula "va" modifica o predicado indicando que ele será válido após após o tempo da narrativa.
 > * __Home va mori.__ O moribundo. O homem vai morrer.
-> * __Mi non sa nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
+> * __Mi non sape de nata, ma mi va aprende.__ - Não sei nadar mas vou aprender.
 
 #### 2.6 Fatos correntes (partícula "ca")
 A partícula "ca" pode ser usada para reforçar que o ato está acontecendo no exato momento o da narrativa, podendo ser usado como forma de contrastar com outro predicado que tenha ocorrido em tempo diferente.
@@ -425,7 +430,7 @@ Os numerais fracionários são formados pela partícula "de"
 
 #### 5. Resumo
 __Partículas__
-> * __non__ (negativa), __se__ (passiva), __de__ (acusativa), __ta__ (abstrativa), __da__ (dativa), __sa__ (dativa passiva), __a__ (prepositiva)
+> * __non__ (negativa), __de__ (acusativa), __se__ (passiva), __ta__ (abstrativa), __da__ (dativa), __sa__ (dativa passiva), __a__ (prepositiva)
 > * __so__ (exclusiva), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __fa__ (causativa), __vo__ (volitiva)
 > * __ca__ (proximal), __la__ (distal), __ja__ (anterior), __va__ (posterior)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
