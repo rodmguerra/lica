@@ -138,7 +138,7 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __non se face de ta usa__ - difícil de se usar (lit: não é feito a usar)
 
 ##### 1.5.4. Predicados  modais (partículas "vo", "so", "po", "do", "fa" e "re")
-Os predicados compostos com "vole", "solu", "pote", "debe" e "novu", quando seguidos por "de ta" , podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "po", "do", "fa" e "re". Quando esse desses predicados possuem a forma "\[predicado original\] de [\objeto] ta", são transformados em "\[predicado simplificado\] de \[objeto\] ".
+Os predicados compostos com "vole", "solu", "pote", "debe" e "novu", quando seguidos por "de ta" , podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "po", "do", "fa" e "re".
 
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
