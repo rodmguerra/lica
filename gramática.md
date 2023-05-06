@@ -89,17 +89,17 @@ Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa
 #### 1.4. Objeto indireto (partícula "a")
 Um predicado transitivo pode ter também um objeto indireto. Este é sempre precedido da particula "a". Os dois objetos podem ser usados um em sequência do outro, em qualquer ordem. Para evitar ambiguidade, pode-se repetir o predicado antes do segundo objeto, ou substituí-lo por um predicado transitivo direto que confira o mesmo sentido à frase.
 
-> * __Mi compra de libru a tu.__ - Comprei o livro de você.
-> * __Mi vende a tu de libru.__ - Vendi para você o livro.
-> * __Mi compra de libro, compra a tu.__ - Comprei o livro de você.
+> * __Mi compra de libru da tu.__ - Comprei o livro de você.
+> * __Mi vende da tu de libru.__ - Vendi para você o livro.
+> * __Mi compra de libro, compra da tu.__ - Comprei o livro de você.
 > * __Mi compra de libro se vende de tu.__ - Comprei o livro que você vendia.
 
-Os objetos indiretos também podem ser invertidos com a partícula "se", porém combinada com a partícula "a" ("se a"). Nesse caso, o objeto direto (se houver) permanece o mesmo, mas o agente torna-se o objeto indireto (precedido de "a").
-> * __Mi vende de libru a home.__ - Vendi o livro ao homem.
-> * __Home se a vende de libru a mi.__ - O homem para quem foi vendido o livro por mim.
-> * __Home se a vende a mi de libru.__ - O homem para quem foi vendido por mim o livro.
-> * __Pa cuere a mi.__ - Pergunte para mim.
-> * __Pa mi se a cuere.__ - Que eu seja questionado.
+Os objetos indiretos também podem ser invertidos com a partícula "se", porém combinada com a partícula "a" ("sa"). Nesse caso, o objeto direto (se houver) permanece o mesmo, mas o agente torna-se o objeto indireto (precedido de "da").
+> * __Mi vende de libru da home.__ - Vendi o livro ao homem.
+> * __Home sa vende de libru da mi.__ - O homem para quem foi vendido o livro por mim.
+> * __Home sa vende da mi de libru.__ - O homem para quem foi vendido por mim o livro.
+> * __A ta cuere da mi.__ - Pergunte para mim.
+> * __A ta mi se a cuere.__ - Que eu seja questionado.
  
 #### 1.5. Predicados abstratos
 
@@ -122,37 +122,32 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Tu bon de ta joca de futbol.__ - Você joga bem o futebol. (lit: Você é bom jogando futebol)
 > * __Manga super de ta bon fructo.__ - Manga é a melhor fruta. (lit: Manga supera em ser boa fruta)
 > * __Manga bon de ta super de pomo.__ - Manga é melhor que maçã. (lit: Manga é boa superando maçã)
-
-##### 1.5.3. Predicados compostos (partícula "pa")
-Os predicados abstratos transitivos ("de ta") podem ser simplificados com a partícula ("pa"). A partícula "pa" funciona como elemento de ligação entre dois predicados, formando um só predicado composto que carrega a semântica dos dois predicados originais.
-> * __Feme bon dance.__ - A mulher boa dança.
-> * __Feme bon de ta dance__ = __Feme bon pa dance.__ - A mulher que dança bem. A boa dançarina.
+> * __Feme bon de ta dance__ = A mulher que dança bem. A boa dançarina.
 > * __Home mal scribe.__ - O homem mau está escrevendo .
-> * __Home mal pa scribe.__ - O homem escreve mal. Um mau escritor.
-> * __Pelé exele pa joca de futbol__ - Pelé é um excelente jogador de futebol.
-> * __super pa bon__ - o melhor
-> * __infer pa bel__ - o menos belo
-> * __Revolver super pa bon de album de Beatles.__ - Revolver é o melhor álbum dos Beatles.
-> * __Manga bon pa super de pomo.__ - Manga é melhor que maçã.
-> * __Pomo bon pa infer de manga.__ - Maçã é pior que manga.
-> * __Manga bon pa ecual de persic.__ - Manga é tão bom quanto pêssego.
-> * __Manga super pa bon fructo.__ - Manga é a melhor fruta.
-> * __Pomo infer pa bon fructo.__ - Maçã é a pior fruta.
-> * __novu pa lege__ - relê, lê novamente
-> * __non se face pa usa__ - difícil de se usar (lit: não é feito a usar)
+> * __Home mal de ta scribe.__ - O homem escreve mal. Um mau escritor.
+> * __Pelé exele de ta joca de futbol__ - Pelé é um excelente jogador de futebol.
+> * __super de ta bon__ - o melhor
+> * __infer de ta bel__ - o menos belo
+> * __Revolver super de ta bon de album de Beatles.__ - Revolver é o melhor álbum dos Beatles.
+> * __Manga bon de ta super de pomo.__ - Manga é melhor que maçã.
+> * __Pomo bon de ta infer de manga.__ - Maçã é pior que manga.
+> * __Manga bon de ta ecual de persic.__ - Manga é tão bom quanto pêssego.
+> * __Manga super de ta bon fructo.__ - Manga é a melhor fruta.
+> * __Pomo infer de ta bon fructo.__ - Maçã é a pior fruta.
+> * __novu de ta lege__ - relê, lê novamente
+> * __non se face de ta usa__ - difícil de se usar (lit: não é feito a usar)
 
-##### 1.5.4. Predicados  modais (partículas "vo", "so", "su", "po", "do", "sa", "fa" e "re")
-Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "novu", quando seguidos por "de ta" ou pela partícula compositiva "pa", podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "su", "po", "do", "sa" "fa" e "re". Quando esse desses predicados possuem a forma "\[predicado original\] de [\objeto] ta", são transformados em "\[predicado simplificado\] \[objeto\] pa".
+##### 1.5.4. Predicados  modais (partículas "vo", "so", "po", "do", "fa" e "re")
+Os predicados compostos com "vole", "solu", "pote", "debe" e "novu", quando seguidos por "de ta" , podem ser substituídos respectivamente por predicados modais equivalentes, usando-se respectivamente as partículas "vo", "so", "po", "do", "fa" e "re". Quando esse desses predicados possuem a forma "\[predicado original\] de [\objeto] ta", são transformados em "\[predicado simplificado\] de \[objeto\] ".
 
 > * __Tu vole de ta ama.__ = __Tu vo ama.__ - Você quer amar.
 > * __Tu pote de ta ama.__ = __Tu po ama.__ - Você pode amar.
 > * __Tu debe de ta ama.__ = __Tu do ama.__ - Você tem que amar. Você deve amar.
 > * __Tu sape de ta ama.__ = __Tu sa ama.__ - Você sabe amar.
 > * __Tu novu de ta ama.__ = __Tu re ama.__ - Você ama de novo.
-> * __Tu sole de ta ama.__ = __Tu su ama.__ - Você costuma amar.
-> * __Tu solu de ta ama de feme juve pa super (de tu) .__ = __Tu so ama de feme juve pa super (de tu).__ - Você só ama mulheres mais jovens (que você).
-> * __Tu face de Petru ta mori .__ = __Tu fa Petru pa mori .__ - Você matou o Pedro. (lit: Você faz o Pedro morrer)
-> * __Tu face de Mari ta ama de Joan.__ = __Tu fa Mari pa ama de Joan.__ - Você faz Maria amar João.
+> * __Tu solu de ta ama de feme juve de ta super (de tu) .__ = __Tu so ama de feme juve de ta super (de tu).__ - Você só ama mulheres mais jovens (que você).
+> * __Tu face de Petru ta mori .__ = __Tu fa mori de Petru .__ - Você matou o Pedro. (lit: Você faz o Pedro morrer)
+> * __Tu face de Mari ta ama de Joan.__ = __Tu fa ama de Mari da Joan.__ - Você faz Maria amar João.
 > * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
 > * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
 > * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo).
@@ -160,17 +155,17 @@ Os predicados compostos com "vole", "sole", "solu", "pote", "debe", "sape" e "no
 > * __non se po vide__ - visível.
 > * __se po ride__ - risível.
 
-##### 1.6. Pedidos, instruções, ordens e desejos (partícula "a")
-O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a partícula "a" e opcionalmente um pronome. A segunda pessoa é subentendida quando não está explícita.
-> * __A stude.__ - Estude.
-> * __A tu stude.__ - Estude.
-> * __A non cure.__ - Não corra
-> * __A tu non cure.__ - Não corra
-> * __A human.__ - Sejam humanos.
-> * __A vos human.__ - Sejam humanos.
-> * __A nos ede.__ - Vamos comer.
-> * __A tu di bon.__ - Bom dia. Tenha um bom dia.
-> * __A di bon.__ - Bom dia. Tenha um bom dia.
+##### 1.6. Pedidos, instruções, ordens e desejos ("a ta ")
+O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a "a ta", opcionalmente intercaldado com um pronome. A segunda pessoa é subentendida quando não está explícita.
+> * __A ta stude.__ - Estude.
+> * __A tu ta stude.__ - Estude.
+> * __A ta non cure.__ - Não corra
+> * __A tu ta non cure.__ - Não corra
+> * __A ta human.__ - Sejam humanos.
+> * __A vos ta human.__ - Sejam humanos.
+> * __A ta nos ede.__ - Vamos comer.
+> * __A ta di bon.__ - Bom dia. Tenha um bom dia.
+> * __A tu ta di bon.__ - Bom dia. Tenha um bom dia.
 
 #### 1.7. Perguntas (determinador "ce")
 Perguntas podem ser expressas usando o determinador interrogativo "ce":
@@ -244,7 +239,7 @@ A partícula "va" modifica o predicado indicando que ele será válido após ap�
 
 #### 2.6 Fatos correntes (partícula "ca")
 A partícula "ca" pode ser usada para reforçar que o ato está acontecendo no exato momento o da narrativa, podendo ser usado como forma de contrastar com outro predicado que tenha ocorrido em tempo diferente.
-> * __Pa silente! Mi ca lege.__ Silêncio! Estou lendo.
+> * __A ta silente! Mi ca lege.__ Silêncio! Estou lendo.
 > * __Feme ja fede ma ca bel.__ - Ela era feia, mas agora está bonita.
 
 #### 2.7 Referindo-se a um momento anteriormente expresso (partícula "la")
@@ -279,7 +274,7 @@ A posição pode ser expressada com predicados também.
 > * __Libru super de tabla.__ O livro está sobre a mesa.
 > * __Libru se pone a super de tabla.__ O livro está sobre a mesa.
 > * __Se calce infer de tabla.__ O sapato está em baixo da mesa.
-> * __Flamengo joca pa contra de Fluminense.__ O Flamengo joga contra o fluminense.
+> * __Flamengo joca de ta contra de Fluminense.__ O Flamengo joga contra o fluminense.
 
 ### 3. Períodos compostos
 
@@ -302,32 +297,48 @@ As orações coordenadas são formadas usando-se as partículas "e" (e), "o" (ou
 #### 3.3. Subordinação
 Expressões de posição podem ser combinadas podem ter um predicado transitivo abstrato "de (...) ta", criando uma ideia de subordinação entre as orações.
 
-A casu de [cosa] ta = "se"
-> * __A casu de tu ta studa, tu se bon de exame.__ Se você estuda, você vai bem no exame.
-> * __A casu de tu ta va studa, tu va se bon de exame.__ - Se você estudar, fará um bom exame.
-> * __A casu de tu ta ja studa, tu ta ja se bon de exame.__ - Se você tivesse estudado, teria feito um bom exame.
-> * __Nos va a festa, a casu de ta non va pluve.__ - Vamos à festa se não chover.
-> * __Nos va a festa, a casu pa non va pluve.__ - Vamos à festa se não chover.
+A casu de [cosa] ta = [Cosa] casu de ta  = "se".
+> * __Tu sucede a exame a casu de tu ta studa.__ Você vai bem no exame, se você estuda.
+> * __Tu casu de ta studa, tu sucede a exame.__ Se você estuda, você vai bem no exame.
+> * __Tu va sucede de exame a casu de tu ta va studa.__ -  Você fará um bom exame se estudar.
+> * __Tu casu de ta va studa, tu va sucede a exame.__ - Se você estudar, fará um bom exame.
+> * __Tu ta ja se bon de exame a casu de tu ta ja studa.__ - Você teria feito um bom exame se tivesse estudado.
+> * __Tu casu de ta ja studa, tu ta ja sucede de exame.__ - Se você tivesse estudado, teria feito um bom exame.
+> * __Nos va vade a festa a casu de ta non va pluve.__ - Iremos à festa se não chover.
+> * __Casu de ta non va pluve, nos va vade a festa.__ - Se não chover, iremos à festa.
+> 
+A casu de ta ecual de [cosa] ta = [Cosa] casu de ta ecual de ta  = "ainda que", "mesmo se".
+> * __Mi va face a casu de ta ecual de tu non ta vole.__ - Vou fazer mesmo se você não quiser.
+> * __Tu casu de ta ecual de non ta vole, mi va face.__ - Mesmo se você não quiser, vou fazer.
 
-A causa de [cosa] ta = "porque"
+A causa de [cosa] ta = [Cosa] causa de ta = "porque"
+> * __Mi vive a causa de tu.__ - Estou vivo por causa de você.
+> * __Tu causa de mi vive.__ - Você é a causa de eu estar vivo.
 > * __Mi vive a causa de tu ta ja salva de mi.__ - Estou vivo porque você me salvou.
-> * __Mi va face, a casu mesmu de non tu ta vole.__ - Vou fazer mesmo que você não queira.
+> * __Tu causa de ta ja salva de mi, mi vive.__ - Por você ter me salvado, eu estou vivo.
 
-A modu de [cosa] ta = "conforme", "de modo que"
-> * __Vos do face de torta, a modu de ta se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
-> * __Vos do face de torta, a modu pa se instrue de invelopa.__ - Vocês devem fazer o bolo conforme as intruções do envelope.
-> * __Home debile a parla, a modu de nos non ta audi.__ - Ele fala baixo, de modo que não ouvimos.
+A modu de [cosa] ta = [Cosa] modu de ta  "conforme"
+> * __Vos do face de torta a modu de ta se fa sape de invelopa.__ - Vocês devem fazer o bolo como é ensinado no envelope.
+> * __Modu de ta se fa sape de invelopa, vos do face torta.__ - O modo que é ensinado no envelope, vocês devem fazer o bolo.
+
+A sorta de [cosa] ta = [Cosa] sorta de ta  "conforme", "de modo que"
+> * __Home debil de ta parla a sorta de nos non ta audi.__ - Ele fala baixo, de modo que não ouvimos.
+> * __Nos sorta de non ta audi, home debil a parla.__ Não conseguimos ouvir, ele fala baixo.
 
 A fin de [cosa] ta = "a fim de", "para"
-> * __Mi a ca, a fin de ta labora.__ - Estou aqui para trabalhar.
-> * __Mi a ca, a fin pa labora.__ - Estou aqui para trabalhar.
+> * __Mi a ca a fin de ta labora.__ - Estou aqui para trabalhar.
+> * __Ta labora fin de mi a ca.__ - Trabalhar é o objetivo de eu estar aqui.
 
 A tempu de [cosa] ta = "enquanto", "quando"
-> * __A tempu de altre ta dormi, nos stude.__ - Enquanto eles dormem nós estudamos. 
-> * __A tempu de tu va ta ariva, pa tu bate a porta.__ - Quando você chegar, bata à porta.
+> * __Nos stude a tempu de altre ta dormi.__ - Enquanto eles dormem nós estudamos. 
+> * __Altre tempu de ta dormi, nos stude.__ - Enquanto eles dormem nós estudamos. 
+> * __A tempu de tu va ta ariva, a ta bate a porta.__ - Quando você chegar, bata à porta.
+> * __A ta bate a porta tempu de tu va ta ariva.__ - Bata à porta quando você chegar.
 
 A mesura de [cosa] ta = "a medida que"
-> * __A mesura de tempu ta va, feme super pa bel.__ - A medida que o tempo passa, ela fica mais bela.
+> * __Feme super de ta bel a mesura de tempu vade.__ - A mulher fica mais bela a medida que o tempo passa.
+> * __Tempu vade mesura de feme super de ta bel__ - A medida que o tempo passa, a mulher fica mais bela. O tempo indo é a medida para que a mulher fique mais bela
+
 
 ### 4. Determinadores
 
@@ -403,19 +414,19 @@ Os numerais ordinais são precedidos da partícula "se"
 > * __Neil Armstrong se un ta vade a luna__ - Neil Armstrong foi o primeiro a ir à lua.
 > * __Feme la se un ta ja se ama de mi.__ - Aquela mulher foi meu primeiro amor. 
 
-Os numerais fracionários são formados pela partícula "pa"
-> * 1/2 - __pa du__
-> * 3/4 - __tres pa cuatru__
-> * 33 % - __tres dece tres pa centu__
+Os numerais fracionários são formados pela partícula "de"
+> * 1/2 - __un de du__
+> * 3/4 - __tres de cuatru__
+> * 33 % - __tres dece tres de centu__
 
-> * __Mi ca non lege de pa du libru__ - Ainda não li nem a metade do livro.
-> * __Nove dece pa centu brasil se vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
+> * __Mi ca non lege de un de du libru__ - Ainda não li nem a metade do livro.
+> * __Nove dece de centu brasil se vacina de Covid-19.__ - 90% dos brasileiros tomaram a vacina da Covid-19
 
 
 #### 5. Resumo
 __Partículas__
-> * __non__ (negativa), __se__ (passiva), __ta__ (abstrativa), __pa__ (compositiva), __de__ (acusativa),  __a__ (dativa)
-> * __sa__ (cognitiva), __so__ (exclusiva), __su__ (habitual), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __fa__ (causativa), __vo__ (volitiva)
+> * __non__ (negativa), __se__ (passiva), __de__ (acusativa), __ta__ (abstrativa), __da__ (dativa), __sa__ (dativa passiva), __a__ (prepositiva)
+> * __so__ (exclusiva), __po__ (potencial), __do__ (necessária), __re__ (repetitiva), __fa__ (causativa), __vo__ (volitiva)
 > * __ca__ (proximal), __la__ (distal), __ja__ (anterior), __va__ (posterior)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
