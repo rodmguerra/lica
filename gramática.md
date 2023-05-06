@@ -119,7 +119,7 @@ Predicados abstratos podem ser usados como objetos diretos.
 > * __Mi vide de tu ta ama.__ - Vejo você amar.
 > * __Mi vide de tu ta ama de fili de tu.__ - Vejo você amar seus filhos.
 > * __Mi vide de home ta ama de fili de home.__ - Vejo o homem amar os filhos dele.
-> * __Feme bon de ta dance.__ A boa dançarina. (lit: A mulher é boa para dançar)
+> * __Feme bon de ta dance.__ A boa dançarina. (lit: A mulher é boa ao dançar)
 > * __Tu bon de ta joca de futbol.__ - Você joga bem o futebol. (lit: Você é bom jogando futebol)
 > * __Manga super de ta bon fructo.__ - Manga é a melhor fruta. (lit: Manga supera em ser boa fruta)
 > * __Manga bon de ta super de pomo.__ - Manga é melhor que maçã. (lit: Manga é boa superando maçã)
