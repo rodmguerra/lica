@@ -12,8 +12,8 @@ Toda palavra que é usada para descrever algo é considerado um predicado. Os pr
 >  * __stude__ - estuda
 >  * __solu__ - sozinho, só, solitário
 >  * __stude__ - estuda
->  * __solu__ - sozinho, só, solitário
-
+>  * __vive__ - vive, está vivo
+>  
 _Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos._
 
 #### 1.1 Intransitivo
@@ -225,6 +225,7 @@ A partícula "ca" indica proximidade e a partícula "la" indica distância. São
 > * __a va di se du__ - depois de amanhã
 > * __a ja mense se tres__ - há três meses
 > * __a va anu se dece__ - daqui a dez a nos
+> * __Mi vade a ja São Paulo a va Rio de Janeiro.__ - Estou indo de São Paulo ao Rio de Janeiro.
 
 
 #### 2.3. Expressando tempo em predicados
