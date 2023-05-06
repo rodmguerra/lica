@@ -48,8 +48,10 @@ Um predicado intransitivo pode ter seu agente transformado em paciente usando-se
 > * __se ama__ - é amado, amado
 > * __stude__ - estuda, o estudante
 > * __se stude__ - é estudado, o estudo
-> * __cogne__ - conhecer
-> * __se cogne__ - conhecido
+> * __sape__ - sabe, sábio
+> * __se sape__ -sabido, aquilo que é sabido, a sabedoria
+> * __cogne__ - conhece
+> * __se cogne__ - conhecido, aquele ou aquilo que se conhece
 > * __non se cogne__ - incógnito, desconhecido, a incógnita
 > * __sole__ - costuma, tem o costume
 > * __se sole__ - costumeiro, habitual
@@ -62,9 +64,9 @@ Um predicado intransitivo pode ter seu agente transformado em paciente usando-se
 > * __se vide__ - visto, a vista, o vídeo 
 > * __ama__ - ama, o amante
 > * __se ama__ - amado, o amado 
-> * __nate__ - o que nasceu, o nacional, nasce, nascido
+> * __nate__ - o que nasceu, o nacional, nascido
 > * __se nate__ - onde se nasce, o país, a nação
-> * __cive__ - a cidadão 
+> * __cive__ - a cidadão, o habitante da cidade
 > * __se cive__ - a cidade
 
 Um predicado transitivo direto também pode ter seu agente invertido usando-se a partícula "se", o sujeito torna-se o paciente e o objeto direto torna-se o agente.
@@ -72,7 +74,6 @@ Um predicado transitivo direto também pode ter seu agente invertido usando-se a
 > * __Feme bon se ama de can.__ - A mulher bondosa é amada pelo cachorro.
 
 Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa forma é bastante útil quando queremos acresentar mais uma oração para falar do possuidor.
-
 > * __Can de feme bon alacre__ - O cão da mulher boa e alegre. _(Os predicados subsequentes referem-se à mulher)_
 > * __Feme se can de bon alacre__ - O cão da mulher é bom e alegre _(Os predicados subsequentes referem-se ao cão)_
 > * __Mi se can de bon alacre__ - Meu cão é bom e alegre.
@@ -94,12 +95,12 @@ Um predicado transitivo pode ter também um objeto indireto. Este é sempre prec
 > * __Mi compra de libro, compra da tu.__ - Comprei o livro de você.
 > * __Mi compra de libro se vende de tu.__ - Comprei o livro que você vendia.
 
-Os objetos indiretos também podem ser invertidos com a partícula "se", porém combinada com a partícula "a" ("sa"). Nesse caso, o objeto direto (se houver) permanece o mesmo, mas o agente torna-se o objeto indireto (precedido de "da").
+Os objetos indiretos podem ser invertidos com a partícula "sa". Nesse caso, o objeto direto (se houver) permanece o mesmo, mas o agente torna-se o objeto indireto (precedido de "da").
 > * __Mi vende de libru da home.__ - Vendi o livro ao homem.
 > * __Home sa vende de libru da mi.__ - O homem para quem foi vendido o livro por mim.
 > * __Home sa vende da mi de libru.__ - O homem para quem foi vendido por mim o livro.
 > * __A ta cuere da mi.__ - Pergunte para mim.
-> * __A ta mi se a cuere.__ - Que eu seja questionado.
+> * __A ta mi sa cuere.__ - Que eu seja questionado.
  
 #### 1.5. Predicados abstratos
 
