@@ -1,6 +1,6 @@
 # Gramática de Lica
 
-Lica é uma língua auxiliar de gramática simples combinando características de línguas criolas e línguas analíticas. Nenhuma palavra apresenta flexão, ou seja, as palavras são invariáveis quanto a gênero, número, grau, caso ou tempo verbal. Não há verbos de ligação (zero cópula). Há apenas três classes de palavras "predicados" (descrevem as coisas), "partículas" (dão função sintática aos predicados) e "determinantes" (especificam pessoa, número ou quantidade). 
+Lica é uma língua auxiliar de gramática simples combinando características de línguas criolas e línguas analíticas. Nenhuma palavra apresenta flexão, ou seja, as palavras são invariáveis quanto a gênero, número, grau, caso ou tempo verbal. Não há verbos de ligação (zero cópula). Há apenas três classes de palavras "predicados" (descrevem as coisas), "partículas" (modificam os predicados) e "determinantes" (especificam pessoa, número ou quantidade). 
 
 ### 1. Predicados 
 Toda palavra que é usada para descrever algo é considerado um predicado. Os predicados não se flexionam, nem apresentam número, gênero ou tempo verbal. 
