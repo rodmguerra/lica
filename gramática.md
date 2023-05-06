@@ -1,6 +1,6 @@
 # Gramática de Lica
 
-Lica é uma língua auxiliar de gramática simples combinando características de línguas criolas e línguas analíticas. Nenhuma palavra apresenta flexão, ou seja, as palavras são invariáveis quanto a gênero, número, grau, caso ou tempo verbal. Não há verbos de ligação (zero cópula). Há apenas três classes de palavras "predicados" (descrevem as coisas), "partículas" (dão função sintática aos predicados) e "determinadores" (especificam pessoa, número ou quantidade). 
+Lica é uma língua auxiliar de gramática simples combinando características de línguas criolas e línguas analíticas. Nenhuma palavra apresenta flexão, ou seja, as palavras são invariáveis quanto a gênero, número, grau, caso ou tempo verbal. Não há verbos de ligação (zero cópula). Há apenas três classes de palavras "predicados" (descrevem as coisas), "partículas" (dão função sintática aos predicados) e "determinantes" (especificam pessoa, número ou quantidade). 
 
 ### 1. Predicados 
 Toda palavra que é usada para descrever algo é considerado um predicado. Os predicados não se flexionam, nem apresentam número, gênero ou tempo verbal. 
@@ -14,7 +14,7 @@ Toda palavra que é usada para descrever algo é considerado um predicado. Os pr
 >  * __stude__ - estuda
 >  * __vive__ - vive, está vivo
 >  
-_Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinadores quantitativos._
+_Obs: Alguns predicados como "home" (homem, masculino) e "feme" ("mulher, "feminino") podem ser usados para explicitar o sexo caso seja uma informação importante. O número pode ser explicitado se necessário com determinantes quantitativos._
 
 #### 1.1 Intransitivo
 Predicados em sequência, desde que não tenham objeto direto ou indireto, podem ser colocados em qualquer ordem, ficando a critério do falante e se dá por questões de preferência, ênfase ou estilo.
@@ -177,9 +177,12 @@ Perguntas podem ser expressas usando o determinador interrogativo "ce":
 > * __Tu nate a tempu ce?__ - Quando você nasceu?
 > * __Tu a locu ce?__ - Onde você está?
 > * __Tu ce?__ - Quem é você?
-> * __Ce persona discoperi Brasil?__ - Quem descobriu o Brasil?
+> * __Persona ce discoper de Brasil?__ - Quem descobriu o Brasil?
+> * __Ce discoper de Brasil?__ - Quem descobriu o Brasil?
+> * __Brasil se discoper de ce?__ - Quem descobriu o Brasil?
 > * __Tu a anu ce?__ - Você tem quantos anos?
-> * __Custa ce?__ - Quanto custa?
+> * __Custa de ce?__ - Quanto custa?
+> * __Tu face de ce?__ - O que você está fazendo?
 
 Perguntas de "sim o não" exigem a terminação "o non".
 > * __Tu vo peti o non?__ - Gostaria de pedir?
@@ -225,7 +228,6 @@ A partícula "ca" indica proximidade e a partícula "la" indica distância. São
 > * __a va di se du__ - depois de amanhã
 > * __a ja mense se tres__ - há três meses
 > * __a va anu se dece__ - daqui a dez a nos
-> * __Mi vade a ja São Paulo a va Rio de Janeiro.__ - Estou indo de São Paulo ao Rio de Janeiro.
 
 
 #### 2.3. Expressando tempo em predicados
@@ -262,6 +264,8 @@ As partículas "ca", "la", "ja" e "va" podem ser usadas para expressar uma ideia
 > * __Mi a va de casa.__ - Estou em frente de casa. 
 > * __Ris a ca de fasiolu.__ - Arroz com feijão.
 > * __Fasiolu a non ca de ris.__ Arroz sem feijão.
+> * __Mi vade a ja de São Paulo a va de Rio de Janeiro.__ - Estou indo de São Paulo ao Rio de Janeiro.
+
 
 A posição pode ser expressada com predicados também.
 > * __Mi inter de casa.___ Estou dentro de casa
@@ -346,27 +350,26 @@ A mesura de [cosa] ta = "a medida que"
 > * __Tempu vade mesura de feme super de ta bel__ - A medida que o tempo passa, a mulher fica mais bela. O tempo indo é a medida para que a mulher fique mais bela
 
 
-### 4. Determinadores
+### 4. Determinantes
 
-#### 4.1 Determinadores de pessoa
-Os determinadores de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
+#### 4.1 Determinantes de pessoa
+Os determinantes de pessoa são os abaixo. Eles são usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados.
 > * __mi__ - eu
 > * __tu__ - você
 > * __nos__ - nós
 > * __vos__ - vocês
 
-Os determinadores de pessoa não invariáveis de gênero ou caso gramaticais, nem  diferenciam situações formais ou informais.
+Os determinantes de pessoa não invariáveis de gênero ou caso gramaticais, nem  diferenciam situações formais ou informais.
 > * __Mi ama tu.__ - Eu te amo.
 > * __Tu ama mi.__ - Você me ama.
 
-Não existem determinadores de terceira pessoa, pode-se repetir o predicado caso se deseje referir novamente a ele
+Não existem determinantes de terceira pessoa, pode-se repetir o predicado caso se deseje referir novamente a ele
 > * __Puer vole de ta posede de pupa de soror de puer.__ - A menina deseja possuir a boneca de sua irmâ.
 > * __Home vide de home a specle.__ - O homem se vê no espelho.
 > * __Home vide de home altre a fenestra.__ - O homem vê outro homem pela janela.
 
-
-#### 4.2. Determinadores de quantidade
-Os determinadores de quantidade são os abaixo. Eles são opcionais e devem se usados apenas quando houver uma necessidade explícita de expressar a quantidade. São usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados. 
+#### 4.2. Determinantes de quantidade
+Os determinantes de quantidade são os abaixo. Eles são opcionais e devem se usados apenas quando houver uma necessidade explícita de expressar a quantidade. São usados da mesma forma que os predicados, isoladamente ou acompanhando outros predicados. 
 > * __nul__ - nenhum, ninguém, nada, zero
 > * __un__ - um, alguém, alguma coisa
 > * __unes__ - uns, mais de um, alguns
@@ -381,8 +384,8 @@ Exemplos
 > * __Multi tenta ma non multi sucede.__ - Muitos tentam mas poucos conseguem.
 > * __Mi vide de multi puer a strata.__ - Eu vi muitos meninos na rua.
 
-#### 4.3. Determinadores de quantidade absolutos - numerais
-Os numerais também são determinadores de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade determinada.
+#### 4.3. Determinantes de quantidade absolutos - numerais
+Os numerais também são determinantes de quantidade, mas diferente de grande parte dos anteriores, representam uma quantidade determinada.
 > * 0 - __nul__
 > * 1 - __un__
 > * 2 - __du__
@@ -436,7 +439,7 @@ __Partículas__
 > * __ca__ (proximal), __la__ (distal), __ja__ (anterior), __va__ (posterior)
 > * __e__ (aditiva), __o__ (alternativa), __ma__ (adversativa), __ergo__ (conclusiva)
 
-__Determinadores__
+__Determinantes__
 
 > Pessoais
 > * __mi__, __nos__, __tu__, __vos__
