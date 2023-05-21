@@ -87,7 +87,7 @@ Obs: A inversão pode ocorrer mesmo em predicados com significado genitivo. Essa
 > * __Mi nate de Brasil.__ - Sou brasileiro.
 > * __Brasil se nate de mi.__ - Brasil é o meu país.
 
-#### 1.4. Objeto indireto (partícula "a")
+#### 1.4. Objeto indireto (partícula "da")
 Um predicado transitivo pode ter também um objeto indireto. Este é sempre precedido da particula "a". Os dois objetos podem ser usados um em sequência do outro, em qualquer ordem. Para evitar ambiguidade, pode-se repetir o predicado antes do segundo objeto, ou substituí-lo por um predicado transitivo direto que confira o mesmo sentido à frase.
 
 > * __Mi compra de libru da tu.__ - Comprei o livro de você.
