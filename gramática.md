@@ -148,12 +148,12 @@ Os predicados compostos com "vole", "solu", "pote", "debe" e "novu", quando segu
 > * __Tu solu de ta ama de feme juve de ta super (de tu) .__ = __Tu so ama de feme juve de ta super (de tu).__ - Você só ama mulheres mais jovens (que você).
 > * __Tu face de Petru ta mori .__ = __Tu fa mori de Petru .__ - Você matou o Pedro. (lit: Você faz o Pedro morrer)
 > * __Tu face de Mari ta ama de Joan.__ = __Tu fa ama de Mari da Joan.__ - Você faz Maria amar João.
-> * __persona se po ama.__ - Pessoa amável. (A pessoa pode ser amada.)
-> * __libru non se po intelige__ - Livro ininteligível. (O livro não pode ser entendido).
-> * __Plastic se po re usa__ - Plástico reutilisável. (O plástico pode ser usado de novo).
-> * __non se po re cogne__ - Irreconhecível.
-> * __non se po vide__ - visível.
-> * __se po ride__ - risível.
+> * __persona se po ama.__ - pessoa amável (a pessoa pode ser amada)
+> * __libru non se po intelige__ - livro ininteligível (O livro não pode ser entendido).
+> * __plastic se po re usa__ - plástico reutilisável (O plástico pode ser usado de novo).
+> * __non se po re cogne__ - irreconhecível
+> * __non se po vide__ - invisível
+> * __se po ride__ - risível
 
 ##### 1.6. Pedidos, instruções, ordens e desejos ("a ta ")
 O imperativo, usado para pedidos, instruções, ordens e desejos é formado com a "a ta", opcionalmente intercaldado com um pronome. A segunda pessoa é subentendida quando não está explícita. Nesse caso, pode-se omitir também a expressão "a ta".
