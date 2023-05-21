@@ -270,13 +270,13 @@ As partículas "ca", "la", "ja" e "va" podem ser usadas para expressar uma ideia
 
 A posição pode ser expressada com predicados também.
 > * __Mi inter de casa.___ Estou dentro de casa
-> * __Mi vade a inter de casa.___ Eu entro na casa.
+> * __Mi vade a inter de casa.__ Eu entro na casa.
 > * __Mi exter de casa.___ Estou fora de casa.
-> * __Mi vade a exter de casa.___ Eu saio da casa.
+> * __Mi vade a exter de casa.__ Eu saio da casa.
 > * __Mi super de casa.___ Estou em cima da casa.
-> * __Mi vade a super de casa.___ Eu subo na casa.
+> * __Mi vade a super de casa.__ Eu subo na casa.
 > * __Mi infer de casa.___ Estou em baixo da casa.
-> * __Mi vade a infer de casa.___ Eu vou para baixo da casa.
+> * __Mi vade a infer de casa.__ Eu vou para baixo da casa.
 > * __Mi vive a Sao Paulo.__ Eu vivo em são paulo
 > * __Mi guarda de libro a capsa.__ Eu guardo o livro na caixa.
 > * __Mi guarda de libro a inter de capsa.__ Eu guardo o livro dentro da caixa.
